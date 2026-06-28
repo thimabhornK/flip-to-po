@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+build/
+dist/
+.venv/
+venv/
+env/
+
+# Tooling
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Note: the synthetic dataset and eval results (data/synthetic/, eval/results.json,
+# eval/sweep.json) are intentionally committed so the repo is self-contained and
+# the README's numbers are visible and reproducible. Regenerate with `make data`.
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
