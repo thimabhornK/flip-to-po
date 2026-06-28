@@ -1,0 +1,44 @@
+[
+  {
+    "threshold": 0.8,
+    "auto_flip_rate": 0.55,
+    "auto_flip_precision": 0.9318,
+    "review_recall": 0.9118,
+    "incorrect_autoflip": 6
+  },
+  {
+    "threshold": 0.85,
+    "auto_flip_rate": 0.55,
+    "auto_flip_precision": 0.9318,
+    "review_recall": 0.9118,
+    "incorrect_autoflip": 6
+  },
+  {
+    "threshold": 0.9,
+    "auto_flip_rate": 0.5375,
+    "auto_flip_precision": 0.9419,
+    "review_recall": 0.9265,
+    "incorrect_autoflip": 5
+  },
+  {
+    "threshold": 0.93,
+    "auto_flip_rate": 0.4875,
+    "auto_flip_precision": 0.9359,
+    "review_recall": 0.9265,
+    "incorrect_autoflip": 5
+  },
+  {
+    "threshold": 0.95,
+    "auto_flip_rate": 0.4437,
+    "auto_flip_precision": 0.9437,
+    "review_recall": 0.9412,
+    "incorrect_autoflip": 4
+  },
+  {
+    "threshold": 0.98,
+    "auto_flip_rate": 0.4437,
+    "auto_flip_precision": 0.9437,
+    "review_recall": 0.9412,
+    "incorrect_autoflip": 4
+  }
+]
