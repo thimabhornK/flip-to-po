@@ -1,0 +1,5627 @@
+[
+  {
+    "pr": {
+      "pr_number": "PR-100000",
+      "requester": "user12",
+      "cost_center": "CC-1444",
+      "vendor_code": "V-00010",
+      "currency": "USD",
+      "attachment_path": "data/synthetic/attachments/PR-100000.txt",
+      "buyer_line_hints": [
+        "elbow 90deg x25",
+        "pressure gauge x1",
+        "gate valve x2"
+      ]
+    },
+    "truth": {
+      "vendor_code": "V-00010",
+      "currency": "USD",
+      "line_items": [
+        {
+          "material_code": "FIT-796414",
+          "description": "ELBOW 90DEG 2IN SCH40 CS",
+          "quantity": 25.0,
+          "unit": "EA",
+          "unit_price": 37.14,
+          "line_total": 928.5
+        },
+        {
+          "material_code": "INS-519894",
+          "description": "PRESSURE GAUGE 0-10BAR 2.5IN",
+          "quantity": 1.0,
+          "unit": "EA",
+          "unit_price": 137.12,
+          "line_total": 137.12
+        },
+        {
+          "material_code": "VLV-761259",
+          "description": "GATE VALVE 4IN 150LB SS304",
+          "quantity": 2.0,
+          "unit": "EA",
+          "unit_price": 89.61,
+          "line_total": 179.22
+        }
+      ]
+    }
+  },
+  {
+    "pr": {
+      "pr_number": "PR-100001",
+      "requester": "user11",
+      "cost_center": "CC-1174",
+      "vendor_code": "V-00007",
+      "currency": "USD",
+      "attachment_path": "data/synthetic/attachments/PR-100001.txt",
+      "buyer_line_hints": [
+        "cable tie x50"
+      ]
+    },
+    "truth": {
+      "vendor_code": "V-00007",
+      "currency": "USD",
+      "line_items": [
+        {
+          "material_code": "MRO-373799",
+          "description": "CABLE TIE CLEAR ANTIFOG",
+          "quantity": 50.0,
+          "unit": "BOX",
+          "unit_price": 22.49,
+          "line_total": 1124.5
+        }
+      ]
+    }
+  },
+  {
+    "pr": {
+      "pr_number": "PR-100002",
+      "requester": "user31",
+      "cost_center": "CC-1673",
+      "vendor_code": "V-00001",
+      "currency": "USD",
+      "attachment_path": "data/synthetic/attachments/PR-100002.txt",
+      "buyer_line_hints": [
+        "flow meter x100"
+      ]
+    },
+    "truth": {
+      "vendor_code": "V-00001",
+      "currency": "USD",
+      "line_items": [
+        {
+          "material_code": "INS-917857",
+          "description": "FLOW METER DN50 ELECTROMAG",
+          "quantity": 100.0,
+          "unit": "EA",
+          "unit_price": 188.9,
+          "line_total": 18890.0
+        }
+      ]
+    }
+  },
+  {
+    "pr": {
+      "pr_number": "PR-100003",
+      "requester": "user09",
+      "cost_center": "CC-1062",
+      "vendor_code": "V-00003",
+      "currency": "USD",
+      "attachment_path": "data/synthetic/attachments/PR-100003.txt",
+      "buyer_line_hints": [
+        "flow meter x5",
+        "globe valve x50",
+        "elbow 90deg x10"
+      ]
+    },
+    "truth": {
+      "vendor_code": "V-00003",
+      "currency": "USD",
+      "line_items": [
+        {
+          "material_code": "INS-231587",
+          "description": "FLOW METER DN50 ELECTROMAG",
+          "quantity": 5.0,
+          "unit": "EA",
+          "unit_price": 287.22,
+          "line_total": 1436.1
+        },
+        {
+          "material_code": "VLV-815131",
+          "description": "GLOBE VALVE 2IN 150LB CS",
+          "quantity": 50.0,
+          "unit": "EA",
+          "unit_price": 146.36,
+          "line_total": 7318.0
+        },
+        {
+          "material_code": "FIT-800675",
+          "description": "ELBOW 90DEG 1IN SCH40 CS",
+          "quantity": 10.0,
+          "unit": "EA",
+          "unit_price": 33.98,
+          "line_total": 339.8
+        }
+      ]
+    }
+  },
+  {
+    "pr": {
+      "pr_number": "PR-100004",
+      "requester": "user10",
+      "cost_center": "CC-1176",
+      "vendor_code": "V-00007",
+      "currency": "USD",
+      "attachment_path": "data/synthetic/attachments/PR-100004.txt",
+      "buyer_line_hints": [
+        "sulfuric acid x50",
+        "spiral wound x1"
+      ]
+    },
+    "truth": {
+      "vendor_code": "V-00007",
+      "currency": "USD",
+      "line_items": [
+        {
+          "material_code": "CHM-206393",
+          "description": "SULFURIC ACID GRANULAR 25KG",
+          "quantity": 50.0,
+          "unit": "KG",
+          "unit_price": 4.36,
+          "line_total": 218.0
+        },
+        {
+          "material_code": "GSK-490487",
+          "description": "SPIRAL WOUND GASKET 1.5IN 150LB PTFE",
+          "quantity": 1.0,
+          "unit": "EA",
+          "unit_price": 47.06,
+          "line_total": 47.06
+        }
+      ]
+    }
+  },
+  {
+    "pr": {
+      "pr_number": "PR-100005",
+      "requester": "user05",
+      "cost_center": "CC-1453",
+      "vendor_code": "V-00012",
+      "currency": "USD",
+      "attachment_path": "data/synthetic/attachments/PR-100005.txt",
+      "buyer_line_hints": [
+        "gate valve x1",
+        "cable tie x2",
+        "globe valve x2"
+      ]
+    },
+    "truth": {
+      "vendor_code": "V-00012",
+      "currency": "USD",
+      "line_items": [
+        {
+          "material_code": "VLV-251262",
+          "description": "GATE VALVE 1IN 600LB CS",
+          "quantity": 1.0,
+          "unit": "EA",
+          "unit_price": 144.54,
+          "line_total": 144.54
+        },
+        {
+          "material_code": "MRO-128356",
+          "description": "CABLE TIE L 100PCS",
+          "quantity": 2.0,
+          "unit": "BOX",
+          "unit_price": 29.05,
+          "line_total": 58.1
+        },
+        {
+          "material_code": "VLV-632084",
+          "description": "GLOBE VALVE 2IN 150LB CS",
+          "quantity": 2.0,
+          "unit": "EA",
+          "unit_price": 93.34,
+          "line_total": 186.68
+        }
+      ]
+    }
+  },
+  {
+    "pr": {
+      "pr_number": "PR-100006",
+      "requester": "user05",
+      "cost_center": "CC-1687",
+      "vendor_code": "V-00011",
+      "currency": "USD",
+      "attachment_path": "data/synthetic/attachments/PR-100006.txt",
+      "buyer_line_hints": [
+        "diaphragm pump x10",
+        "gear pump x10",
+        "safety goggles x100"
+      ]
+    },
+    "truth": {
+      "vendor_code": "V-00011",
+      "currency": "USD",
+      "line_items": [
+        {
+          "material_code": "PMP-343224",
+          "description": "DIAPHRAGM PUMP 5HP 50GPM",
+          "quantity": 10.0,
+          "unit": "EA",
+          "unit_price": 1563.13,
+          "line_total": 15631.3
+        },
+        {
+          "material_code": "PMP-535469",
+          "description": "GEAR PUMP 2HP 20GPM",
+          "quantity": 10.0,
+          "unit": "EA",
+          "unit_price": 3303.09,
+          "line_total": 33030.9
+        },
+        {
+          "material_code": "MRO-926696",
+          "description": "SAFETY GOGGLES CLEAR ANTIFOG",
+          "quantity": 100.0,
+          "unit": "BOX",
+          "unit_price": 31.48,
+          "line_total": 3148.0
+        }
+      ]
+    }
+  },
+  {
+    "pr": {
+      "pr_number": "PR-100007",
+      "requester": "user24",
+      "cost_center": "CC-1146",
+      "vendor_code": "V-00002",
+      "currency": "USD",
+      "attachment_path": "data/synthetic/attachments/PR-100007.txt",
+      "buyer_line_hints": [
+        "sulfuric acid x20"
+      ]
+    },
+    "truth": {
+      "vendor_code": "V-00002",
+      "currency": "USD",
+      "line_items": [
+        {
+          "material_code": "CHM-206393",
+          "description": "SULFURIC ACID GRANULAR 25KG",
+          "quantity": 20.0,
+          "unit": "KG",
+          "unit_price": 4.36,
+          "line_total": 87.2
+        }
+      ]
+    }
+  },
+  {
+    "pr": {
+      "pr_number": "PR-100008",
+      "requester": "user22",
+      "cost_center": "CC-1431",
+      "vendor_code": "V-00003",
+      "currency": "USD",
+      "attachment_path": "data/synthetic/attachments/PR-100008.txt",
+      "buyer_line_hints": [
+        "flat gasket x2",
+        "safety goggles x10"
+      ]
+    },
+    "truth": {
+      "vendor_code": "V-00003",
+      "currency": "USD",
+      "line_items": [
+        {
+          "material_code": "GSK-185831",
+          "description": "FLAT GASKET 3IN 300LB GRAPHITE",
+          "quantity": 2.0,
+          "unit": "EA",
+          "unit_price": 41.03,
+          "line_total": 82.06
+        },
+        {
+          "material_code": "MRO-926696",
+          "description": "SAFETY GOGGLES CLEAR ANTIFOG",
+          "quantity": 10.0,
+          "unit": "BOX",
+          "unit_price": 31.58,
+          "line_total": 315.8
+        }
+      ]
+    }
+  },
+  {
+    "pr": {
+      "pr_number": "PR-100009",
+      "requester": "user34",
+      "cost_center": "CC-1638",
+      "vendor_code": "V-00007",
+      "currency": "USD",
+      "attachment_path": "data/synthetic/attachments/PR-100009.txt",
+      "buyer_line_hints": [
+        "sulfuric acid x25"
+      ]
+    },
+    "truth": {
+      "vendor_code": "V-00007",
+      "currency": "USD",
+      "line_items": [
+        {
+          "material_code": "CHM-588625",
+          "description": "SULFURIC ACID 98PCT 30KG",
+          "quantity": 25.0,
+          "unit": "KG",
+          "unit_price": 6.02,
+          "line_total": 150.5
+        }
+      ]
+    }
+  },
+  {
+    "pr": {
+      "pr_number": "PR-100010",
+      "requester": "user03",
+      "cost_center": "CC-1927",
+      "vendor_code": "V-00002",
+      "currency": "USD",
+      "attachment_path": "data/synthetic/attachments/PR-100010.txt",
+      "buyer_line_hints": [
+        "cable tie x10"
+      ]
+    },
+    "truth": {
+      "vendor_code": "V-00002",
+      "currency": "USD",
+      "line_items": [
+        {
+          "material_code": "MRO-128356",
+          "description": "CABLE TIE L 100PCS",
+          "quantity": 10.0,
+          "unit": "BOX",
+          "unit_price": 29.06,
+          "line_total": 290.6
+        }
+      ]
+    }
+  },
+  {
+    "pr": {
+      "pr_number": "PR-100011",
+      "requester": "user35",
+      "cost_center": "CC-1941",
+      "vendor_code": "V-00006",
+      "currency": "USD",
+      "attachment_path": "data/synthetic/attachments/PR-100011.txt",
+      "buyer_line_hints": [
+        "cable tie x50"
+      ]
+    },
+    "truth": {
+      "vendor_code": "V-00006",
+      "currency": "USD",
+      "line_items": [
+        {
+          "material_code": "MRO-333615",
+          "description": "CABLE TIE CLEAR ANTIFOG",
+          "quantity": 50.0,
+          "unit": "BOX",
+          "unit_price": 27.59,
+          "line_total": 1379.5
+        }
+      ]
+    }
+  },
+  {
+    "pr": {
+      "pr_number": "PR-100012",
+      "requester": "user27",
+      "cost_center": "CC-1948",
+      "vendor_code": "V-00010",
+      "currency": "USD",
+      "attachment_path": "data/synthetic/attachments/PR-100012.txt",
+      "buyer_line_hints": [
+        "flange wn x2",
+        "gate valve x20",
+        "gate valve x10"
+      ]
+    },
+    "truth": {
+      "vendor_code": "V-00010",
+      "currency": "USD",
+      "line_items": [
+        {
+          "material_code": "FIT-723241",
+          "description": "FLANGE WN 1IN SCH40 CS",
+          "quantity": 2.0,
+          "unit": "EA",
+          "unit_price": 39.8,
+          "line_total": 79.6
+        },
+        {
+          "material_code": "VLV-545140",
+          "description": "GATE VALVE 2IN 150LB CS",
+          "quantity": 20.0,
+          "unit": "EA",
+          "unit_price": 186.57,
+          "line_total": 3731.4
+        },
+        {
+          "material_code": "VLV-761259",
+          "description": "GATE VALVE 4IN 150LB SS304",
+          "quantity": 10.0,
+          "unit": "EA",
+          "unit_price": 87.26,
+          "line_total": 872.6
+        }
+      ]
+    }
+  },
+  {
+    "pr": {
+      "pr_number": "PR-100013",
+      "requester": "user12",
+      "cost_center": "CC-1206",
+      "vendor_code": "V-00012",
+      "currency": "USD",
+      "attachment_path": "data/synthetic/attachments/PR-100013.txt",
+      "buyer_line_hints": [
+        "globe valve x10"
+      ]
+    },
+    "truth": {
+      "vendor_code": "V-00012",
+      "currency": "USD",
+      "line_items": [
+        {
+          "material_code": "VLV-632084",
+          "description": "GLOBE VALVE 2IN 150LB CS",
+          "quantity": 10.0,
+          "unit": "EA",
+          "unit_price": 93.72,
+          "line_total": 937.2
+        }
+      ]
+    }
+  },
+  {
+    "pr": {
+      "pr_number": "PR-100014",
+      "requester": "user28",
+      "cost_center": "CC-1672",
+      "vendor_code": "V-00006",
+      "currency": "USD",
+      "attachment_path": "data/synthetic/attachments/PR-100014.txt",
+      "buyer_line_hints": [
+        "safety goggles x10",
+        "elbow 90deg x1",
+        "diaphragm pump x10"
+      ]
+    },
+    "truth": {
+      "vendor_code": "V-00006",
+      "currency": "USD",
+      "line_items": [
+        {
+          "material_code": "MRO-601871",
+          "description": "SAFETY GOGGLES L 100PCS",
+          "quantity": 10.0,
+          "unit": "BOX",
+          "unit_price": 19.46,
+          "line_total": 194.6
+        },
+        {
+          "material_code": "FIT-796414",
+          "description": "ELBOW 90DEG 2IN SCH40 CS",
+          "quantity": 1.0,
+          "unit": "EA",
+          "unit_price": 37.85,
+          "line_total": 37.85
+        },
+        {
+          "material_code": "PMP-343224",
+          "description": "DIAPHRAGM PUMP 5HP 50GPM",
+          "quantity": 10.0,
+          "unit": "EA",
+          "unit_price": 1559.9,
+          "line_total": 15599.0
+        }
+      ]
+    }
+  },
+  {
+    "pr": {
+      "pr_number": "PR-100015",
+      "requester": "user25",
+      "cost_center": "CC-1891",
+      "vendor_code": "V-00008",
+      "currency": "USD",
+      "attachment_path": "data/synthetic/attachments/PR-100015.txt",
+      "buyer_line_hints": [
+        "reducer conc x10",
+        "sodium hydroxide x5",
+        "globe valve x1"
+      ]
+    },
+    "truth": {
+      "vendor_code": "V-00008",
+      "currency": "USD",
+      "line_items": [
+        {
+          "material_code": "FIT-958105",
+          "description": "REDUCER CONC 3IN SCH80 SS316",
+          "quantity": 10.0,
+          "unit": "EA",
+          "unit_price": 37.06,
+          "line_total": 370.6
+        },
+        {
+          "material_code": "CHM-228809",
+          "description": "SODIUM HYDROXIDE 98PCT 30KG",
+          "quantity": 5.0,
+          "unit": "KG",
+          "unit_price": 9.55,
+          "line_total": 47.75
+        },
+        {
+          "material_code": "VLV-815131",
+          "description": "GLOBE VALVE 2IN 150LB CS",
+          "quantity": 1.0,
+          "unit": "EA",
+          "unit_price": 150.54,
+          "line_total": 150.54
+        }
+      ]
+    }
+  },
+  {
+    "pr": {
+      "pr_number": "PR-100016",
+      "requester": "user01",
+      "cost_center": "CC-1093",
+      "vendor_code": "V-00006",
+      "currency": "USD",
+      "attachment_path": "data/synthetic/attachments/PR-100016.txt",
+      "buyer_line_hints": [
+        "flat gasket x20",
+        "elbow 90deg x25",
+        "elbow 90deg x5"
+      ]
+    },
+    "truth": {
+      "vendor_code": "V-00006",
+      "currency": "USD",
+      "line_items": [
+        {
+          "material_code": "GSK-460160",
+          "description": "FLAT GASKET 3IN 300LB GRAPHITE",
+          "quantity": 20.0,
+          "unit": "EA",
+          "unit_price": 34.24,
+          "line_total": 684.8
+        },
+        {
+          "material_code": "FIT-172103",
+          "description": "ELBOW 90DEG 3IN SCH80 SS316",
+          "quantity": 25.0,
+          "unit": "EA",
+          "unit_price": 31.7,
+          "line_total": 792.5
+        },
+        {
+          "material_code": "FIT-796414",
+          "description": "ELBOW 90DEG 2IN SCH40 CS",
+          "quantity": 5.0,
+          "unit": "EA",
+          "unit_price": 38.86,
+          "line_total": 194.3
+        }
+      ]
+    }
+  },
+  {
+    "pr": {
+      "pr_number": "PR-100017",
+      "requester": "user06",
+      "cost_center": "CC-1599",
+      "vendor_code": "V-00002",
+      "currency": "USD",
+      "attachment_path": "data/synthetic/attachments/PR-100017.txt",
+      "buyer_line_hints": [
+        "tee equal x1"
+      ]
+    },
+    "truth": {
+      "vendor_code": "V-00002",
+      "currency": "USD",
+      "line_items": [
+        {
+          "material_code": "FIT-472731",
+          "description": "TEE EQUAL 1IN SCH40 CS",
+          "quantity": 1.0,
+          "unit": "EA",
+          "unit_price": 22.5,
+          "line_total": 22.5
+        }
+      ]
+    }
+  },
+  {
+    "pr": {
+      "pr_number": "PR-100018",
+      "requester": "user06",
+      "cost_center": "CC-1031",
+      "vendor_code": "V-00003",
+      "currency": "USD",
+      "attachment_path": "data/synthetic/attachments/PR-100018.txt",
+      "buyer_line_hints": [
+        "sodium hydroxide x50",
+        "elbow 90deg x5",
+        "temp transmitter x1"
+      ]
+    },
+    "truth": {
+      "vendor_code": "V-00003",
+      "currency": "USD",
+      "line_items": [
+        {
+          "material_code": "CHM-228809",
+          "description": "SODIUM HYDROXIDE 98PCT 30KG",
+          "quantity": 50.0,
+          "unit": "KG",
+          "unit_price": 9.58,
+          "line_total": 479.0
+        },
+        {
+          "material_code": "FIT-800675",
+          "description": "ELBOW 90DEG 1IN SCH40 CS",
+          "quantity": 5.0,
+          "unit": "EA",
+          "unit_price": 33.39,
+          "line_total": 166.95
+        },
+        {
+          "material_code": "INS-375509",
+          "description": "TEMP TRANSMITTER 0-10BAR 2.5IN",
+          "quantity": 1.0,
+          "unit": "EA",
+          "unit_price": 149.73,
+          "line_total": 149.73
+        }
+      ]
+    }
+  },
+  {
+    "pr": {
+      "pr_number": "PR-100019",
+      "requester": "user16",
+      "cost_center": "CC-1501",
+      "vendor_code": "V-00007",
+      "currency": "USD",
+      "attachment_path": "data/synthetic/attachments/PR-100019.txt",
+      "buyer_line_hints": [
+        "reducer conc x100"
+      ]
+    },
+    "truth": {
+      "vendor_code": "V-00007",
+      "currency": "USD",
+      "line_items": [
+        {
+          "material_code": "FIT-801133",
+          "description": "REDUCER CONC 2IN SCH40 CS",
+          "quantity": 100.0,
+          "unit": "EA",
+          "unit_price": 43.36,
+          "line_total": 4336.0
+        }
+      ]
+    }
+  },
+  {
+    "pr": {
+      "pr_number": "PR-100020",
+      "requester": "user05",
+      "cost_center": "CC-1866",
+      "vendor_code": "V-00010",
+      "currency": "USD",
+      "attachment_path": "data/synthetic/attachments/PR-100020.txt",
+      "buyer_line_hints": [
+        "sodium hydroxide x2"
+      ]
+    },
+    "truth": {
+      "vendor_code": "V-00010",
+      "currency": "USD",
+      "line_items": [
+        {
+          "material_code": "CHM-251118",
+          "description": "SODIUM HYDROXIDE GRANULAR 25KG",
+          "quantity": 2.0,
+          "unit": "KG",
+          "unit_price": 6.02,
+          "line_total": 12.04
+        }
+      ]
+    }
+  },
+  {
+    "pr": {
+      "pr_number": "PR-100021",
+      "requester": "user19",
+      "cost_center": "CC-1785",
+      "vendor_code": "V-00005",
+      "currency": "USD",
+      "attachment_path": "data/synthetic/attachments/PR-100021.txt",
+      "buyer_line_hints": [
+        "sodium hydroxide x100"
+      ]
+    },
+    "truth": {
+      "vendor_code": "V-00005",
+      "currency": "USD",
+      "line_items": [
+        {
+          "material_code": "CHM-251118",
+          "description": "SODIUM HYDROXIDE GRANULAR 25KG",
+          "quantity": 100.0,
+          "unit": "KG",
+          "unit_price": 6.04,
+          "line_total": 604.0
+        }
+      ]
+    }
+  },
+  {
+    "pr": {
+      "pr_number": "PR-100022",
+      "requester": "user01",
+      "cost_center": "CC-1493",
+      "vendor_code": "V-00005",
+      "currency": "USD",
+      "attachment_path": "data/synthetic/attachments/PR-100022.txt",
+      "buyer_line_hints": [
+        "temp transmitter x5"
+      ]
+    },
+    "truth": {
+      "vendor_code": "V-00005",
+      "currency": "USD",
+      "line_items": [
+        {
+          "material_code": "INS-518359",
+          "description": "TEMP TRANSMITTER 0-10BAR 2.5IN",
+          "quantity": 5.0,
+          "unit": "EA",
+          "unit_price": 204.32,
+          "line_total": 1021.6
+        }
+      ]
+    }
+  },
+  {
+    "pr": {
+      "pr_number": "PR-100023",
+      "requester": "user29",
+      "cost_center": "CC-1275",
+      "vendor_code": "V-00006",
+      "currency": "USD",
+      "attachment_path": "data/synthetic/attachments/PR-100023.txt",
+      "buyer_line_hints": [
+        "gate valve x10",
+        "gear pump x100",
+        "gear pump x1"
+      ]
+    },
+    "truth": {
+      "vendor_code": "V-00006",
+      "currency": "USD",
+      "line_items": [
+        {
+          "material_code": "VLV-331821",
+          "description": "GATE VALVE 3IN 300LB SS316",
+          "quantity": 10.0,
+          "unit": "EA",
+          "unit_price": 115.04,
+          "line_total": 1150.4
+        },
+        {
+          "material_code": "PMP-243577",
+          "description": "GEAR PUMP 2HP 20GPM",
+          "quantity": 100.0,
+          "unit": "EA",
+          "unit_price": 2083.29,
+          "line_total": 208329.0
+        },
+        {
+          "material_code": "PMP-535469",
+          "description": "GEAR PUMP 2HP 20GPM",
+          "quantity": 1.0,
+          "unit": "EA",
+          "unit_price": 3276.76,
+          "line_total": 3276.76
+        }
+      ]
+    }
+  },
+  {
+    "pr": {
+      "pr_number": "PR-100024",
+      "requester": "user08",
+      "cost_center": "CC-1720",
+      "vendor_code": "V-00005",
+      "currency": "USD",
+      "attachment_path": "data/synthetic/attachments/PR-100024.txt",
+      "buyer_line_hints": [
+        "flow meter x2"
+      ]
+    },
+    "truth": {
+      "vendor_code": "V-00005",
+      "currency": "USD",
+      "line_items": [
+        {
+          "material_code": "INS-917857",
+          "description": "FLOW METER DN50 ELECTROMAG",
+          "quantity": 2.0,
+          "unit": "EA",
+          "unit_price": 189.62,
+          "line_total": 379.24
+        }
+      ]
+    }
+  },
+  {
+    "pr": {
+      "pr_number": "PR-100025",
+      "requester": "user08",
+      "cost_center": "CC-1860",
+      "vendor_code": "V-00010",
+      "currency": "USD",
+      "attachment_path": "data/synthetic/attachments/PR-100025.txt",
+      "buyer_line_hints": [
+        "tee equal x1",
+        "tee equal x20"
+      ]
+    },
+    "truth": {
+      "vendor_code": "V-00010",
+      "currency": "USD",
+      "line_items": [
+        {
+          "material_code": "FIT-472731",
+          "description": "TEE EQUAL 1IN SCH40 CS",
+          "quantity": 1.0,
+          "unit": "EA",
+          "unit_price": 22.65,
+          "line_total": 22.65
+        },
+        {
+          "material_code": "FIT-472731",
+          "description": "TEE EQUAL 1IN SCH40 CS",
+          "quantity": 20.0,
+          "unit": "EA",
+          "unit_price": 22.53,
+          "line_total": 450.6
+        }
+      ]
+    }
+  },
+  {
+    "pr": {
+      "pr_number": "PR-100026",
+      "requester": "user28",
+      "cost_center": "CC-1773",
+      "vendor_code": "V-00007",
+      "currency": "USD",
+      "attachment_path": "data/synthetic/attachments/PR-100026.txt",
+      "buyer_line_hints": [
+        "safety goggles x50",
+        "spiral wound x25"
+      ]
+    },
+    "truth": {
+      "vendor_code": "V-00007",
+      "currency": "USD",
+      "line_items": [
+        {
+          "material_code": "MRO-926696",
+          "description": "SAFETY GOGGLES CLEAR ANTIFOG",
+          "quantity": 50.0,
+          "unit": "BOX",
+          "unit_price": 31.73,
+          "line_total": 1586.5
+        },
+        {
+          "material_code": "GSK-176756",
+          "description": "SPIRAL WOUND GASKET 1.5IN 150LB PTFE",
+          "quantity": 25.0,
+          "unit": "EA",
+          "unit_price": 38.5,
+          "line_total": 962.5
+        }
+      ]
+    }
+  },
+  {
+    "pr": {
+      "pr_number": "PR-100027",
+      "requester": "user36",
+      "cost_center": "CC-1562",
+      "vendor_code": "V-00001",
+      "currency": "USD",
+      "attachment_path": "data/synthetic/attachments/PR-100027.txt",
+      "buyer_line_hints": [
+        "gate valve x1",
+        "gear pump x25"
+      ]
+    },
+    "truth": {
+      "vendor_code": "V-00001",
+      "currency": "USD",
+      "line_items": [
+        {
+          "material_code": "VLV-331821",
+          "description": "GATE VALVE 3IN 300LB SS316",
+          "quantity": 1.0,
+          "unit": "EA",
+          "unit_price": 115.03,
+          "line_total": 115.03
+        },
+        {
+          "material_code": "PMP-517225",
+          "description": "GEAR PUMP 10HP 120GPM",
+          "quantity": 25.0,
+          "unit": "EA",
+          "unit_price": 1697.4,
+          "line_total": 42435.0
+        }
+      ]
+    }
+  },
+  {
+    "pr": {
+      "pr_number": "PR-100028",
+      "requester": "user19",
+      "cost_center": "CC-1497",
+      "vendor_code": "V-00002",
+      "currency": "USD",
+      "attachment_path": "data/synthetic/attachments/PR-100028.txt",
+      "buyer_line_hints": [
+        "sulfuric acid x50"
+      ]
+    },
+    "truth": {
+      "vendor_code": "V-00002",
+      "currency": "USD",
+      "line_items": [
+        {
+          "material_code": "CHM-588625",
+          "description": "SULFURIC ACID 98PCT 30KG",
+          "quantity": 50.0,
+          "unit": "KG",
+          "unit_price": 5.89,
+          "line_total": 294.5
+        }
+      ]
+    }
+  },
+  {
+    "pr": {
+      "pr_number": "PR-100029",
+      "requester": "user17",
+      "cost_center": "CC-1415",
+      "vendor_code": "V-00011",
+      "currency": "USD",
+      "attachment_path": "data/synthetic/attachments/PR-100029.txt",
+      "buyer_line_hints": [
+        "spiral wound x100"
+      ]
+    },
+    "truth": {
+      "vendor_code": "V-00011",
+      "currency": "USD",
+      "line_items": [
+        {
+          "material_code": "GSK-691783",
+          "description": "SPIRAL WOUND GASKET 1.5IN 150LB PTFE",
+          "quantity": 100.0,
+          "unit": "EA",
+          "unit_price": 30.92,
+          "line_total": 3092.0
+        }
+      ]
+    }
+  },
+  {
+    "pr": {
+      "pr_number": "PR-100030",
+      "requester": "user29",
+      "cost_center": "CC-1437",
+      "vendor_code": "V-00006",
+      "currency": "USD",
+      "attachment_path": "data/synthetic/attachments/PR-100030.txt",
+      "buyer_line_hints": [
+        "flow meter x50",
+        "diaphragm pump x100"
+      ]
+    },
+    "truth": {
+      "vendor_code": "V-00006",
+      "currency": "USD",
+      "line_items": [
+        {
+          "material_code": "INS-231587",
+          "description": "FLOW METER DN50 ELECTROMAG",
+          "quantity": 50.0,
+          "unit": "EA",
+          "unit_price": 280.34,
+          "line_total": 14017.0
+        },
+        {
+          "material_code": "PMP-343224",
+          "description": "DIAPHRAGM PUMP 5HP 50GPM",
+          "quantity": 100.0,
+          "unit": "EA",
+          "unit_price": 1563.14,
+          "line_total": 156314.0
+        }
+      ]
+    }
+  },
+  {
+    "pr": {
+      "pr_number": "PR-100031",
+      "requester": "user17",
+      "cost_center": "CC-1828",
+      "vendor_code": "V-00005",
+      "currency": "USD",
+      "attachment_path": "data/synthetic/attachments/PR-100031.txt",
+      "buyer_line_hints": [
+        "gate valve x5"
+      ]
+    },
+    "truth": {
+      "vendor_code": "V-00005",
+      "currency": "USD",
+      "line_items": [
+        {
+          "material_code": "VLV-761259",
+          "description": "GATE VALVE 4IN 150LB SS304",
+          "quantity": 5.0,
+          "unit": "EA",
+          "unit_price": 88.99,
+          "line_total": 444.95
+        }
+      ]
+    }
+  },
+  {
+    "pr": {
+      "pr_number": "PR-100032",
+      "requester": "user14",
+      "cost_center": "CC-1094",
+      "vendor_code": "V-00001",
+      "currency": "USD",
+      "attachment_path": "data/synthetic/attachments/PR-100032.txt",
+      "buyer_line_hints": [
+        "nitrile gloves x50",
+        "flange wn x25",
+        "flange wn x5"
+      ]
+    },
+    "truth": {
+      "vendor_code": "V-00001",
+      "currency": "USD",
+      "line_items": [
+        {
+          "material_code": "MRO-472834",
+          "description": "NITRILE GLOVES L 100PCS",
+          "quantity": 50.0,
+          "unit": "BOX",
+          "unit_price": 31.12,
+          "line_total": 1556.0
+        },
+        {
+          "material_code": "FIT-259367",
+          "description": "FLANGE WN 3IN SCH80 SS316",
+          "quantity": 25.0,
+          "unit": "EA",
+          "unit_price": 20.59,
+          "line_total": 514.75
+        },
+        {
+          "material_code": "FIT-424646",
+          "description": "FLANGE WN 3IN SCH80 SS316",
+          "quantity": 5.0,
+          "unit": "EA",
+          "unit_price": 37.67,
+          "line_total": 188.35
+        }
+      ]
+    }
+  },
+  {
+    "pr": {
+      "pr_number": "PR-100033",
+      "requester": "user05",
+      "cost_center": "CC-1400",
+      "vendor_code": "V-00005",
+      "currency": "USD",
+      "attachment_path": "data/synthetic/attachments/PR-100033.txt",
+      "buyer_line_hints": [
+        "tee equal x100",
+        "gate valve x5"
+      ]
+    },
+    "truth": {
+      "vendor_code": "V-00005",
+      "currency": "USD",
+      "line_items": [
+        {
+          "material_code": "FIT-472731",
+          "description": "TEE EQUAL 1IN SCH40 CS",
+          "quantity": 100.0,
+          "unit": "EA",
+          "unit_price": 22.51,
+          "line_total": 2251.0
+        },
+        {
+          "material_code": "VLV-661913",
+          "description": "GATE VALVE 1IN 600LB CS",
+          "quantity": 5.0,
+          "unit": "EA",
+          "unit_price": 144.14,
+          "line_total": 720.7
+        }
+      ]
+    }
+  },
+  {
+    "pr": {
+      "pr_number": "PR-100034",
+      "requester": "user30",
+      "cost_center": "CC-1087",
+      "vendor_code": "V-00011",
+      "currency": "USD",
+      "attachment_path": "data/synthetic/attachments/PR-100034.txt",
+      "buyer_line_hints": [
+        "gear pump x10",
+        "activated carbon x2"
+      ]
+    },
+    "truth": {
+      "vendor_code": "V-00011",
+      "currency": "USD",
+      "line_items": [
+        {
+          "material_code": "PMP-571007",
+          "description": "GEAR PUMP 2HP 20GPM",
+          "quantity": 10.0,
+          "unit": "EA",
+          "unit_price": 2084.35,
+          "line_total": 20843.5
+        },
+        {
+          "material_code": "CHM-318054",
+          "description": "ACTIVATED CARBON 98PCT 30KG",
+          "quantity": 2.0,
+          "unit": "KG",
+          "unit_price": 5.01,
+          "line_total": 10.02
+        }
+      ]
+    }
+  },
+  {
+    "pr": {
+      "pr_number": "PR-100035",
+      "requester": "user20",
+      "cost_center": "CC-1985",
+      "vendor_code": "V-00001",
+      "currency": "USD",
+      "attachment_path": "data/synthetic/attachments/PR-100035.txt",
+      "buyer_line_hints": [
+        "cable tie x5"
+      ]
+    },
+    "truth": {
+      "vendor_code": "V-00001",
+      "currency": "USD",
+      "line_items": [
+        {
+          "material_code": "MRO-128356",
+          "description": "CABLE TIE L 100PCS",
+          "quantity": 5.0,
+          "unit": "BOX",
+          "unit_price": 29.3,
+          "line_total": 146.5
+        }
+      ]
+    }
+  },
+  {
+    "pr": {
+      "pr_number": "PR-100036",
+      "requester": "user16",
+      "cost_center": "CC-1486",
+      "vendor_code": "V-00006",
+      "currency": "USD",
+      "attachment_path": "data/synthetic/attachments/PR-100036.txt",
+      "buyer_line_hints": [
+        "temp transmitter x50",
+        "temp transmitter x10",
+        "check valve x20"
+      ]
+    },
+    "truth": {
+      "vendor_code": "V-00006",
+      "currency": "USD",
+      "line_items": [
+        {
+          "material_code": "INS-318904",
+          "description": "TEMP TRANSMITTER 0-10BAR 2.5IN",
+          "quantity": 50.0,
+          "unit": "EA",
+          "unit_price": 143.25,
+          "line_total": 7162.5
+        },
+        {
+          "material_code": "INS-375509",
+          "description": "TEMP TRANSMITTER 0-10BAR 2.5IN",
+          "quantity": 10.0,
+          "unit": "EA",
+          "unit_price": 149.19,
+          "line_total": 1491.9
+        },
+        {
+          "material_code": "VLV-258176",
+          "description": "CHECK VALVE 2IN 150LB CS",
+          "quantity": 20.0,
+          "unit": "EA",
+          "unit_price": 91.62,
+          "line_total": 1832.4
+        }
+      ]
+    }
+  },
+  {
+    "pr": {
+      "pr_number": "PR-100037",
+      "requester": "user32",
+      "cost_center": "CC-1906",
+      "vendor_code": "V-00011",
+      "currency": "USD",
+      "attachment_path": "data/synthetic/attachments/PR-100037.txt",
+      "buyer_line_hints": [
+        "gate valve x50"
+      ]
+    },
+    "truth": {
+      "vendor_code": "V-00011",
+      "currency": "USD",
+      "line_items": [
+        {
+          "material_code": "VLV-661913",
+          "description": "GATE VALVE 1IN 600LB CS",
+          "quantity": 50.0,
+          "unit": "EA",
+          "unit_price": 146.66,
+          "line_total": 7333.0
+        }
+      ]
+    }
+  },
+  {
+    "pr": {
+      "pr_number": "PR-100038",
+      "requester": "user03",
+      "cost_center": "CC-1712",
+      "vendor_code": "V-00008",
+      "currency": "USD",
+      "attachment_path": "data/synthetic/attachments/PR-100038.txt",
+      "buyer_line_hints": [
+        "spiral wound x10"
+      ]
+    },
+    "truth": {
+      "vendor_code": "V-00008",
+      "currency": "USD",
+      "line_items": [
+        {
+          "material_code": "GSK-176756",
+          "description": "SPIRAL WOUND GASKET 1.5IN 150LB PTFE",
+          "quantity": 10.0,
+          "unit": "EA",
+          "unit_price": 37.83,
+          "line_total": 378.3
+        }
+      ]
+    }
+  },
+  {
+    "pr": {
+      "pr_number": "PR-100039",
+      "requester": "user15",
+      "cost_center": "CC-1476",
+      "vendor_code": "V-00008",
+      "currency": "USD",
+      "attachment_path": "data/synthetic/attachments/PR-100039.txt",
+      "buyer_line_hints": [
+        "activated carbon x50",
+        "spiral wound x100"
+      ]
+    },
+    "truth": {
+      "vendor_code": "V-00008",
+      "currency": "USD",
+      "line_items": [
+        {
+          "material_code": "CHM-318054",
+          "description": "ACTIVATED CARBON 98PCT 30KG",
+          "quantity": 50.0,
+          "unit": "KG",
+          "unit_price": 5.01,
+          "line_total": 250.5
+        },
+        {
+          "material_code": "GSK-360494",
+          "description": "SPIRAL WOUND GASKET 1.5IN 150LB PTFE",
+          "quantity": 100.0,
+          "unit": "EA",
+          "unit_price": 48.97,
+          "line_total": 4897.0
+        }
+      ]
+    }
+  },
+  {
+    "pr": {
+      "pr_number": "PR-100040",
+      "requester": "user04",
+      "cost_center": "CC-1971",
+      "vendor_code": "V-00006",
+      "currency": "USD",
+      "attachment_path": "data/synthetic/attachments/PR-100040.txt",
+      "buyer_line_hints": [
+        "pressure gauge x100"
+      ]
+    },
+    "truth": {
+      "vendor_code": "V-00006",
+      "currency": "USD",
+      "line_items": [
+        {
+          "material_code": "INS-519894",
+          "description": "PRESSURE GAUGE 0-10BAR 2.5IN",
+          "quantity": 100.0,
+          "unit": "EA",
+          "unit_price": 137.45,
+          "line_total": 13745.0
+        }
+      ]
+    }
+  },
+  {
+    "pr": {
+      "pr_number": "PR-100041",
+      "requester": "user04",
+      "cost_center": "CC-1188",
+      "vendor_code": "V-00008",
+      "currency": "USD",
+      "attachment_path": "data/synthetic/attachments/PR-100041.txt",
+      "buyer_line_hints": [
+        "spiral wound x1"
+      ]
+    },
+    "truth": {
+      "vendor_code": "V-00008",
+      "currency": "USD",
+      "line_items": [
+        {
+          "material_code": "GSK-360494",
+          "description": "SPIRAL WOUND GASKET 1.5IN 150LB PTFE",
+          "quantity": 1.0,
+          "unit": "EA",
+          "unit_price": 48.88,
+          "line_total": 48.88
+        }
+      ]
+    }
+  },
+  {
+    "pr": {
+      "pr_number": "PR-100042",
+      "requester": "user14",
+      "cost_center": "CC-1389",
+      "vendor_code": "V-00007",
+      "currency": "USD",
+      "attachment_path": "data/synthetic/attachments/PR-100042.txt",
+      "buyer_line_hints": [
+        "gate valve x2",
+        "temp transmitter x100",
+        "spiral wound x2"
+      ]
+    },
+    "truth": {
+      "vendor_code": "V-00007",
+      "currency": "USD",
+      "line_items": [
+        {
+          "material_code": "VLV-251262",
+          "description": "GATE VALVE 1IN 600LB CS",
+          "quantity": 2.0,
+          "unit": "EA",
+          "unit_price": 144.26,
+          "line_total": 288.52
+        },
+        {
+          "material_code": "INS-375509",
+          "description": "TEMP TRANSMITTER 0-10BAR 2.5IN",
+          "quantity": 100.0,
+          "unit": "EA",
+          "unit_price": 145.98,
+          "line_total": 14598.0
+        },
+        {
+          "material_code": "GSK-691783",
+          "description": "SPIRAL WOUND GASKET 1.5IN 150LB PTFE",
+          "quantity": 2.0,
+          "unit": "EA",
+          "unit_price": 31.63,
+          "line_total": 63.26
+        }
+      ]
+    }
+  },
+  {
+    "pr": {
+      "pr_number": "PR-100043",
+      "requester": "user27",
+      "cost_center": "CC-1253",
+      "vendor_code": "V-00006",
+      "currency": "USD",
+      "attachment_path": "data/synthetic/attachments/PR-100043.txt",
+      "buyer_line_hints": [
+        "gate valve x1",
+        "gear pump x10"
+      ]
+    },
+    "truth": {
+      "vendor_code": "V-00006",
+      "currency": "USD",
+      "line_items": [
+        {
+          "material_code": "VLV-761259",
+          "description": "GATE VALVE 4IN 150LB SS304",
+          "quantity": 1.0,
+          "unit": "EA",
+          "unit_price": 89.09,
+          "line_total": 89.09
+        },
+        {
+          "material_code": "PMP-571007",
+          "description": "GEAR PUMP 2HP 20GPM",
+          "quantity": 10.0,
+          "unit": "EA",
+          "unit_price": 2095.08,
+          "line_total": 20950.8
+        }
+      ]
+    }
+  },
+  {
+    "pr": {
+      "pr_number": "PR-100044",
+      "requester": "user13",
+      "cost_center": "CC-1765",
+      "vendor_code": "V-00008",
+      "currency": "USD",
+      "attachment_path": "data/synthetic/attachments/PR-100044.txt",
+      "buyer_line_hints": [
+        "reducer conc x1"
+      ]
+    },
+    "truth": {
+      "vendor_code": "V-00008",
+      "currency": "USD",
+      "line_items": [
+        {
+          "material_code": "FIT-801133",
+          "description": "REDUCER CONC 2IN SCH40 CS",
+          "quantity": 1.0,
+          "unit": "EA",
+          "unit_price": 43.43,
+          "line_total": 43.43
+        }
+      ]
+    }
+  },
+  {
+    "pr": {
+      "pr_number": "PR-100045",
+      "requester": "user05",
+      "cost_center": "CC-1024",
+      "vendor_code": "V-00012",
+      "currency": "USD",
+      "attachment_path": "data/synthetic/attachments/PR-100045.txt",
+      "buyer_line_hints": [
+        "flange wn x20",
+        "sodium hydroxide x25"
+      ]
+    },
+    "truth": {
+      "vendor_code": "V-00012",
+      "currency": "USD",
+      "line_items": [
+        {
+          "material_code": "FIT-424646",
+          "description": "FLANGE WN 3IN SCH80 SS316",
+          "quantity": 20.0,
+          "unit": "EA",
+          "unit_price": 37.83,
+          "line_total": 756.6
+        },
+        {
+          "material_code": "CHM-251118",
+          "description": "SODIUM HYDROXIDE GRANULAR 25KG",
+          "quantity": 25.0,
+          "unit": "KG",
+          "unit_price": 6.04,
+          "line_total": 151.0
+        }
+      ]
+    }
+  },
+  {
+    "pr": {
+      "pr_number": "PR-100046",
+      "requester": "user20",
+      "cost_center": "CC-1842",
+      "vendor_code": "V-00002",
+      "currency": "USD",
+      "attachment_path": "data/synthetic/attachments/PR-100046.txt",
+      "buyer_line_hints": [
+        "sodium hydroxide x100",
+        "gear pump x100"
+      ]
+    },
+    "truth": {
+      "vendor_code": "V-00002",
+      "currency": "USD",
+      "line_items": [
+        {
+          "material_code": "CHM-228809",
+          "description": "SODIUM HYDROXIDE 98PCT 30KG",
+          "quantity": 100.0,
+          "unit": "KG",
+          "unit_price": 9.55,
+          "line_total": 955.0
+        },
+        {
+          "material_code": "PMP-517225",
+          "description": "GEAR PUMP 10HP 120GPM",
+          "quantity": 100.0,
+          "unit": "EA",
+          "unit_price": 1699.49,
+          "line_total": 169949.0
+        }
+      ]
+    }
+  },
+  {
+    "pr": {
+      "pr_number": "PR-100047",
+      "requester": "user11",
+      "cost_center": "CC-1436",
+      "vendor_code": "V-00003",
+      "currency": "USD",
+      "attachment_path": "data/synthetic/attachments/PR-100047.txt",
+      "buyer_line_hints": [
+        "flat gasket x25",
+        "temp transmitter x2",
+        "gear pump x2"
+      ]
+    },
+    "truth": {
+      "vendor_code": "V-00003",
+      "currency": "USD",
+      "line_items": [
+        {
+          "material_code": "GSK-460160",
+          "description": "FLAT GASKET 3IN 300LB GRAPHITE",
+          "quantity": 25.0,
+          "unit": "EA",
+          "unit_price": 33.56,
+          "line_total": 839.0
+        },
+        {
+          "material_code": "INS-518359",
+          "description": "TEMP TRANSMITTER 0-10BAR 2.5IN",
+          "quantity": 2.0,
+          "unit": "EA",
+          "unit_price": 203.79,
+          "line_total": 407.58
+        },
+        {
+          "material_code": "PMP-328807",
+          "description": "GEAR PUMP 5HP 50GPM",
+          "quantity": 2.0,
+          "unit": "EA",
+          "unit_price": 3001.41,
+          "line_total": 6002.82
+        }
+      ]
+    }
+  },
+  {
+    "pr": {
+      "pr_number": "PR-100048",
+      "requester": "user16",
+      "cost_center": "CC-1765",
+      "vendor_code": "V-00002",
+      "currency": "USD",
+      "attachment_path": "data/synthetic/attachments/PR-100048.txt",
+      "buyer_line_hints": [
+        "pressure gauge x2",
+        "gear pump x5"
+      ]
+    },
+    "truth": {
+      "vendor_code": "V-00002",
+      "currency": "USD",
+      "line_items": [
+        {
+          "material_code": "INS-519894",
+          "description": "PRESSURE GAUGE 0-10BAR 2.5IN",
+          "quantity": 2.0,
+          "unit": "EA",
+          "unit_price": 136.8,
+          "line_total": 273.6
+        },
+        {
+          "material_code": "PMP-571007",
+          "description": "GEAR PUMP 2HP 20GPM",
+          "quantity": 5.0,
+          "unit": "EA",
+          "unit_price": 2088.38,
+          "line_total": 10441.9
+        }
+      ]
+    }
+  },
+  {
+    "pr": {
+      "pr_number": "PR-100049",
+      "requester": "user38",
+      "cost_center": "CC-1192",
+      "vendor_code": "V-00002",
+      "currency": "USD",
+      "attachment_path": "data/synthetic/attachments/PR-100049.txt",
+      "buyer_line_hints": [
+        "elbow 90deg x20",
+        "gear pump x10"
+      ]
+    },
+    "truth": {
+      "vendor_code": "V-00002",
+      "currency": "USD",
+      "line_items": [
+        {
+          "material_code": "FIT-800675",
+          "description": "ELBOW 90DEG 1IN SCH40 CS",
+          "quantity": 20.0,
+          "unit": "EA",
+          "unit_price": 34.0,
+          "line_total": 680.0
+        },
+        {
+          "material_code": "PMP-571007",
+          "description": "GEAR PUMP 2HP 20GPM",
+          "quantity": 10.0,
+          "unit": "EA",
+          "unit_price": 2084.59,
+          "line_total": 20845.9
+        }
+      ]
+    }
+  },
+  {
+    "pr": {
+      "pr_number": "PR-100050",
+      "requester": "user15",
+      "cost_center": "CC-1122",
+      "vendor_code": "V-00008",
+      "currency": "USD",
+      "attachment_path": "data/synthetic/attachments/PR-100050.txt",
+      "buyer_line_hints": [
+        "flat gasket x10",
+        "globe valve x2"
+      ]
+    },
+    "truth": {
+      "vendor_code": "V-00008",
+      "currency": "USD",
+      "line_items": [
+        {
+          "material_code": "GSK-460160",
+          "description": "FLAT GASKET 3IN 300LB GRAPHITE",
+          "quantity": 10.0,
+          "unit": "EA",
+          "unit_price": 33.44,
+          "line_total": 334.4
+        },
+        {
+          "material_code": "VLV-632084",
+          "description": "GLOBE VALVE 2IN 150LB CS",
+          "quantity": 2.0,
+          "unit": "EA",
+          "unit_price": 90.88,
+          "line_total": 181.76
+        }
+      ]
+    }
+  },
+  {
+    "pr": {
+      "pr_number": "PR-100051",
+      "requester": "user17",
+      "cost_center": "CC-1039",
+      "vendor_code": "V-00012",
+      "currency": "USD",
+      "attachment_path": "data/synthetic/attachments/PR-100051.txt",
+      "buyer_line_hints": [
+        "flat gasket x2",
+        "spiral wound x1",
+        "spiral wound x1"
+      ]
+    },
+    "truth": {
+      "vendor_code": "V-00012",
+      "currency": "USD",
+      "line_items": [
+        {
+          "material_code": "GSK-588218",
+          "description": "FLAT GASKET 3IN 300LB GRAPHITE",
+          "quantity": 2.0,
+          "unit": "EA",
+          "unit_price": 36.02,
+          "line_total": 72.04
+        },
+        {
+          "material_code": "GSK-176756",
+          "description": "SPIRAL WOUND GASKET 1.5IN 150LB PTFE",
+          "quantity": 1.0,
+          "unit": "EA",
+          "unit_price": 37.71,
+          "line_total": 37.71
+        },
+        {
+          "material_code": "GSK-360494",
+          "description": "SPIRAL WOUND GASKET 1.5IN 150LB PTFE",
+          "quantity": 1.0,
+          "unit": "EA",
+          "unit_price": 48.88,
+          "line_total": 48.88
+        }
+      ]
+    }
+  },
+  {
+    "pr": {
+      "pr_number": "PR-100052",
+      "requester": "user05",
+      "cost_center": "CC-1208",
+      "vendor_code": "V-00005",
+      "currency": "USD",
+      "attachment_path": "data/synthetic/attachments/PR-100052.txt",
+      "buyer_line_hints": [
+        "cable tie x25"
+      ]
+    },
+    "truth": {
+      "vendor_code": "V-00005",
+      "currency": "USD",
+      "line_items": [
+        {
+          "material_code": "MRO-333615",
+          "description": "CABLE TIE CLEAR ANTIFOG",
+          "quantity": 25.0,
+          "unit": "BOX",
+          "unit_price": 27.5,
+          "line_total": 687.5
+        }
+      ]
+    }
+  },
+  {
+    "pr": {
+      "pr_number": "PR-100053",
+      "requester": "user27",
+      "cost_center": "CC-1426",
+      "vendor_code": "V-00009",
+      "currency": "USD",
+      "attachment_path": "data/synthetic/attachments/PR-100053.txt",
+      "buyer_line_hints": [
+        "gear pump x2",
+        "spiral wound x2",
+        "elbow 90deg x20"
+      ]
+    },
+    "truth": {
+      "vendor_code": "V-00009",
+      "currency": "USD",
+      "line_items": [
+        {
+          "material_code": "PMP-535469",
+          "description": "GEAR PUMP 2HP 20GPM",
+          "quantity": 2.0,
+          "unit": "EA",
+          "unit_price": 3300.44,
+          "line_total": 6600.88
+        },
+        {
+          "material_code": "GSK-490487",
+          "description": "SPIRAL WOUND GASKET 1.5IN 150LB PTFE",
+          "quantity": 2.0,
+          "unit": "EA",
+          "unit_price": 46.88,
+          "line_total": 93.76
+        },
+        {
+          "material_code": "FIT-800675",
+          "description": "ELBOW 90DEG 1IN SCH40 CS",
+          "quantity": 20.0,
+          "unit": "EA",
+          "unit_price": 33.89,
+          "line_total": 677.8
+        }
+      ]
+    }
+  },
+  {
+    "pr": {
+      "pr_number": "PR-100054",
+      "requester": "user10",
+      "cost_center": "CC-1656",
+      "vendor_code": "V-00009",
+      "currency": "USD",
+      "attachment_path": "data/synthetic/attachments/PR-100054.txt",
+      "buyer_line_hints": [
+        "flat gasket x50",
+        "spiral wound x50",
+        "flange wn x100"
+      ]
+    },
+    "truth": {
+      "vendor_code": "V-00009",
+      "currency": "USD",
+      "line_items": [
+        {
+          "material_code": "GSK-588218",
+          "description": "FLAT GASKET 3IN 300LB GRAPHITE",
+          "quantity": 50.0,
+          "unit": "EA",
+          "unit_price": 35.78,
+          "line_total": 1789.0
+        },
+        {
+          "material_code": "GSK-691783",
+          "description": "SPIRAL WOUND GASKET 1.5IN 150LB PTFE",
+          "quantity": 50.0,
+          "unit": "EA",
+          "unit_price": 30.86,
+          "line_total": 1543.0
+        },
+        {
+          "material_code": "FIT-424646",
+          "description": "FLANGE WN 3IN SCH80 SS316",
+          "quantity": 100.0,
+          "unit": "EA",
+          "unit_price": 37.52,
+          "line_total": 3752.0
+        }
+      ]
+    }
+  },
+  {
+    "pr": {
+      "pr_number": "PR-100055",
+      "requester": "user11",
+      "cost_center": "CC-1533",
+      "vendor_code": "V-00008",
+      "currency": "USD",
+      "attachment_path": "data/synthetic/attachments/PR-100055.txt",
+      "buyer_line_hints": [
+        "flow meter x25"
+      ]
+    },
+    "truth": {
+      "vendor_code": "V-00008",
+      "currency": "USD",
+      "line_items": [
+        {
+          "material_code": "INS-786782",
+          "description": "FLOW METER DN50 ELECTROMAG",
+          "quantity": 25.0,
+          "unit": "EA",
+          "unit_price": 134.31,
+          "line_total": 3357.75
+        }
+      ]
+    }
+  },
+  {
+    "pr": {
+      "pr_number": "PR-100056",
+      "requester": "user20",
+      "cost_center": "CC-1129",
+      "vendor_code": "V-00002",
+      "currency": "USD",
+      "attachment_path": "data/synthetic/attachments/PR-100056.txt",
+      "buyer_line_hints": [
+        "reducer conc x100"
+      ]
+    },
+    "truth": {
+      "vendor_code": "V-00002",
+      "currency": "USD",
+      "line_items": [
+        {
+          "material_code": "FIT-801133",
+          "description": "REDUCER CONC 2IN SCH40 CS",
+          "quantity": 100.0,
+          "unit": "EA",
+          "unit_price": 43.43,
+          "line_total": 4343.0
+        }
+      ]
+    }
+  },
+  {
+    "pr": {
+      "pr_number": "PR-100057",
+      "requester": "user40",
+      "cost_center": "CC-1866",
+      "vendor_code": "V-00001",
+      "currency": "USD",
+      "attachment_path": "data/synthetic/attachments/PR-100057.txt",
+      "buyer_line_hints": [
+        "flange wn x1",
+        "sodium hydroxide x5"
+      ]
+    },
+    "truth": {
+      "vendor_code": "V-00001",
+      "currency": "USD",
+      "line_items": [
+        {
+          "material_code": "FIT-723241",
+          "description": "FLANGE WN 1IN SCH40 CS",
+          "quantity": 1.0,
+          "unit": "EA",
+          "unit_price": 39.73,
+          "line_total": 39.73
+        },
+        {
+          "material_code": "CHM-228809",
+          "description": "SODIUM HYDROXIDE 98PCT 30KG",
+          "quantity": 5.0,
+          "unit": "KG",
+          "unit_price": 9.59,
+          "line_total": 47.95
+        }
+      ]
+    }
+  },
+  {
+    "pr": {
+      "pr_number": "PR-100058",
+      "requester": "user16",
+      "cost_center": "CC-1993",
+      "vendor_code": "V-00010",
+      "currency": "USD",
+      "attachment_path": "data/synthetic/attachments/PR-100058.txt",
+      "buyer_line_hints": [
+        "flow meter x10"
+      ]
+    },
+    "truth": {
+      "vendor_code": "V-00010",
+      "currency": "USD",
+      "line_items": [
+        {
+          "material_code": "INS-786782",
+          "description": "FLOW METER DN50 ELECTROMAG",
+          "quantity": 10.0,
+          "unit": "EA",
+          "unit_price": 131.19,
+          "line_total": 1311.9
+        }
+      ]
+    }
+  },
+  {
+    "pr": {
+      "pr_number": "PR-100059",
+      "requester": "user30",
+      "cost_center": "CC-1563",
+      "vendor_code": "V-00005",
+      "currency": "USD",
+      "attachment_path": "data/synthetic/attachments/PR-100059.txt",
+      "buyer_line_hints": [
+        "cable tie x1"
+      ]
+    },
+    "truth": {
+      "vendor_code": "V-00005",
+      "currency": "USD",
+      "line_items": [
+        {
+          "material_code": "MRO-595179",
+          "description": "CABLE TIE CLEAR ANTIFOG",
+          "quantity": 1.0,
+          "unit": "BOX",
+          "unit_price": 29.06,
+          "line_total": 29.06
+        }
+      ]
+    }
+  },
+  {
+    "pr": {
+      "pr_number": "PR-100060",
+      "requester": "user12",
+      "cost_center": "CC-1829",
+      "vendor_code": "V-00006",
+      "currency": "USD",
+      "attachment_path": "data/synthetic/attachments/PR-100060.txt",
+      "buyer_line_hints": [
+        "gear pump x20",
+        "gear pump x100",
+        "flat gasket x100"
+      ]
+    },
+    "truth": {
+      "vendor_code": "V-00006",
+      "currency": "USD",
+      "line_items": [
+        {
+          "material_code": "PMP-328807",
+          "description": "GEAR PUMP 5HP 50GPM",
+          "quantity": 20.0,
+          "unit": "EA",
+          "unit_price": 2999.73,
+          "line_total": 59994.6
+        },
+        {
+          "material_code": "PMP-571007",
+          "description": "GEAR PUMP 2HP 20GPM",
+          "quantity": 100.0,
+          "unit": "EA",
+          "unit_price": 2079.74,
+          "line_total": 207974.0
+        },
+        {
+          "material_code": "GSK-460160",
+          "description": "FLAT GASKET 3IN 300LB GRAPHITE",
+          "quantity": 100.0,
+          "unit": "EA",
+          "unit_price": 33.66,
+          "line_total": 3366.0
+        }
+      ]
+    }
+  },
+  {
+    "pr": {
+      "pr_number": "PR-100061",
+      "requester": "user33",
+      "cost_center": "CC-1672",
+      "vendor_code": "V-00002",
+      "currency": "USD",
+      "attachment_path": "data/synthetic/attachments/PR-100061.txt",
+      "buyer_line_hints": [
+        "globe valve x25"
+      ]
+    },
+    "truth": {
+      "vendor_code": "V-00002",
+      "currency": "USD",
+      "line_items": [
+        {
+          "material_code": "VLV-815131",
+          "description": "GLOBE VALVE 2IN 150LB CS",
+          "quantity": 25.0,
+          "unit": "EA",
+          "unit_price": 146.21,
+          "line_total": 3655.25
+        }
+      ]
+    }
+  },
+  {
+    "pr": {
+      "pr_number": "PR-100062",
+      "requester": "user33",
+      "cost_center": "CC-1916",
+      "vendor_code": "V-00003",
+      "currency": "USD",
+      "attachment_path": "data/synthetic/attachments/PR-100062.txt",
+      "buyer_line_hints": [
+        "sulfuric acid x25"
+      ]
+    },
+    "truth": {
+      "vendor_code": "V-00003",
+      "currency": "USD",
+      "line_items": [
+        {
+          "material_code": "CHM-588625",
+          "description": "SULFURIC ACID 98PCT 30KG",
+          "quantity": 25.0,
+          "unit": "KG",
+          "unit_price": 5.88,
+          "line_total": 147.0
+        }
+      ]
+    }
+  },
+  {
+    "pr": {
+      "pr_number": "PR-100063",
+      "requester": "user13",
+      "cost_center": "CC-1134",
+      "vendor_code": "V-00003",
+      "currency": "USD",
+      "attachment_path": "data/synthetic/attachments/PR-100063.txt",
+      "buyer_line_hints": [
+        "safety goggles x2"
+      ]
+    },
+    "truth": {
+      "vendor_code": "V-00003",
+      "currency": "USD",
+      "line_items": [
+        {
+          "material_code": "MRO-875813",
+          "description": "SAFETY GOGGLES CLEAR ANTIFOG",
+          "quantity": 2.0,
+          "unit": "BOX",
+          "unit_price": 25.71,
+          "line_total": 51.42
+        }
+      ]
+    }
+  },
+  {
+    "pr": {
+      "pr_number": "PR-100064",
+      "requester": "user40",
+      "cost_center": "CC-1281",
+      "vendor_code": "V-00010",
+      "currency": "USD",
+      "attachment_path": "data/synthetic/attachments/PR-100064.txt",
+      "buyer_line_hints": [
+        "cable tie x5",
+        "safety goggles x25"
+      ]
+    },
+    "truth": {
+      "vendor_code": "V-00010",
+      "currency": "USD",
+      "line_items": [
+        {
+          "material_code": "MRO-373799",
+          "description": "CABLE TIE CLEAR ANTIFOG",
+          "quantity": 5.0,
+          "unit": "BOX",
+          "unit_price": 22.49,
+          "line_total": 112.45
+        },
+        {
+          "material_code": "MRO-926696",
+          "description": "SAFETY GOGGLES CLEAR ANTIFOG",
+          "quantity": 25.0,
+          "unit": "BOX",
+          "unit_price": 31.52,
+          "line_total": 788.0
+        }
+      ]
+    }
+  },
+  {
+    "pr": {
+      "pr_number": "PR-100065",
+      "requester": "user21",
+      "cost_center": "CC-1381",
+      "vendor_code": "V-00010",
+      "currency": "USD",
+      "attachment_path": "data/synthetic/attachments/PR-100065.txt",
+      "buyer_line_hints": [
+        "spiral wound x100"
+      ]
+    },
+    "truth": {
+      "vendor_code": "V-00010",
+      "currency": "USD",
+      "line_items": [
+        {
+          "material_code": "GSK-176756",
+          "description": "SPIRAL WOUND GASKET 1.5IN 150LB PTFE",
+          "quantity": 100.0,
+          "unit": "EA",
+          "unit_price": 37.58,
+          "line_total": 3758.0
+        }
+      ]
+    }
+  },
+  {
+    "pr": {
+      "pr_number": "PR-100066",
+      "requester": "user24",
+      "cost_center": "CC-1989",
+      "vendor_code": "V-00004",
+      "currency": "USD",
+      "attachment_path": "data/synthetic/attachments/PR-100066.txt",
+      "buyer_line_hints": [
+        "spiral wound x20",
+        "cable tie x20"
+      ]
+    },
+    "truth": {
+      "vendor_code": "V-00004",
+      "currency": "USD",
+      "line_items": [
+        {
+          "material_code": "GSK-691783",
+          "description": "SPIRAL WOUND GASKET 1.5IN 150LB PTFE",
+          "quantity": 20.0,
+          "unit": "EA",
+          "unit_price": 31.11,
+          "line_total": 622.2
+        },
+        {
+          "material_code": "MRO-128356",
+          "description": "CABLE TIE L 100PCS",
+          "quantity": 20.0,
+          "unit": "BOX",
+          "unit_price": 29.19,
+          "line_total": 583.8
+        }
+      ]
+    }
+  },
+  {
+    "pr": {
+      "pr_number": "PR-100067",
+      "requester": "user19",
+      "cost_center": "CC-1839",
+      "vendor_code": "V-00011",
+      "currency": "USD",
+      "attachment_path": "data/synthetic/attachments/PR-100067.txt",
+      "buyer_line_hints": [
+        "flow meter x2",
+        "spiral wound x50",
+        "safety goggles x2"
+      ]
+    },
+    "truth": {
+      "vendor_code": "V-00011",
+      "currency": "USD",
+      "line_items": [
+        {
+          "material_code": "INS-917857",
+          "description": "FLOW METER DN50 ELECTROMAG",
+          "quantity": 2.0,
+          "unit": "EA",
+          "unit_price": 189.64,
+          "line_total": 379.28
+        },
+        {
+          "material_code": "GSK-176756",
+          "description": "SPIRAL WOUND GASKET 1.5IN 150LB PTFE",
+          "quantity": 50.0,
+          "unit": "EA",
+          "unit_price": 37.7,
+          "line_total": 1885.0
+        },
+        {
+          "material_code": "MRO-601871",
+          "description": "SAFETY GOGGLES L 100PCS",
+          "quantity": 2.0,
+          "unit": "BOX",
+          "unit_price": 19.4,
+          "line_total": 38.8
+        }
+      ]
+    }
+  },
+  {
+    "pr": {
+      "pr_number": "PR-100068",
+      "requester": "user37",
+      "cost_center": "CC-1363",
+      "vendor_code": "V-00006",
+      "currency": "USD",
+      "attachment_path": "data/synthetic/attachments/PR-100068.txt",
+      "buyer_line_hints": [
+        "nitrile gloves x25",
+        "elbow 90deg x50",
+        "centrifugal pump x10"
+      ]
+    },
+    "truth": {
+      "vendor_code": "V-00006",
+      "currency": "USD",
+      "line_items": [
+        {
+          "material_code": "MRO-472834",
+          "description": "NITRILE GLOVES L 100PCS",
+          "quantity": 25.0,
+          "unit": "BOX",
+          "unit_price": 31.12,
+          "line_total": 778.0
+        },
+        {
+          "material_code": "FIT-800675",
+          "description": "ELBOW 90DEG 1IN SCH40 CS",
+          "quantity": 50.0,
+          "unit": "EA",
+          "unit_price": 33.99,
+          "line_total": 1699.5
+        },
+        {
+          "material_code": "PMP-341960",
+          "description": "CENTRIFUGAL PUMP 5HP 50GPM",
+          "quantity": 10.0,
+          "unit": "EA",
+          "unit_price": 1880.33,
+          "line_total": 18803.3
+        }
+      ]
+    }
+  },
+  {
+    "pr": {
+      "pr_number": "PR-100069",
+      "requester": "user10",
+      "cost_center": "CC-1461",
+      "vendor_code": "V-00011",
+      "currency": "USD",
+      "attachment_path": "data/synthetic/attachments/PR-100069.txt",
+      "buyer_line_hints": [
+        "temp transmitter x10",
+        "flange wn x100"
+      ]
+    },
+    "truth": {
+      "vendor_code": "V-00011",
+      "currency": "USD",
+      "line_items": [
+        {
+          "material_code": "INS-660559",
+          "description": "TEMP TRANSMITTER DN50 ELECTROMAG",
+          "quantity": 10.0,
+          "unit": "EA",
+          "unit_price": 217.32,
+          "line_total": 2173.2
+        },
+        {
+          "material_code": "FIT-424646",
+          "description": "FLANGE WN 3IN SCH80 SS316",
+          "quantity": 100.0,
+          "unit": "EA",
+          "unit_price": 37.48,
+          "line_total": 3748.0
+        }
+      ]
+    }
+  },
+  {
+    "pr": {
+      "pr_number": "PR-100070",
+      "requester": "user35",
+      "cost_center": "CC-1025",
+      "vendor_code": "V-00003",
+      "currency": "USD",
+      "attachment_path": "data/synthetic/attachments/PR-100070.txt",
+      "buyer_line_hints": [
+        "cable tie x20",
+        "sodium hydroxide x25",
+        "temp transmitter x100"
+      ]
+    },
+    "truth": {
+      "vendor_code": "V-00003",
+      "currency": "USD",
+      "line_items": [
+        {
+          "material_code": "MRO-128356",
+          "description": "CABLE TIE L 100PCS",
+          "quantity": 20.0,
+          "unit": "BOX",
+          "unit_price": 29.11,
+          "line_total": 582.2
+        },
+        {
+          "material_code": "CHM-207352",
+          "description": "SODIUM HYDROXIDE GRANULAR 25KG",
+          "quantity": 25.0,
+          "unit": "KG",
+          "unit_price": 5.02,
+          "line_total": 125.5
+        },
+        {
+          "material_code": "INS-375509",
+          "description": "TEMP TRANSMITTER 0-10BAR 2.5IN",
+          "quantity": 100.0,
+          "unit": "EA",
+          "unit_price": 150.2,
+          "line_total": 15020.0
+        }
+      ]
+    }
+  },
+  {
+    "pr": {
+      "pr_number": "PR-100071",
+      "requester": "user34",
+      "cost_center": "CC-1622",
+      "vendor_code": "V-00005",
+      "currency": "USD",
+      "attachment_path": "data/synthetic/attachments/PR-100071.txt",
+      "buyer_line_hints": [
+        "gate valve x2"
+      ]
+    },
+    "truth": {
+      "vendor_code": "V-00005",
+      "currency": "USD",
+      "line_items": [
+        {
+          "material_code": "VLV-538485",
+          "description": "GATE VALVE 3IN 300LB SS316",
+          "quantity": 2.0,
+          "unit": "EA",
+          "unit_price": 96.01,
+          "line_total": 192.02
+        }
+      ]
+    }
+  },
+  {
+    "pr": {
+      "pr_number": "PR-100072",
+      "requester": "user08",
+      "cost_center": "CC-1343",
+      "vendor_code": "V-00008",
+      "currency": "USD",
+      "attachment_path": "data/synthetic/attachments/PR-100072.txt",
+      "buyer_line_hints": [
+        "flat gasket x20",
+        "reducer conc x50",
+        "flat gasket x10"
+      ]
+    },
+    "truth": {
+      "vendor_code": "V-00008",
+      "currency": "USD",
+      "line_items": [
+        {
+          "material_code": "GSK-813451",
+          "description": "FLAT GASKET 3IN 300LB GRAPHITE",
+          "quantity": 20.0,
+          "unit": "EA",
+          "unit_price": 48.1,
+          "line_total": 962.0
+        },
+        {
+          "material_code": "FIT-801133",
+          "description": "REDUCER CONC 2IN SCH40 CS",
+          "quantity": 50.0,
+          "unit": "EA",
+          "unit_price": 43.28,
+          "line_total": 2164.0
+        },
+        {
+          "material_code": "GSK-813451",
+          "description": "FLAT GASKET 3IN 300LB GRAPHITE",
+          "quantity": 10.0,
+          "unit": "EA",
+          "unit_price": 48.86,
+          "line_total": 488.6
+        }
+      ]
+    }
+  },
+  {
+    "pr": {
+      "pr_number": "PR-100073",
+      "requester": "user11",
+      "cost_center": "CC-1764",
+      "vendor_code": "V-00006",
+      "currency": "USD",
+      "attachment_path": "data/synthetic/attachments/PR-100073.txt",
+      "buyer_line_hints": [
+        "gate valve x20",
+        "temp transmitter x20",
+        "spiral wound x20"
+      ]
+    },
+    "truth": {
+      "vendor_code": "V-00006",
+      "currency": "USD",
+      "line_items": [
+        {
+          "material_code": "VLV-538485",
+          "description": "GATE VALVE 3IN 300LB SS316",
+          "quantity": 20.0,
+          "unit": "EA",
+          "unit_price": 93.97,
+          "line_total": 1879.4
+        },
+        {
+          "material_code": "INS-375509",
+          "description": "TEMP TRANSMITTER 0-10BAR 2.5IN",
+          "quantity": 20.0,
+          "unit": "EA",
+          "unit_price": 150.24,
+          "line_total": 3004.8
+        },
+        {
+          "material_code": "GSK-691783",
+          "description": "SPIRAL WOUND GASKET 1.5IN 150LB PTFE",
+          "quantity": 20.0,
+          "unit": "EA",
+          "unit_price": 31.1,
+          "line_total": 622.0
+        }
+      ]
+    }
+  },
+  {
+    "pr": {
+      "pr_number": "PR-100074",
+      "requester": "user14",
+      "cost_center": "CC-1400",
+      "vendor_code": "V-00005",
+      "currency": "USD",
+      "attachment_path": "data/synthetic/attachments/PR-100074.txt",
+      "buyer_line_hints": [
+        "elbow 90deg x10",
+        "gear pump x1"
+      ]
+    },
+    "truth": {
+      "vendor_code": "V-00005",
+      "currency": "USD",
+      "line_items": [
+        {
+          "material_code": "FIT-172103",
+          "description": "ELBOW 90DEG 3IN SCH80 SS316",
+          "quantity": 10.0,
+          "unit": "EA",
+          "unit_price": 31.66,
+          "line_total": 316.6
+        },
+        {
+          "material_code": "PMP-535469",
+          "description": "GEAR PUMP 2HP 20GPM",
+          "quantity": 1.0,
+          "unit": "EA",
+          "unit_price": 3288.63,
+          "line_total": 3288.63
+        }
+      ]
+    }
+  },
+  {
+    "pr": {
+      "pr_number": "PR-100075",
+      "requester": "user05",
+      "cost_center": "CC-1900",
+      "vendor_code": "V-00002",
+      "currency": "USD",
+      "attachment_path": "data/synthetic/attachments/PR-100075.txt",
+      "buyer_line_hints": [
+        "spiral wound x5",
+        "spiral wound x1",
+        "gate valve x25"
+      ]
+    },
+    "truth": {
+      "vendor_code": "V-00002",
+      "currency": "USD",
+      "line_items": [
+        {
+          "material_code": "GSK-691783",
+          "description": "SPIRAL WOUND GASKET 1.5IN 150LB PTFE",
+          "quantity": 5.0,
+          "unit": "EA",
+          "unit_price": 31.58,
+          "line_total": 157.9
+        },
+        {
+          "material_code": "GSK-490487",
+          "description": "SPIRAL WOUND GASKET 1.5IN 150LB PTFE",
+          "quantity": 1.0,
+          "unit": "EA",
+          "unit_price": 47.84,
+          "line_total": 47.84
+        },
+        {
+          "material_code": "VLV-545140",
+          "description": "GATE VALVE 2IN 150LB CS",
+          "quantity": 25.0,
+          "unit": "EA",
+          "unit_price": 187.17,
+          "line_total": 4679.25
+        }
+      ]
+    }
+  },
+  {
+    "pr": {
+      "pr_number": "PR-100076",
+      "requester": "user19",
+      "cost_center": "CC-1488",
+      "vendor_code": "V-00008",
+      "currency": "USD",
+      "attachment_path": "data/synthetic/attachments/PR-100076.txt",
+      "buyer_line_hints": [
+        "flat gasket x10"
+      ]
+    },
+    "truth": {
+      "vendor_code": "V-00008",
+      "currency": "USD",
+      "line_items": [
+        {
+          "material_code": "GSK-460160",
+          "description": "FLAT GASKET 3IN 300LB GRAPHITE",
+          "quantity": 10.0,
+          "unit": "EA",
+          "unit_price": 33.41,
+          "line_total": 334.1
+        }
+      ]
+    }
+  },
+  {
+    "pr": {
+      "pr_number": "PR-100077",
+      "requester": "user07",
+      "cost_center": "CC-1355",
+      "vendor_code": "V-00002",
+      "currency": "USD",
+      "attachment_path": "data/synthetic/attachments/PR-100077.txt",
+      "buyer_line_hints": [
+        "spiral wound x20",
+        "spiral wound x20",
+        "pressure gauge x1"
+      ]
+    },
+    "truth": {
+      "vendor_code": "V-00002",
+      "currency": "USD",
+      "line_items": [
+        {
+          "material_code": "GSK-360494",
+          "description": "SPIRAL WOUND GASKET 1.5IN 150LB PTFE",
+          "quantity": 20.0,
+          "unit": "EA",
+          "unit_price": 49.02,
+          "line_total": 980.4
+        },
+        {
+          "material_code": "GSK-176756",
+          "description": "SPIRAL WOUND GASKET 1.5IN 150LB PTFE",
+          "quantity": 20.0,
+          "unit": "EA",
+          "unit_price": 36.96,
+          "line_total": 739.2
+        },
+        {
+          "material_code": "INS-519894",
+          "description": "PRESSURE GAUGE 0-10BAR 2.5IN",
+          "quantity": 1.0,
+          "unit": "EA",
+          "unit_price": 136.27,
+          "line_total": 136.27
+        }
+      ]
+    }
+  },
+  {
+    "pr": {
+      "pr_number": "PR-100078",
+      "requester": "user33",
+      "cost_center": "CC-1266",
+      "vendor_code": "V-00001",
+      "currency": "USD",
+      "attachment_path": "data/synthetic/attachments/PR-100078.txt",
+      "buyer_line_hints": [
+        "flow meter x10",
+        "elbow 90deg x5",
+        "safety goggles x1"
+      ]
+    },
+    "truth": {
+      "vendor_code": "V-00001",
+      "currency": "USD",
+      "line_items": [
+        {
+          "material_code": "INS-786782",
+          "description": "FLOW METER DN50 ELECTROMAG",
+          "quantity": 10.0,
+          "unit": "EA",
+          "unit_price": 135.19,
+          "line_total": 1351.9
+        },
+        {
+          "material_code": "FIT-800675",
+          "description": "ELBOW 90DEG 1IN SCH40 CS",
+          "quantity": 5.0,
+          "unit": "EA",
+          "unit_price": 34.05,
+          "line_total": 170.25
+        },
+        {
+          "material_code": "MRO-601871",
+          "description": "SAFETY GOGGLES L 100PCS",
+          "quantity": 1.0,
+          "unit": "BOX",
+          "unit_price": 19.91,
+          "line_total": 19.91
+        }
+      ]
+    }
+  },
+  {
+    "pr": {
+      "pr_number": "PR-100079",
+      "requester": "user07",
+      "cost_center": "CC-1643",
+      "vendor_code": "V-00003",
+      "currency": "USD",
+      "attachment_path": "data/synthetic/attachments/PR-100079.txt",
+      "buyer_line_hints": [
+        "cable tie x10",
+        "temp transmitter x2"
+      ]
+    },
+    "truth": {
+      "vendor_code": "V-00003",
+      "currency": "USD",
+      "line_items": [
+        {
+          "material_code": "MRO-333615",
+          "description": "CABLE TIE CLEAR ANTIFOG",
+          "quantity": 10.0,
+          "unit": "BOX",
+          "unit_price": 27.47,
+          "line_total": 274.7
+        },
+        {
+          "material_code": "INS-318904",
+          "description": "TEMP TRANSMITTER 0-10BAR 2.5IN",
+          "quantity": 2.0,
+          "unit": "EA",
+          "unit_price": 144.52,
+          "line_total": 289.04
+        }
+      ]
+    }
+  },
+  {
+    "pr": {
+      "pr_number": "PR-100080",
+      "requester": "user15",
+      "cost_center": "CC-1966",
+      "vendor_code": "V-00002",
+      "currency": "USD",
+      "attachment_path": "data/synthetic/attachments/PR-100080.txt",
+      "buyer_line_hints": [
+        "tee equal x2",
+        "reducer conc x20"
+      ]
+    },
+    "truth": {
+      "vendor_code": "V-00002",
+      "currency": "USD",
+      "line_items": [
+        {
+          "material_code": "FIT-472731",
+          "description": "TEE EQUAL 1IN SCH40 CS",
+          "quantity": 2.0,
+          "unit": "EA",
+          "unit_price": 22.58,
+          "line_total": 45.16
+        },
+        {
+          "material_code": "FIT-958105",
+          "description": "REDUCER CONC 3IN SCH80 SS316",
+          "quantity": 20.0,
+          "unit": "EA",
+          "unit_price": 37.14,
+          "line_total": 742.8
+        }
+      ]
+    }
+  },
+  {
+    "pr": {
+      "pr_number": "PR-100081",
+      "requester": "user16",
+      "cost_center": "CC-1519",
+      "vendor_code": "V-00011",
+      "currency": "USD",
+      "attachment_path": "data/synthetic/attachments/PR-100081.txt",
+      "buyer_line_hints": [
+        "safety goggles x1",
+        "safety goggles x100",
+        "gear pump x20"
+      ]
+    },
+    "truth": {
+      "vendor_code": "V-00011",
+      "currency": "USD",
+      "line_items": [
+        {
+          "material_code": "MRO-601871",
+          "description": "SAFETY GOGGLES L 100PCS",
+          "quantity": 1.0,
+          "unit": "BOX",
+          "unit_price": 19.43,
+          "line_total": 19.43
+        },
+        {
+          "material_code": "MRO-926696",
+          "description": "SAFETY GOGGLES CLEAR ANTIFOG",
+          "quantity": 100.0,
+          "unit": "BOX",
+          "unit_price": 31.68,
+          "line_total": 3168.0
+        },
+        {
+          "material_code": "PMP-571007",
+          "description": "GEAR PUMP 2HP 20GPM",
+          "quantity": 20.0,
+          "unit": "EA",
+          "unit_price": 2082.3,
+          "line_total": 41646.0
+        }
+      ]
+    }
+  },
+  {
+    "pr": {
+      "pr_number": "PR-100082",
+      "requester": "user20",
+      "cost_center": "CC-1750",
+      "vendor_code": "V-00006",
+      "currency": "USD",
+      "attachment_path": "data/synthetic/attachments/PR-100082.txt",
+      "buyer_line_hints": [
+        "cable tie x5",
+        "spiral wound x10",
+        "spiral wound x2"
+      ]
+    },
+    "truth": {
+      "vendor_code": "V-00006",
+      "currency": "USD",
+      "line_items": [
+        {
+          "material_code": "MRO-333615",
+          "description": "CABLE TIE CLEAR ANTIFOG",
+          "quantity": 5.0,
+          "unit": "BOX",
+          "unit_price": 27.67,
+          "line_total": 138.35
+        },
+        {
+          "material_code": "GSK-691783",
+          "description": "SPIRAL WOUND GASKET 1.5IN 150LB PTFE",
+          "quantity": 10.0,
+          "unit": "EA",
+          "unit_price": 30.89,
+          "line_total": 308.9
+        },
+        {
+          "material_code": "GSK-691783",
+          "description": "SPIRAL WOUND GASKET 1.5IN 150LB PTFE",
+          "quantity": 2.0,
+          "unit": "EA",
+          "unit_price": 30.88,
+          "line_total": 61.76
+        }
+      ]
+    }
+  },
+  {
+    "pr": {
+      "pr_number": "PR-100083",
+      "requester": "user01",
+      "cost_center": "CC-1408",
+      "vendor_code": "V-00006",
+      "currency": "USD",
+      "attachment_path": "data/synthetic/attachments/PR-100083.txt",
+      "buyer_line_hints": [
+        "gate valve x2"
+      ]
+    },
+    "truth": {
+      "vendor_code": "V-00006",
+      "currency": "USD",
+      "line_items": [
+        {
+          "material_code": "VLV-331821",
+          "description": "GATE VALVE 3IN 300LB SS316",
+          "quantity": 2.0,
+          "unit": "EA",
+          "unit_price": 115.72,
+          "line_total": 231.44
+        }
+      ]
+    }
+  },
+  {
+    "pr": {
+      "pr_number": "PR-100084",
+      "requester": "user38",
+      "cost_center": "CC-1872",
+      "vendor_code": "V-00008",
+      "currency": "USD",
+      "attachment_path": "data/synthetic/attachments/PR-100084.txt",
+      "buyer_line_hints": [
+        "flat gasket x20",
+        "tee equal x1",
+        "flow meter x50"
+      ]
+    },
+    "truth": {
+      "vendor_code": "V-00008",
+      "currency": "USD",
+      "line_items": [
+        {
+          "material_code": "GSK-185831",
+          "description": "FLAT GASKET 3IN 300LB GRAPHITE",
+          "quantity": 20.0,
+          "unit": "EA",
+          "unit_price": 40.89,
+          "line_total": 817.8
+        },
+        {
+          "material_code": "FIT-472731",
+          "description": "TEE EQUAL 1IN SCH40 CS",
+          "quantity": 1.0,
+          "unit": "EA",
+          "unit_price": 22.64,
+          "line_total": 22.64
+        },
+        {
+          "material_code": "INS-786782",
+          "description": "FLOW METER DN50 ELECTROMAG",
+          "quantity": 50.0,
+          "unit": "EA",
+          "unit_price": 134.98,
+          "line_total": 6749.0
+        }
+      ]
+    }
+  },
+  {
+    "pr": {
+      "pr_number": "PR-100085",
+      "requester": "user12",
+      "cost_center": "CC-1915",
+      "vendor_code": "V-00003",
+      "currency": "USD",
+      "attachment_path": "data/synthetic/attachments/PR-100085.txt",
+      "buyer_line_hints": [
+        "gate valve x100",
+        "flat gasket x50",
+        "gear pump x100"
+      ]
+    },
+    "truth": {
+      "vendor_code": "V-00003",
+      "currency": "USD",
+      "line_items": [
+        {
+          "material_code": "VLV-251262",
+          "description": "GATE VALVE 1IN 600LB CS",
+          "quantity": 100.0,
+          "unit": "EA",
+          "unit_price": 144.16,
+          "line_total": 14416.0
+        },
+        {
+          "material_code": "GSK-460160",
+          "description": "FLAT GASKET 3IN 300LB GRAPHITE",
+          "quantity": 50.0,
+          "unit": "EA",
+          "unit_price": 33.61,
+          "line_total": 1680.5
+        },
+        {
+          "material_code": "PMP-517225",
+          "description": "GEAR PUMP 10HP 120GPM",
+          "quantity": 100.0,
+          "unit": "EA",
+          "unit_price": 1701.62,
+          "line_total": 170162.0
+        }
+      ]
+    }
+  },
+  {
+    "pr": {
+      "pr_number": "PR-100086",
+      "requester": "user23",
+      "cost_center": "CC-1103",
+      "vendor_code": "V-00001",
+      "currency": "USD",
+      "attachment_path": "data/synthetic/attachments/PR-100086.txt",
+      "buyer_line_hints": [
+        "safety goggles x100",
+        "spiral wound x5"
+      ]
+    },
+    "truth": {
+      "vendor_code": "V-00001",
+      "currency": "USD",
+      "line_items": [
+        {
+          "material_code": "MRO-926696",
+          "description": "SAFETY GOGGLES CLEAR ANTIFOG",
+          "quantity": 100.0,
+          "unit": "BOX",
+          "unit_price": 31.48,
+          "line_total": 3148.0
+        },
+        {
+          "material_code": "GSK-360494",
+          "description": "SPIRAL WOUND GASKET 1.5IN 150LB PTFE",
+          "quantity": 5.0,
+          "unit": "EA",
+          "unit_price": 49.28,
+          "line_total": 246.4
+        }
+      ]
+    }
+  },
+  {
+    "pr": {
+      "pr_number": "PR-100087",
+      "requester": "user40",
+      "cost_center": "CC-1364",
+      "vendor_code": "V-00010",
+      "currency": "USD",
+      "attachment_path": "data/synthetic/attachments/PR-100087.txt",
+      "buyer_line_hints": [
+        "spiral wound x100",
+        "temp transmitter x25",
+        "activated carbon x5"
+      ]
+    },
+    "truth": {
+      "vendor_code": "V-00010",
+      "currency": "USD",
+      "line_items": [
+        {
+          "material_code": "GSK-360494",
+          "description": "SPIRAL WOUND GASKET 1.5IN 150LB PTFE",
+          "quantity": 100.0,
+          "unit": "EA",
+          "unit_price": 49.13,
+          "line_total": 4913.0
+        },
+        {
+          "material_code": "INS-375509",
+          "description": "TEMP TRANSMITTER 0-10BAR 2.5IN",
+          "quantity": 25.0,
+          "unit": "EA",
+          "unit_price": 150.27,
+          "line_total": 3756.75
+        },
+        {
+          "material_code": "CHM-318054",
+          "description": "ACTIVATED CARBON 98PCT 30KG",
+          "quantity": 5.0,
+          "unit": "KG",
+          "unit_price": 5.01,
+          "line_total": 25.05
+        }
+      ]
+    }
+  },
+  {
+    "pr": {
+      "pr_number": "PR-100088",
+      "requester": "user30",
+      "cost_center": "CC-1217",
+      "vendor_code": "V-00006",
+      "currency": "USD",
+      "attachment_path": "data/synthetic/attachments/PR-100088.txt",
+      "buyer_line_hints": [
+        "reducer conc x50",
+        "gate valve x10"
+      ]
+    },
+    "truth": {
+      "vendor_code": "V-00006",
+      "currency": "USD",
+      "line_items": [
+        {
+          "material_code": "FIT-801133",
+          "description": "REDUCER CONC 2IN SCH40 CS",
+          "quantity": 50.0,
+          "unit": "EA",
+          "unit_price": 42.48,
+          "line_total": 2124.0
+        },
+        {
+          "material_code": "VLV-331821",
+          "description": "GATE VALVE 3IN 300LB SS316",
+          "quantity": 10.0,
+          "unit": "EA",
+          "unit_price": 115.17,
+          "line_total": 1151.7
+        }
+      ]
+    }
+  },
+  {
+    "pr": {
+      "pr_number": "PR-100089",
+      "requester": "user31",
+      "cost_center": "CC-1363",
+      "vendor_code": "V-00002",
+      "currency": "USD",
+      "attachment_path": "data/synthetic/attachments/PR-100089.txt",
+      "buyer_line_hints": [
+        "flat gasket x100",
+        "spiral wound x25",
+        "gear pump x100"
+      ]
+    },
+    "truth": {
+      "vendor_code": "V-00002",
+      "currency": "USD",
+      "line_items": [
+        {
+          "material_code": "GSK-588218",
+          "description": "FLAT GASKET 3IN 300LB GRAPHITE",
+          "quantity": 100.0,
+          "unit": "EA",
+          "unit_price": 35.97,
+          "line_total": 3597.0
+        },
+        {
+          "material_code": "GSK-490487",
+          "description": "SPIRAL WOUND GASKET 1.5IN 150LB PTFE",
+          "quantity": 25.0,
+          "unit": "EA",
+          "unit_price": 47.09,
+          "line_total": 1177.25
+        },
+        {
+          "material_code": "PMP-328807",
+          "description": "GEAR PUMP 5HP 50GPM",
+          "quantity": 100.0,
+          "unit": "EA",
+          "unit_price": 3009.76,
+          "line_total": 300976.0
+        }
+      ]
+    }
+  },
+  {
+    "pr": {
+      "pr_number": "PR-100090",
+      "requester": "user20",
+      "cost_center": "CC-1328",
+      "vendor_code": "V-00005",
+      "currency": "USD",
+      "attachment_path": "data/synthetic/attachments/PR-100090.txt",
+      "buyer_line_hints": [
+        "sodium hydroxide x50",
+        "gear pump x1"
+      ]
+    },
+    "truth": {
+      "vendor_code": "V-00005",
+      "currency": "USD",
+      "line_items": [
+        {
+          "material_code": "CHM-228809",
+          "description": "SODIUM HYDROXIDE 98PCT 30KG",
+          "quantity": 50.0,
+          "unit": "KG",
+          "unit_price": 9.61,
+          "line_total": 480.5
+        },
+        {
+          "material_code": "PMP-535469",
+          "description": "GEAR PUMP 2HP 20GPM",
+          "quantity": 1.0,
+          "unit": "EA",
+          "unit_price": 3300.54,
+          "line_total": 3300.54
+        }
+      ]
+    }
+  },
+  {
+    "pr": {
+      "pr_number": "PR-100091",
+      "requester": "user19",
+      "cost_center": "CC-1256",
+      "vendor_code": "V-00008",
+      "currency": "USD",
+      "attachment_path": "data/synthetic/attachments/PR-100091.txt",
+      "buyer_line_hints": [
+        "temp transmitter x2",
+        "gate valve x25",
+        "temp transmitter x1"
+      ]
+    },
+    "truth": {
+      "vendor_code": "V-00008",
+      "currency": "USD",
+      "line_items": [
+        {
+          "material_code": "INS-318904",
+          "description": "TEMP TRANSMITTER 0-10BAR 2.5IN",
+          "quantity": 2.0,
+          "unit": "EA",
+          "unit_price": 143.61,
+          "line_total": 287.22
+        },
+        {
+          "material_code": "VLV-761259",
+          "description": "GATE VALVE 4IN 150LB SS304",
+          "quantity": 25.0,
+          "unit": "EA",
+          "unit_price": 89.04,
+          "line_total": 2226.0
+        },
+        {
+          "material_code": "INS-318904",
+          "description": "TEMP TRANSMITTER 0-10BAR 2.5IN",
+          "quantity": 1.0,
+          "unit": "EA",
+          "unit_price": 143.39,
+          "line_total": 143.39
+        }
+      ]
+    }
+  },
+  {
+    "pr": {
+      "pr_number": "PR-100092",
+      "requester": "user14",
+      "cost_center": "CC-1925",
+      "vendor_code": "V-00012",
+      "currency": "USD",
+      "attachment_path": "data/synthetic/attachments/PR-100092.txt",
+      "buyer_line_hints": [
+        "safety goggles x10"
+      ]
+    },
+    "truth": {
+      "vendor_code": "V-00012",
+      "currency": "USD",
+      "line_items": [
+        {
+          "material_code": "MRO-875813",
+          "description": "SAFETY GOGGLES CLEAR ANTIFOG",
+          "quantity": 10.0,
+          "unit": "BOX",
+          "unit_price": 25.64,
+          "line_total": 256.4
+        }
+      ]
+    }
+  },
+  {
+    "pr": {
+      "pr_number": "PR-100093",
+      "requester": "user20",
+      "cost_center": "CC-1202",
+      "vendor_code": "V-00011",
+      "currency": "USD",
+      "attachment_path": "data/synthetic/attachments/PR-100093.txt",
+      "buyer_line_hints": [
+        "pressure gauge x2"
+      ]
+    },
+    "truth": {
+      "vendor_code": "V-00011",
+      "currency": "USD",
+      "line_items": [
+        {
+          "material_code": "INS-519894",
+          "description": "PRESSURE GAUGE 0-10BAR 2.5IN",
+          "quantity": 2.0,
+          "unit": "EA",
+          "unit_price": 137.45,
+          "line_total": 274.9
+        }
+      ]
+    }
+  },
+  {
+    "pr": {
+      "pr_number": "PR-100094",
+      "requester": "user11",
+      "cost_center": "CC-1552",
+      "vendor_code": "V-00005",
+      "currency": "USD",
+      "attachment_path": "data/synthetic/attachments/PR-100094.txt",
+      "buyer_line_hints": [
+        "gate valve x100",
+        "gear pump x10",
+        "gear pump x100"
+      ]
+    },
+    "truth": {
+      "vendor_code": "V-00005",
+      "currency": "USD",
+      "line_items": [
+        {
+          "material_code": "VLV-761259",
+          "description": "GATE VALVE 4IN 150LB SS304",
+          "quantity": 100.0,
+          "unit": "EA",
+          "unit_price": 89.02,
+          "line_total": 8902.0
+        },
+        {
+          "material_code": "PMP-328807",
+          "description": "GEAR PUMP 5HP 50GPM",
+          "quantity": 10.0,
+          "unit": "EA",
+          "unit_price": 3001.16,
+          "line_total": 30011.6
+        },
+        {
+          "material_code": "PMP-535469",
+          "description": "GEAR PUMP 2HP 20GPM",
+          "quantity": 100.0,
+          "unit": "EA",
+          "unit_price": 3297.3,
+          "line_total": 329730.0
+        }
+      ]
+    }
+  },
+  {
+    "pr": {
+      "pr_number": "PR-100095",
+      "requester": "user30",
+      "cost_center": "CC-1383",
+      "vendor_code": "V-00001",
+      "currency": "USD",
+      "attachment_path": "data/synthetic/attachments/PR-100095.txt",
+      "buyer_line_hints": [
+        "safety goggles x25"
+      ]
+    },
+    "truth": {
+      "vendor_code": "V-00001",
+      "currency": "USD",
+      "line_items": [
+        {
+          "material_code": "MRO-926696",
+          "description": "SAFETY GOGGLES CLEAR ANTIFOG",
+          "quantity": 25.0,
+          "unit": "BOX",
+          "unit_price": 31.62,
+          "line_total": 790.5
+        }
+      ]
+    }
+  },
+  {
+    "pr": {
+      "pr_number": "PR-100096",
+      "requester": "user22",
+      "cost_center": "CC-1828",
+      "vendor_code": "V-00002",
+      "currency": "USD",
+      "attachment_path": "data/synthetic/attachments/PR-100096.txt",
+      "buyer_line_hints": [
+        "temp transmitter x25"
+      ]
+    },
+    "truth": {
+      "vendor_code": "V-00002",
+      "currency": "USD",
+      "line_items": [
+        {
+          "material_code": "INS-318904",
+          "description": "TEMP TRANSMITTER 0-10BAR 2.5IN",
+          "quantity": 25.0,
+          "unit": "EA",
+          "unit_price": 143.13,
+          "line_total": 3578.25
+        }
+      ]
+    }
+  },
+  {
+    "pr": {
+      "pr_number": "PR-100097",
+      "requester": "user14",
+      "cost_center": "CC-1290",
+      "vendor_code": "V-00011",
+      "currency": "USD",
+      "attachment_path": "data/synthetic/attachments/PR-100097.txt",
+      "buyer_line_hints": [
+        "centrifugal pump x5",
+        "sulfuric acid x25"
+      ]
+    },
+    "truth": {
+      "vendor_code": "V-00011",
+      "currency": "USD",
+      "line_items": [
+        {
+          "material_code": "PMP-341960",
+          "description": "CENTRIFUGAL PUMP 5HP 50GPM",
+          "quantity": 5.0,
+          "unit": "EA",
+          "unit_price": 1847.83,
+          "line_total": 9239.15
+        },
+        {
+          "material_code": "CHM-206393",
+          "description": "SULFURIC ACID GRANULAR 25KG",
+          "quantity": 25.0,
+          "unit": "KG",
+          "unit_price": 4.35,
+          "line_total": 108.75
+        }
+      ]
+    }
+  },
+  {
+    "pr": {
+      "pr_number": "PR-100098",
+      "requester": "user14",
+      "cost_center": "CC-1670",
+      "vendor_code": "V-00008",
+      "currency": "USD",
+      "attachment_path": "data/synthetic/attachments/PR-100098.txt",
+      "buyer_line_hints": [
+        "flow meter x1",
+        "tee equal x25"
+      ]
+    },
+    "truth": {
+      "vendor_code": "V-00008",
+      "currency": "USD",
+      "line_items": [
+        {
+          "material_code": "INS-231587",
+          "description": "FLOW METER DN50 ELECTROMAG",
+          "quantity": 1.0,
+          "unit": "EA",
+          "unit_price": 279.36,
+          "line_total": 279.36
+        },
+        {
+          "material_code": "FIT-472731",
+          "description": "TEE EQUAL 1IN SCH40 CS",
+          "quantity": 25.0,
+          "unit": "EA",
+          "unit_price": 22.5,
+          "line_total": 562.5
+        }
+      ]
+    }
+  },
+  {
+    "pr": {
+      "pr_number": "PR-100099",
+      "requester": "user01",
+      "cost_center": "CC-1047",
+      "vendor_code": "V-00002",
+      "currency": "USD",
+      "attachment_path": "data/synthetic/attachments/PR-100099.txt",
+      "buyer_line_hints": [
+        "flat gasket x25",
+        "tee equal x50"
+      ]
+    },
+    "truth": {
+      "vendor_code": "V-00002",
+      "currency": "USD",
+      "line_items": [
+        {
+          "material_code": "GSK-588218",
+          "description": "FLAT GASKET 3IN 300LB GRAPHITE",
+          "quantity": 25.0,
+          "unit": "EA",
+          "unit_price": 35.76,
+          "line_total": 894.0
+        },
+        {
+          "material_code": "FIT-472731",
+          "description": "TEE EQUAL 1IN SCH40 CS",
+          "quantity": 50.0,
+          "unit": "EA",
+          "unit_price": 22.45,
+          "line_total": 1122.5
+        }
+      ]
+    }
+  },
+  {
+    "pr": {
+      "pr_number": "PR-100100",
+      "requester": "user12",
+      "cost_center": "CC-1103",
+      "vendor_code": "V-00010",
+      "currency": "USD",
+      "attachment_path": "data/synthetic/attachments/PR-100100.txt",
+      "buyer_line_hints": [
+        "cable tie x1",
+        "pressure gauge x5",
+        "activated carbon x2"
+      ]
+    },
+    "truth": {
+      "vendor_code": "V-00010",
+      "currency": "USD",
+      "line_items": [
+        {
+          "material_code": "MRO-653918",
+          "description": "CABLE TIE CLEAR ANTIFOG",
+          "quantity": 1.0,
+          "unit": "BOX",
+          "unit_price": 29.18,
+          "line_total": 29.18
+        },
+        {
+          "material_code": "INS-519894",
+          "description": "PRESSURE GAUGE 0-10BAR 2.5IN",
+          "quantity": 5.0,
+          "unit": "EA",
+          "unit_price": 137.18,
+          "line_total": 685.9
+        },
+        {
+          "material_code": "CHM-318054",
+          "description": "ACTIVATED CARBON 98PCT 30KG",
+          "quantity": 2.0,
+          "unit": "KG",
+          "unit_price": 5.01,
+          "line_total": 10.02
+        }
+      ]
+    }
+  },
+  {
+    "pr": {
+      "pr_number": "PR-100101",
+      "requester": "user20",
+      "cost_center": "CC-1189",
+      "vendor_code": "V-00001",
+      "currency": "USD",
+      "attachment_path": "data/synthetic/attachments/PR-100101.txt",
+      "buyer_line_hints": [
+        "cable tie x2",
+        "cable tie x5"
+      ]
+    },
+    "truth": {
+      "vendor_code": "V-00001",
+      "currency": "USD",
+      "line_items": [
+        {
+          "material_code": "MRO-653918",
+          "description": "CABLE TIE CLEAR ANTIFOG",
+          "quantity": 2.0,
+          "unit": "BOX",
+          "unit_price": 29.11,
+          "line_total": 58.22
+        },
+        {
+          "material_code": "MRO-333615",
+          "description": "CABLE TIE CLEAR ANTIFOG",
+          "quantity": 5.0,
+          "unit": "BOX",
+          "unit_price": 27.56,
+          "line_total": 137.8
+        }
+      ]
+    }
+  },
+  {
+    "pr": {
+      "pr_number": "PR-100102",
+      "requester": "user27",
+      "cost_center": "CC-1589",
+      "vendor_code": "V-00007",
+      "currency": "USD",
+      "attachment_path": "data/synthetic/attachments/PR-100102.txt",
+      "buyer_line_hints": [
+        "gear pump x1"
+      ]
+    },
+    "truth": {
+      "vendor_code": "V-00007",
+      "currency": "USD",
+      "line_items": [
+        {
+          "material_code": "PMP-517225",
+          "description": "GEAR PUMP 10HP 120GPM",
+          "quantity": 1.0,
+          "unit": "EA",
+          "unit_price": 1699.93,
+          "line_total": 1699.93
+        }
+      ]
+    }
+  },
+  {
+    "pr": {
+      "pr_number": "PR-100103",
+      "requester": "user31",
+      "cost_center": "CC-1217",
+      "vendor_code": "V-00008",
+      "currency": "USD",
+      "attachment_path": "data/synthetic/attachments/PR-100103.txt",
+      "buyer_line_hints": [
+        "gate valve x1",
+        "sulfuric acid x5"
+      ]
+    },
+    "truth": {
+      "vendor_code": "V-00008",
+      "currency": "USD",
+      "line_items": [
+        {
+          "material_code": "VLV-545140",
+          "description": "GATE VALVE 2IN 150LB CS",
+          "quantity": 1.0,
+          "unit": "EA",
+          "unit_price": 186.49,
+          "line_total": 186.49
+        },
+        {
+          "material_code": "CHM-206393",
+          "description": "SULFURIC ACID GRANULAR 25KG",
+          "quantity": 5.0,
+          "unit": "KG",
+          "unit_price": 4.34,
+          "line_total": 21.7
+        }
+      ]
+    }
+  },
+  {
+    "pr": {
+      "pr_number": "PR-100104",
+      "requester": "user29",
+      "cost_center": "CC-1751",
+      "vendor_code": "V-00001",
+      "currency": "USD",
+      "attachment_path": "data/synthetic/attachments/PR-100104.txt",
+      "buyer_line_hints": [
+        "check valve x1",
+        "nitrile gloves x2"
+      ]
+    },
+    "truth": {
+      "vendor_code": "V-00001",
+      "currency": "USD",
+      "line_items": [
+        {
+          "material_code": "VLV-258176",
+          "description": "CHECK VALVE 2IN 150LB CS",
+          "quantity": 1.0,
+          "unit": "EA",
+          "unit_price": 91.47,
+          "line_total": 91.47
+        },
+        {
+          "material_code": "MRO-472834",
+          "description": "NITRILE GLOVES L 100PCS",
+          "quantity": 2.0,
+          "unit": "BOX",
+          "unit_price": 30.89,
+          "line_total": 61.78
+        }
+      ]
+    }
+  },
+  {
+    "pr": {
+      "pr_number": "PR-100105",
+      "requester": "user04",
+      "cost_center": "CC-1734",
+      "vendor_code": "V-00001",
+      "currency": "USD",
+      "attachment_path": "data/synthetic/attachments/PR-100105.txt",
+      "buyer_line_hints": [
+        "cable tie x5",
+        "sodium hydroxide x100"
+      ]
+    },
+    "truth": {
+      "vendor_code": "V-00001",
+      "currency": "USD",
+      "line_items": [
+        {
+          "material_code": "MRO-653918",
+          "description": "CABLE TIE CLEAR ANTIFOG",
+          "quantity": 5.0,
+          "unit": "BOX",
+          "unit_price": 28.94,
+          "line_total": 144.7
+        },
+        {
+          "material_code": "CHM-228809",
+          "description": "SODIUM HYDROXIDE 98PCT 30KG",
+          "quantity": 100.0,
+          "unit": "KG",
+          "unit_price": 9.6,
+          "line_total": 960.0
+        }
+      ]
+    }
+  },
+  {
+    "pr": {
+      "pr_number": "PR-100106",
+      "requester": "user32",
+      "cost_center": "CC-1623",
+      "vendor_code": "V-00004",
+      "currency": "USD",
+      "attachment_path": "data/synthetic/attachments/PR-100106.txt",
+      "buyer_line_hints": [
+        "cable tie x2"
+      ]
+    },
+    "truth": {
+      "vendor_code": "V-00004",
+      "currency": "USD",
+      "line_items": [
+        {
+          "material_code": "MRO-595179",
+          "description": "CABLE TIE CLEAR ANTIFOG",
+          "quantity": 2.0,
+          "unit": "BOX",
+          "unit_price": 29.06,
+          "line_total": 58.12
+        }
+      ]
+    }
+  },
+  {
+    "pr": {
+      "pr_number": "PR-100107",
+      "requester": "user19",
+      "cost_center": "CC-1286",
+      "vendor_code": "V-00007",
+      "currency": "USD",
+      "attachment_path": "data/synthetic/attachments/PR-100107.txt",
+      "buyer_line_hints": [
+        "sulfuric acid x100",
+        "sodium hydroxide x5",
+        "cable tie x100"
+      ]
+    },
+    "truth": {
+      "vendor_code": "V-00007",
+      "currency": "USD",
+      "line_items": [
+        {
+          "material_code": "CHM-588625",
+          "description": "SULFURIC ACID 98PCT 30KG",
+          "quantity": 100.0,
+          "unit": "KG",
+          "unit_price": 5.86,
+          "line_total": 586.0
+        },
+        {
+          "material_code": "CHM-207352",
+          "description": "SODIUM HYDROXIDE GRANULAR 25KG",
+          "quantity": 5.0,
+          "unit": "KG",
+          "unit_price": 5.02,
+          "line_total": 25.1
+        },
+        {
+          "material_code": "MRO-128356",
+          "description": "CABLE TIE L 100PCS",
+          "quantity": 100.0,
+          "unit": "BOX",
+          "unit_price": 29.26,
+          "line_total": 2926.0
+        }
+      ]
+    }
+  },
+  {
+    "pr": {
+      "pr_number": "PR-100108",
+      "requester": "user15",
+      "cost_center": "CC-1826",
+      "vendor_code": "V-00012",
+      "currency": "USD",
+      "attachment_path": "data/synthetic/attachments/PR-100108.txt",
+      "buyer_line_hints": [
+        "nitrile gloves x1",
+        "gear pump x10"
+      ]
+    },
+    "truth": {
+      "vendor_code": "V-00012",
+      "currency": "USD",
+      "line_items": [
+        {
+          "material_code": "MRO-472834",
+          "description": "NITRILE GLOVES L 100PCS",
+          "quantity": 1.0,
+          "unit": "BOX",
+          "unit_price": 31.07,
+          "line_total": 31.07
+        },
+        {
+          "material_code": "PMP-517225",
+          "description": "GEAR PUMP 10HP 120GPM",
+          "quantity": 10.0,
+          "unit": "EA",
+          "unit_price": 1702.69,
+          "line_total": 17026.9
+        }
+      ]
+    }
+  },
+  {
+    "pr": {
+      "pr_number": "PR-100109",
+      "requester": "user18",
+      "cost_center": "CC-1998",
+      "vendor_code": "V-00001",
+      "currency": "USD",
+      "attachment_path": "data/synthetic/attachments/PR-100109.txt",
+      "buyer_line_hints": [
+        "spiral wound x20",
+        "cable tie x1"
+      ]
+    },
+    "truth": {
+      "vendor_code": "V-00001",
+      "currency": "USD",
+      "line_items": [
+        {
+          "material_code": "GSK-176756",
+          "description": "SPIRAL WOUND GASKET 1.5IN 150LB PTFE",
+          "quantity": 20.0,
+          "unit": "EA",
+          "unit_price": 37.7,
+          "line_total": 754.0
+        },
+        {
+          "material_code": "MRO-595179",
+          "description": "CABLE TIE CLEAR ANTIFOG",
+          "quantity": 1.0,
+          "unit": "BOX",
+          "unit_price": 29.01,
+          "line_total": 29.01
+        }
+      ]
+    }
+  },
+  {
+    "pr": {
+      "pr_number": "PR-100110",
+      "requester": "user01",
+      "cost_center": "CC-1810",
+      "vendor_code": "V-00011",
+      "currency": "USD",
+      "attachment_path": "data/synthetic/attachments/PR-100110.txt",
+      "buyer_line_hints": [
+        "cable tie x100",
+        "cable tie x50",
+        "activated carbon x50"
+      ]
+    },
+    "truth": {
+      "vendor_code": "V-00011",
+      "currency": "USD",
+      "line_items": [
+        {
+          "material_code": "MRO-653918",
+          "description": "CABLE TIE CLEAR ANTIFOG",
+          "quantity": 100.0,
+          "unit": "BOX",
+          "unit_price": 28.94,
+          "line_total": 2894.0
+        },
+        {
+          "material_code": "MRO-373799",
+          "description": "CABLE TIE CLEAR ANTIFOG",
+          "quantity": 50.0,
+          "unit": "BOX",
+          "unit_price": 22.5,
+          "line_total": 1125.0
+        },
+        {
+          "material_code": "CHM-318054",
+          "description": "ACTIVATED CARBON 98PCT 30KG",
+          "quantity": 50.0,
+          "unit": "KG",
+          "unit_price": 4.99,
+          "line_total": 249.5
+        }
+      ]
+    }
+  },
+  {
+    "pr": {
+      "pr_number": "PR-100111",
+      "requester": "user17",
+      "cost_center": "CC-1906",
+      "vendor_code": "V-00011",
+      "currency": "USD",
+      "attachment_path": "data/synthetic/attachments/PR-100111.txt",
+      "buyer_line_hints": [
+        "temp transmitter x25"
+      ]
+    },
+    "truth": {
+      "vendor_code": "V-00011",
+      "currency": "USD",
+      "line_items": [
+        {
+          "material_code": "INS-660559",
+          "description": "TEMP TRANSMITTER DN50 ELECTROMAG",
+          "quantity": 25.0,
+          "unit": "EA",
+          "unit_price": 217.17,
+          "line_total": 5429.25
+        }
+      ]
+    }
+  },
+  {
+    "pr": {
+      "pr_number": "PR-100112",
+      "requester": "user34",
+      "cost_center": "CC-1877",
+      "vendor_code": "V-00007",
+      "currency": "USD",
+      "attachment_path": "data/synthetic/attachments/PR-100112.txt",
+      "buyer_line_hints": [
+        "diaphragm pump x10",
+        "sulfuric acid x20"
+      ]
+    },
+    "truth": {
+      "vendor_code": "V-00007",
+      "currency": "USD",
+      "line_items": [
+        {
+          "material_code": "PMP-343224",
+          "description": "DIAPHRAGM PUMP 5HP 50GPM",
+          "quantity": 10.0,
+          "unit": "EA",
+          "unit_price": 1559.07,
+          "line_total": 15590.7
+        },
+        {
+          "material_code": "CHM-364511",
+          "description": "SULFURIC ACID GRANULAR 25KG",
+          "quantity": 20.0,
+          "unit": "KG",
+          "unit_price": 6.17,
+          "line_total": 123.4
+        }
+      ]
+    }
+  },
+  {
+    "pr": {
+      "pr_number": "PR-100113",
+      "requester": "user03",
+      "cost_center": "CC-1209",
+      "vendor_code": "V-00001",
+      "currency": "USD",
+      "attachment_path": "data/synthetic/attachments/PR-100113.txt",
+      "buyer_line_hints": [
+        "flange wn x2",
+        "flange wn x1"
+      ]
+    },
+    "truth": {
+      "vendor_code": "V-00001",
+      "currency": "USD",
+      "line_items": [
+        {
+          "material_code": "FIT-424646",
+          "description": "FLANGE WN 3IN SCH80 SS316",
+          "quantity": 2.0,
+          "unit": "EA",
+          "unit_price": 37.65,
+          "line_total": 75.3
+        },
+        {
+          "material_code": "FIT-723241",
+          "description": "FLANGE WN 1IN SCH40 CS",
+          "quantity": 1.0,
+          "unit": "EA",
+          "unit_price": 39.69,
+          "line_total": 39.69
+        }
+      ]
+    }
+  },
+  {
+    "pr": {
+      "pr_number": "PR-100114",
+      "requester": "user12",
+      "cost_center": "CC-1387",
+      "vendor_code": "V-00012",
+      "currency": "USD",
+      "attachment_path": "data/synthetic/attachments/PR-100114.txt",
+      "buyer_line_hints": [
+        "flow meter x10",
+        "gear pump x5"
+      ]
+    },
+    "truth": {
+      "vendor_code": "V-00012",
+      "currency": "USD",
+      "line_items": [
+        {
+          "material_code": "INS-917857",
+          "description": "FLOW METER DN50 ELECTROMAG",
+          "quantity": 10.0,
+          "unit": "EA",
+          "unit_price": 190.1,
+          "line_total": 1901.0
+        },
+        {
+          "material_code": "PMP-571007",
+          "description": "GEAR PUMP 2HP 20GPM",
+          "quantity": 5.0,
+          "unit": "EA",
+          "unit_price": 2080.46,
+          "line_total": 10402.3
+        }
+      ]
+    }
+  },
+  {
+    "pr": {
+      "pr_number": "PR-100115",
+      "requester": "user08",
+      "cost_center": "CC-1723",
+      "vendor_code": "V-00001",
+      "currency": "USD",
+      "attachment_path": "data/synthetic/attachments/PR-100115.txt",
+      "buyer_line_hints": [
+        "flow meter x25"
+      ]
+    },
+    "truth": {
+      "vendor_code": "V-00001",
+      "currency": "USD",
+      "line_items": [
+        {
+          "material_code": "INS-231587",
+          "description": "FLOW METER DN50 ELECTROMAG",
+          "quantity": 25.0,
+          "unit": "EA",
+          "unit_price": 279.82,
+          "line_total": 6995.5
+        }
+      ]
+    }
+  },
+  {
+    "pr": {
+      "pr_number": "PR-100116",
+      "requester": "user12",
+      "cost_center": "CC-1039",
+      "vendor_code": "V-00006",
+      "currency": "USD",
+      "attachment_path": "data/synthetic/attachments/PR-100116.txt",
+      "buyer_line_hints": [
+        "flow meter x10",
+        "tee equal x5"
+      ]
+    },
+    "truth": {
+      "vendor_code": "V-00006",
+      "currency": "USD",
+      "line_items": [
+        {
+          "material_code": "INS-786782",
+          "description": "FLOW METER DN50 ELECTROMAG",
+          "quantity": 10.0,
+          "unit": "EA",
+          "unit_price": 135.37,
+          "line_total": 1353.7
+        },
+        {
+          "material_code": "FIT-472731",
+          "description": "TEE EQUAL 1IN SCH40 CS",
+          "quantity": 5.0,
+          "unit": "EA",
+          "unit_price": 22.47,
+          "line_total": 112.35
+        }
+      ]
+    }
+  },
+  {
+    "pr": {
+      "pr_number": "PR-100117",
+      "requester": "user31",
+      "cost_center": "CC-1057",
+      "vendor_code": "V-00007",
+      "currency": "USD",
+      "attachment_path": "data/synthetic/attachments/PR-100117.txt",
+      "buyer_line_hints": [
+        "flow meter x1"
+      ]
+    },
+    "truth": {
+      "vendor_code": "V-00007",
+      "currency": "USD",
+      "line_items": [
+        {
+          "material_code": "INS-231587",
+          "description": "FLOW METER DN50 ELECTROMAG",
+          "quantity": 1.0,
+          "unit": "EA",
+          "unit_price": 278.67,
+          "line_total": 278.67
+        }
+      ]
+    }
+  },
+  {
+    "pr": {
+      "pr_number": "PR-100118",
+      "requester": "user31",
+      "cost_center": "CC-1331",
+      "vendor_code": "V-00007",
+      "currency": "USD",
+      "attachment_path": "data/synthetic/attachments/PR-100118.txt",
+      "buyer_line_hints": [
+        "flat gasket x20"
+      ]
+    },
+    "truth": {
+      "vendor_code": "V-00007",
+      "currency": "USD",
+      "line_items": [
+        {
+          "material_code": "GSK-588218",
+          "description": "FLAT GASKET 3IN 300LB GRAPHITE",
+          "quantity": 20.0,
+          "unit": "EA",
+          "unit_price": 35.87,
+          "line_total": 717.4
+        }
+      ]
+    }
+  },
+  {
+    "pr": {
+      "pr_number": "PR-100119",
+      "requester": "user01",
+      "cost_center": "CC-1479",
+      "vendor_code": "V-00008",
+      "currency": "USD",
+      "attachment_path": "data/synthetic/attachments/PR-100119.txt",
+      "buyer_line_hints": [
+        "flange wn x100"
+      ]
+    },
+    "truth": {
+      "vendor_code": "V-00008",
+      "currency": "USD",
+      "line_items": [
+        {
+          "material_code": "FIT-424646",
+          "description": "FLANGE WN 3IN SCH80 SS316",
+          "quantity": 100.0,
+          "unit": "EA",
+          "unit_price": 37.64,
+          "line_total": 3764.0
+        }
+      ]
+    }
+  },
+  {
+    "pr": {
+      "pr_number": "PR-100120",
+      "requester": "user07",
+      "cost_center": "CC-1948",
+      "vendor_code": "V-00005",
+      "currency": "USD",
+      "attachment_path": "data/synthetic/attachments/PR-100120.txt",
+      "buyer_line_hints": [
+        "spiral wound x10"
+      ]
+    },
+    "truth": {
+      "vendor_code": "V-00005",
+      "currency": "USD",
+      "line_items": [
+        {
+          "material_code": "GSK-691783",
+          "description": "SPIRAL WOUND GASKET 1.5IN 150LB PTFE",
+          "quantity": 10.0,
+          "unit": "EA",
+          "unit_price": 31.74,
+          "line_total": 317.4
+        }
+      ]
+    }
+  },
+  {
+    "pr": {
+      "pr_number": "PR-100121",
+      "requester": "user16",
+      "cost_center": "CC-1159",
+      "vendor_code": "V-00001",
+      "currency": "USD",
+      "attachment_path": "data/synthetic/attachments/PR-100121.txt",
+      "buyer_line_hints": [
+        "gate valve x100",
+        "gate valve x25",
+        "sodium hydroxide x100"
+      ]
+    },
+    "truth": {
+      "vendor_code": "V-00001",
+      "currency": "USD",
+      "line_items": [
+        {
+          "material_code": "VLV-545140",
+          "description": "GATE VALVE 2IN 150LB CS",
+          "quantity": 100.0,
+          "unit": "EA",
+          "unit_price": 185.99,
+          "line_total": 18599.0
+        },
+        {
+          "material_code": "VLV-251262",
+          "description": "GATE VALVE 1IN 600LB CS",
+          "quantity": 25.0,
+          "unit": "EA",
+          "unit_price": 144.11,
+          "line_total": 3602.75
+        },
+        {
+          "material_code": "CHM-228809",
+          "description": "SODIUM HYDROXIDE 98PCT 30KG",
+          "quantity": 100.0,
+          "unit": "KG",
+          "unit_price": 9.53,
+          "line_total": 953.0
+        }
+      ]
+    }
+  },
+  {
+    "pr": {
+      "pr_number": "PR-100122",
+      "requester": "user14",
+      "cost_center": "CC-1573",
+      "vendor_code": "V-00009",
+      "currency": "USD",
+      "attachment_path": "data/synthetic/attachments/PR-100122.txt",
+      "buyer_line_hints": [
+        "cable tie x5",
+        "gear pump x2"
+      ]
+    },
+    "truth": {
+      "vendor_code": "V-00009",
+      "currency": "USD",
+      "line_items": [
+        {
+          "material_code": "MRO-373799",
+          "description": "CABLE TIE CLEAR ANTIFOG",
+          "quantity": 5.0,
+          "unit": "BOX",
+          "unit_price": 22.35,
+          "line_total": 111.75
+        },
+        {
+          "material_code": "PMP-535469",
+          "description": "GEAR PUMP 2HP 20GPM",
+          "quantity": 2.0,
+          "unit": "EA",
+          "unit_price": 3291.14,
+          "line_total": 6582.28
+        }
+      ]
+    }
+  },
+  {
+    "pr": {
+      "pr_number": "PR-100123",
+      "requester": "user16",
+      "cost_center": "CC-1947",
+      "vendor_code": "V-00006",
+      "currency": "USD",
+      "attachment_path": "data/synthetic/attachments/PR-100123.txt",
+      "buyer_line_hints": [
+        "spiral wound x10"
+      ]
+    },
+    "truth": {
+      "vendor_code": "V-00006",
+      "currency": "USD",
+      "line_items": [
+        {
+          "material_code": "GSK-176756",
+          "description": "SPIRAL WOUND GASKET 1.5IN 150LB PTFE",
+          "quantity": 10.0,
+          "unit": "EA",
+          "unit_price": 37.64,
+          "line_total": 376.4
+        }
+      ]
+    }
+  },
+  {
+    "pr": {
+      "pr_number": "PR-100124",
+      "requester": "user34",
+      "cost_center": "CC-1293",
+      "vendor_code": "V-00008",
+      "currency": "USD",
+      "attachment_path": "data/synthetic/attachments/PR-100124.txt",
+      "buyer_line_hints": [
+        "gear pump x5",
+        "diaphragm pump x25"
+      ]
+    },
+    "truth": {
+      "vendor_code": "V-00008",
+      "currency": "USD",
+      "line_items": [
+        {
+          "material_code": "PMP-328807",
+          "description": "GEAR PUMP 5HP 50GPM",
+          "quantity": 5.0,
+          "unit": "EA",
+          "unit_price": 3077.8,
+          "line_total": 15389.0
+        },
+        {
+          "material_code": "PMP-343224",
+          "description": "DIAPHRAGM PUMP 5HP 50GPM",
+          "quantity": 25.0,
+          "unit": "EA",
+          "unit_price": 1562.99,
+          "line_total": 39074.75
+        }
+      ]
+    }
+  },
+  {
+    "pr": {
+      "pr_number": "PR-100125",
+      "requester": "user34",
+      "cost_center": "CC-1788",
+      "vendor_code": "V-00008",
+      "currency": "USD",
+      "attachment_path": "data/synthetic/attachments/PR-100125.txt",
+      "buyer_line_hints": [
+        "gear pump x10"
+      ]
+    },
+    "truth": {
+      "vendor_code": "V-00008",
+      "currency": "USD",
+      "line_items": [
+        {
+          "material_code": "PMP-328807",
+          "description": "GEAR PUMP 5HP 50GPM",
+          "quantity": 10.0,
+          "unit": "EA",
+          "unit_price": 2992.37,
+          "line_total": 29923.7
+        }
+      ]
+    }
+  },
+  {
+    "pr": {
+      "pr_number": "PR-100126",
+      "requester": "user12",
+      "cost_center": "CC-1210",
+      "vendor_code": "V-00003",
+      "currency": "USD",
+      "attachment_path": "data/synthetic/attachments/PR-100126.txt",
+      "buyer_line_hints": [
+        "temp transmitter x2"
+      ]
+    },
+    "truth": {
+      "vendor_code": "V-00003",
+      "currency": "USD",
+      "line_items": [
+        {
+          "material_code": "INS-518359",
+          "description": "TEMP TRANSMITTER 0-10BAR 2.5IN",
+          "quantity": 2.0,
+          "unit": "EA",
+          "unit_price": 204.8,
+          "line_total": 409.6
+        }
+      ]
+    }
+  },
+  {
+    "pr": {
+      "pr_number": "PR-100127",
+      "requester": "user37",
+      "cost_center": "CC-1851",
+      "vendor_code": "V-00005",
+      "currency": "USD",
+      "attachment_path": "data/synthetic/attachments/PR-100127.txt",
+      "buyer_line_hints": [
+        "reducer conc x10",
+        "elbow 90deg x25",
+        "gear pump x100"
+      ]
+    },
+    "truth": {
+      "vendor_code": "V-00005",
+      "currency": "USD",
+      "line_items": [
+        {
+          "material_code": "FIT-958105",
+          "description": "REDUCER CONC 3IN SCH80 SS316",
+          "quantity": 10.0,
+          "unit": "EA",
+          "unit_price": 38.05,
+          "line_total": 380.5
+        },
+        {
+          "material_code": "FIT-796414",
+          "description": "ELBOW 90DEG 2IN SCH40 CS",
+          "quantity": 25.0,
+          "unit": "EA",
+          "unit_price": 38.08,
+          "line_total": 952.0
+        },
+        {
+          "material_code": "PMP-328807",
+          "description": "GEAR PUMP 5HP 50GPM",
+          "quantity": 100.0,
+          "unit": "EA",
+          "unit_price": 3006.93,
+          "line_total": 300693.0
+        }
+      ]
+    }
+  },
+  {
+    "pr": {
+      "pr_number": "PR-100128",
+      "requester": "user29",
+      "cost_center": "CC-1991",
+      "vendor_code": "V-00001",
+      "currency": "USD",
+      "attachment_path": "data/synthetic/attachments/PR-100128.txt",
+      "buyer_line_hints": [
+        "sulfuric acid x25"
+      ]
+    },
+    "truth": {
+      "vendor_code": "V-00001",
+      "currency": "USD",
+      "line_items": [
+        {
+          "material_code": "CHM-364511",
+          "description": "SULFURIC ACID GRANULAR 25KG",
+          "quantity": 25.0,
+          "unit": "KG",
+          "unit_price": 6.19,
+          "line_total": 154.75
+        }
+      ]
+    }
+  },
+  {
+    "pr": {
+      "pr_number": "PR-100129",
+      "requester": "user07",
+      "cost_center": "CC-1976",
+      "vendor_code": "V-00002",
+      "currency": "USD",
+      "attachment_path": "data/synthetic/attachments/PR-100129.txt",
+      "buyer_line_hints": [
+        "sodium hydroxide x10",
+        "sodium hydroxide x50"
+      ]
+    },
+    "truth": {
+      "vendor_code": "V-00002",
+      "currency": "USD",
+      "line_items": [
+        {
+          "material_code": "CHM-228809",
+          "description": "SODIUM HYDROXIDE 98PCT 30KG",
+          "quantity": 10.0,
+          "unit": "KG",
+          "unit_price": 9.59,
+          "line_total": 95.9
+        },
+        {
+          "material_code": "CHM-228809",
+          "description": "SODIUM HYDROXIDE 98PCT 30KG",
+          "quantity": 50.0,
+          "unit": "KG",
+          "unit_price": 9.6,
+          "line_total": 480.0
+        }
+      ]
+    }
+  },
+  {
+    "pr": {
+      "pr_number": "PR-100130",
+      "requester": "user30",
+      "cost_center": "CC-1535",
+      "vendor_code": "V-00010",
+      "currency": "USD",
+      "attachment_path": "data/synthetic/attachments/PR-100130.txt",
+      "buyer_line_hints": [
+        "gate valve x5",
+        "reducer conc x20",
+        "sulfuric acid x10"
+      ]
+    },
+    "truth": {
+      "vendor_code": "V-00010",
+      "currency": "USD",
+      "line_items": [
+        {
+          "material_code": "VLV-661913",
+          "description": "GATE VALVE 1IN 600LB CS",
+          "quantity": 5.0,
+          "unit": "EA",
+          "unit_price": 151.01,
+          "line_total": 755.05
+        },
+        {
+          "material_code": "FIT-958105",
+          "description": "REDUCER CONC 3IN SCH80 SS316",
+          "quantity": 20.0,
+          "unit": "EA",
+          "unit_price": 37.29,
+          "line_total": 745.8
+        },
+        {
+          "material_code": "CHM-364511",
+          "description": "SULFURIC ACID GRANULAR 25KG",
+          "quantity": 10.0,
+          "unit": "KG",
+          "unit_price": 6.19,
+          "line_total": 61.9
+        }
+      ]
+    }
+  },
+  {
+    "pr": {
+      "pr_number": "PR-100131",
+      "requester": "user32",
+      "cost_center": "CC-1599",
+      "vendor_code": "V-00010",
+      "currency": "USD",
+      "attachment_path": "data/synthetic/attachments/PR-100131.txt",
+      "buyer_line_hints": [
+        "elbow 90deg x2"
+      ]
+    },
+    "truth": {
+      "vendor_code": "V-00010",
+      "currency": "USD",
+      "line_items": [
+        {
+          "material_code": "FIT-796414",
+          "description": "ELBOW 90DEG 2IN SCH40 CS",
+          "quantity": 2.0,
+          "unit": "EA",
+          "unit_price": 37.86,
+          "line_total": 75.72
+        }
+      ]
+    }
+  },
+  {
+    "pr": {
+      "pr_number": "PR-100132",
+      "requester": "user15",
+      "cost_center": "CC-1150",
+      "vendor_code": "V-00006",
+      "currency": "USD",
+      "attachment_path": "data/synthetic/attachments/PR-100132.txt",
+      "buyer_line_hints": [
+        "gate valve x2"
+      ]
+    },
+    "truth": {
+      "vendor_code": "V-00006",
+      "currency": "USD",
+      "line_items": [
+        {
+          "material_code": "VLV-251262",
+          "description": "GATE VALVE 1IN 600LB CS",
+          "quantity": 2.0,
+          "unit": "EA",
+          "unit_price": 143.99,
+          "line_total": 287.98
+        }
+      ]
+    }
+  },
+  {
+    "pr": {
+      "pr_number": "PR-100133",
+      "requester": "user28",
+      "cost_center": "CC-1863",
+      "vendor_code": "V-00010",
+      "currency": "USD",
+      "attachment_path": "data/synthetic/attachments/PR-100133.txt",
+      "buyer_line_hints": [
+        "tee equal x5",
+        "sulfuric acid x50",
+        "gate valve x25"
+      ]
+    },
+    "truth": {
+      "vendor_code": "V-00010",
+      "currency": "USD",
+      "line_items": [
+        {
+          "material_code": "FIT-472731",
+          "description": "TEE EQUAL 1IN SCH40 CS",
+          "quantity": 5.0,
+          "unit": "EA",
+          "unit_price": 22.44,
+          "line_total": 112.2
+        },
+        {
+          "material_code": "CHM-364511",
+          "description": "SULFURIC ACID GRANULAR 25KG",
+          "quantity": 50.0,
+          "unit": "KG",
+          "unit_price": 6.18,
+          "line_total": 309.0
+        },
+        {
+          "material_code": "VLV-538485",
+          "description": "GATE VALVE 3IN 300LB SS316",
+          "quantity": 25.0,
+          "unit": "EA",
+          "unit_price": 93.56,
+          "line_total": 2339.0
+        }
+      ]
+    }
+  },
+  {
+    "pr": {
+      "pr_number": "PR-100134",
+      "requester": "user07",
+      "cost_center": "CC-1543",
+      "vendor_code": "V-00007",
+      "currency": "USD",
+      "attachment_path": "data/synthetic/attachments/PR-100134.txt",
+      "buyer_line_hints": [
+        "safety goggles x1",
+        "elbow 90deg x10"
+      ]
+    },
+    "truth": {
+      "vendor_code": "V-00007",
+      "currency": "USD",
+      "line_items": [
+        {
+          "material_code": "MRO-875813",
+          "description": "SAFETY GOGGLES CLEAR ANTIFOG",
+          "quantity": 1.0,
+          "unit": "BOX",
+          "unit_price": 25.56,
+          "line_total": 25.56
+        },
+        {
+          "material_code": "FIT-796414",
+          "description": "ELBOW 90DEG 2IN SCH40 CS",
+          "quantity": 10.0,
+          "unit": "EA",
+          "unit_price": 38.09,
+          "line_total": 380.9
+        }
+      ]
+    }
+  },
+  {
+    "pr": {
+      "pr_number": "PR-100135",
+      "requester": "user40",
+      "cost_center": "CC-1279",
+      "vendor_code": "V-00007",
+      "currency": "USD",
+      "attachment_path": "data/synthetic/attachments/PR-100135.txt",
+      "buyer_line_hints": [
+        "flat gasket x1",
+        "gear pump x1"
+      ]
+    },
+    "truth": {
+      "vendor_code": "V-00007",
+      "currency": "USD",
+      "line_items": [
+        {
+          "material_code": "GSK-588218",
+          "description": "FLAT GASKET 3IN 300LB GRAPHITE",
+          "quantity": 1.0,
+          "unit": "EA",
+          "unit_price": 35.86,
+          "line_total": 35.86
+        },
+        {
+          "material_code": "PMP-243577",
+          "description": "GEAR PUMP 2HP 20GPM",
+          "quantity": 1.0,
+          "unit": "EA",
+          "unit_price": 2099.31,
+          "line_total": 2099.31
+        }
+      ]
+    }
+  },
+  {
+    "pr": {
+      "pr_number": "PR-100136",
+      "requester": "user09",
+      "cost_center": "CC-1906",
+      "vendor_code": "V-00001",
+      "currency": "USD",
+      "attachment_path": "data/synthetic/attachments/PR-100136.txt",
+      "buyer_line_hints": [
+        "gate valve x20",
+        "globe valve x20",
+        "gate valve x20"
+      ]
+    },
+    "truth": {
+      "vendor_code": "V-00001",
+      "currency": "USD",
+      "line_items": [
+        {
+          "material_code": "VLV-331821",
+          "description": "GATE VALVE 3IN 300LB SS316",
+          "quantity": 20.0,
+          "unit": "EA",
+          "unit_price": 114.72,
+          "line_total": 2294.4
+        },
+        {
+          "material_code": "VLV-632084",
+          "description": "GLOBE VALVE 2IN 150LB CS",
+          "quantity": 20.0,
+          "unit": "EA",
+          "unit_price": 93.14,
+          "line_total": 1862.8
+        },
+        {
+          "material_code": "VLV-538485",
+          "description": "GATE VALVE 3IN 300LB SS316",
+          "quantity": 20.0,
+          "unit": "EA",
+          "unit_price": 92.05,
+          "line_total": 1841.0
+        }
+      ]
+    }
+  },
+  {
+    "pr": {
+      "pr_number": "PR-100137",
+      "requester": "user31",
+      "cost_center": "CC-1838",
+      "vendor_code": "V-00008",
+      "currency": "USD",
+      "attachment_path": "data/synthetic/attachments/PR-100137.txt",
+      "buyer_line_hints": [
+        "elbow 90deg x20",
+        "safety goggles x100",
+        "flat gasket x25"
+      ]
+    },
+    "truth": {
+      "vendor_code": "V-00008",
+      "currency": "USD",
+      "line_items": [
+        {
+          "material_code": "FIT-800675",
+          "description": "ELBOW 90DEG 1IN SCH40 CS",
+          "quantity": 20.0,
+          "unit": "EA",
+          "unit_price": 33.9,
+          "line_total": 678.0
+        },
+        {
+          "material_code": "MRO-926696",
+          "description": "SAFETY GOGGLES CLEAR ANTIFOG",
+          "quantity": 100.0,
+          "unit": "BOX",
+          "unit_price": 31.62,
+          "line_total": 3162.0
+        },
+        {
+          "material_code": "GSK-588218",
+          "description": "FLAT GASKET 3IN 300LB GRAPHITE",
+          "quantity": 25.0,
+          "unit": "EA",
+          "unit_price": 35.91,
+          "line_total": 897.75
+        }
+      ]
+    }
+  },
+  {
+    "pr": {
+      "pr_number": "PR-100138",
+      "requester": "user21",
+      "cost_center": "CC-1503",
+      "vendor_code": "V-00005",
+      "currency": "USD",
+      "attachment_path": "data/synthetic/attachments/PR-100138.txt",
+      "buyer_line_hints": [
+        "flat gasket x10",
+        "check valve x25"
+      ]
+    },
+    "truth": {
+      "vendor_code": "V-00005",
+      "currency": "USD",
+      "line_items": [
+        {
+          "material_code": "GSK-185831",
+          "description": "FLAT GASKET 3IN 300LB GRAPHITE",
+          "quantity": 10.0,
+          "unit": "EA",
+          "unit_price": 40.99,
+          "line_total": 409.9
+        },
+        {
+          "material_code": "VLV-258176",
+          "description": "CHECK VALVE 2IN 150LB CS",
+          "quantity": 25.0,
+          "unit": "EA",
+          "unit_price": 92.24,
+          "line_total": 2306.0
+        }
+      ]
+    }
+  },
+  {
+    "pr": {
+      "pr_number": "PR-100139",
+      "requester": "user34",
+      "cost_center": "CC-1230",
+      "vendor_code": "V-00005",
+      "currency": "USD",
+      "attachment_path": "data/synthetic/attachments/PR-100139.txt",
+      "buyer_line_hints": [
+        "gate valve x1",
+        "temp transmitter x50"
+      ]
+    },
+    "truth": {
+      "vendor_code": "V-00005",
+      "currency": "USD",
+      "line_items": [
+        {
+          "material_code": "VLV-538485",
+          "description": "GATE VALVE 3IN 300LB SS316",
+          "quantity": 1.0,
+          "unit": "EA",
+          "unit_price": 93.39,
+          "line_total": 93.39
+        },
+        {
+          "material_code": "INS-375509",
+          "description": "TEMP TRANSMITTER 0-10BAR 2.5IN",
+          "quantity": 50.0,
+          "unit": "EA",
+          "unit_price": 149.38,
+          "line_total": 7469.0
+        }
+      ]
+    }
+  },
+  {
+    "pr": {
+      "pr_number": "PR-100140",
+      "requester": "user31",
+      "cost_center": "CC-1275",
+      "vendor_code": "V-00003",
+      "currency": "USD",
+      "attachment_path": "data/synthetic/attachments/PR-100140.txt",
+      "buyer_line_hints": [
+        "elbow 90deg x25",
+        "flange wn x2"
+      ]
+    },
+    "truth": {
+      "vendor_code": "V-00003",
+      "currency": "USD",
+      "line_items": [
+        {
+          "material_code": "FIT-172103",
+          "description": "ELBOW 90DEG 3IN SCH80 SS316",
+          "quantity": 25.0,
+          "unit": "EA",
+          "unit_price": 31.46,
+          "line_total": 786.5
+        },
+        {
+          "material_code": "FIT-259367",
+          "description": "FLANGE WN 3IN SCH80 SS316",
+          "quantity": 2.0,
+          "unit": "EA",
+          "unit_price": 20.64,
+          "line_total": 41.28
+        }
+      ]
+    }
+  },
+  {
+    "pr": {
+      "pr_number": "PR-100141",
+      "requester": "user29",
+      "cost_center": "CC-1709",
+      "vendor_code": "V-00003",
+      "currency": "USD",
+      "attachment_path": "data/synthetic/attachments/PR-100141.txt",
+      "buyer_line_hints": [
+        "nitrile gloves x2",
+        "flow meter x5"
+      ]
+    },
+    "truth": {
+      "vendor_code": "V-00003",
+      "currency": "USD",
+      "line_items": [
+        {
+          "material_code": "MRO-472834",
+          "description": "NITRILE GLOVES L 100PCS",
+          "quantity": 2.0,
+          "unit": "BOX",
+          "unit_price": 30.35,
+          "line_total": 60.7
+        },
+        {
+          "material_code": "INS-786782",
+          "description": "FLOW METER DN50 ELECTROMAG",
+          "quantity": 5.0,
+          "unit": "EA",
+          "unit_price": 135.13,
+          "line_total": 675.65
+        }
+      ]
+    }
+  },
+  {
+    "pr": {
+      "pr_number": "PR-100142",
+      "requester": "user10",
+      "cost_center": "CC-1446",
+      "vendor_code": "V-00007",
+      "currency": "USD",
+      "attachment_path": "data/synthetic/attachments/PR-100142.txt",
+      "buyer_line_hints": [
+        "elbow 90deg x50",
+        "check valve x100"
+      ]
+    },
+    "truth": {
+      "vendor_code": "V-00007",
+      "currency": "USD",
+      "line_items": [
+        {
+          "material_code": "FIT-796414",
+          "description": "ELBOW 90DEG 2IN SCH40 CS",
+          "quantity": 50.0,
+          "unit": "EA",
+          "unit_price": 38.07,
+          "line_total": 1903.5
+        },
+        {
+          "material_code": "VLV-258176",
+          "description": "CHECK VALVE 2IN 150LB CS",
+          "quantity": 100.0,
+          "unit": "EA",
+          "unit_price": 91.64,
+          "line_total": 9164.0
+        }
+      ]
+    }
+  },
+  {
+    "pr": {
+      "pr_number": "PR-100143",
+      "requester": "user21",
+      "cost_center": "CC-1209",
+      "vendor_code": "V-00012",
+      "currency": "USD",
+      "attachment_path": "data/synthetic/attachments/PR-100143.txt",
+      "buyer_line_hints": [
+        "gate valve x25"
+      ]
+    },
+    "truth": {
+      "vendor_code": "V-00012",
+      "currency": "USD",
+      "line_items": [
+        {
+          "material_code": "VLV-761259",
+          "description": "GATE VALVE 4IN 150LB SS304",
+          "quantity": 25.0,
+          "unit": "EA",
+          "unit_price": 89.67,
+          "line_total": 2241.75
+        }
+      ]
+    }
+  },
+  {
+    "pr": {
+      "pr_number": "PR-100144",
+      "requester": "user34",
+      "cost_center": "CC-1845",
+      "vendor_code": "V-00001",
+      "currency": "USD",
+      "attachment_path": "data/synthetic/attachments/PR-100144.txt",
+      "buyer_line_hints": [
+        "gate valve x20"
+      ]
+    },
+    "truth": {
+      "vendor_code": "V-00001",
+      "currency": "USD",
+      "line_items": [
+        {
+          "material_code": "VLV-538485",
+          "description": "GATE VALVE 3IN 300LB SS316",
+          "quantity": 20.0,
+          "unit": "EA",
+          "unit_price": 93.8,
+          "line_total": 1876.0
+        }
+      ]
+    }
+  },
+  {
+    "pr": {
+      "pr_number": "PR-100145",
+      "requester": "user26",
+      "cost_center": "CC-1450",
+      "vendor_code": "V-00008",
+      "currency": "USD",
+      "attachment_path": "data/synthetic/attachments/PR-100145.txt",
+      "buyer_line_hints": [
+        "gear pump x25",
+        "temp transmitter x10"
+      ]
+    },
+    "truth": {
+      "vendor_code": "V-00008",
+      "currency": "USD",
+      "line_items": [
+        {
+          "material_code": "PMP-243577",
+          "description": "GEAR PUMP 2HP 20GPM",
+          "quantity": 25.0,
+          "unit": "EA",
+          "unit_price": 2143.05,
+          "line_total": 53576.25
+        },
+        {
+          "material_code": "INS-375509",
+          "description": "TEMP TRANSMITTER 0-10BAR 2.5IN",
+          "quantity": 10.0,
+          "unit": "EA",
+          "unit_price": 152.85,
+          "line_total": 1528.5
+        }
+      ]
+    }
+  },
+  {
+    "pr": {
+      "pr_number": "PR-100146",
+      "requester": "user27",
+      "cost_center": "CC-1646",
+      "vendor_code": "V-00012",
+      "currency": "USD",
+      "attachment_path": "data/synthetic/attachments/PR-100146.txt",
+      "buyer_line_hints": [
+        "sulfuric acid x2",
+        "gate valve x20"
+      ]
+    },
+    "truth": {
+      "vendor_code": "V-00012",
+      "currency": "USD",
+      "line_items": [
+        {
+          "material_code": "CHM-364511",
+          "description": "SULFURIC ACID GRANULAR 25KG",
+          "quantity": 2.0,
+          "unit": "KG",
+          "unit_price": 6.16,
+          "line_total": 12.32
+        },
+        {
+          "material_code": "VLV-251262",
+          "description": "GATE VALVE 1IN 600LB CS",
+          "quantity": 20.0,
+          "unit": "EA",
+          "unit_price": 144.97,
+          "line_total": 2899.4
+        }
+      ]
+    }
+  },
+  {
+    "pr": {
+      "pr_number": "PR-100147",
+      "requester": "user20",
+      "cost_center": "CC-1407",
+      "vendor_code": "V-00006",
+      "currency": "USD",
+      "attachment_path": "data/synthetic/attachments/PR-100147.txt",
+      "buyer_line_hints": [
+        "spiral wound x10",
+        "gate valve x25",
+        "check valve x1"
+      ]
+    },
+    "truth": {
+      "vendor_code": "V-00006",
+      "currency": "USD",
+      "line_items": [
+        {
+          "material_code": "GSK-360494",
+          "description": "SPIRAL WOUND GASKET 1.5IN 150LB PTFE",
+          "quantity": 10.0,
+          "unit": "EA",
+          "unit_price": 48.84,
+          "line_total": 488.4
+        },
+        {
+          "material_code": "VLV-331821",
+          "description": "GATE VALVE 3IN 300LB SS316",
+          "quantity": 25.0,
+          "unit": "EA",
+          "unit_price": 115.43,
+          "line_total": 2885.75
+        },
+        {
+          "material_code": "VLV-258176",
+          "description": "CHECK VALVE 2IN 150LB CS",
+          "quantity": 1.0,
+          "unit": "EA",
+          "unit_price": 92.0,
+          "line_total": 92.0
+        }
+      ]
+    }
+  },
+  {
+    "pr": {
+      "pr_number": "PR-100148",
+      "requester": "user18",
+      "cost_center": "CC-1892",
+      "vendor_code": "V-00012",
+      "currency": "USD",
+      "attachment_path": "data/synthetic/attachments/PR-100148.txt",
+      "buyer_line_hints": [
+        "sulfuric acid x1"
+      ]
+    },
+    "truth": {
+      "vendor_code": "V-00012",
+      "currency": "USD",
+      "line_items": [
+        {
+          "material_code": "CHM-206393",
+          "description": "SULFURIC ACID GRANULAR 25KG",
+          "quantity": 1.0,
+          "unit": "KG",
+          "unit_price": 4.34,
+          "line_total": 4.34
+        }
+      ]
+    }
+  },
+  {
+    "pr": {
+      "pr_number": "PR-100149",
+      "requester": "user38",
+      "cost_center": "CC-1330",
+      "vendor_code": "V-00011",
+      "currency": "USD",
+      "attachment_path": "data/synthetic/attachments/PR-100149.txt",
+      "buyer_line_hints": [
+        "spiral wound x10",
+        "safety goggles x2",
+        "pressure gauge x50"
+      ]
+    },
+    "truth": {
+      "vendor_code": "V-00011",
+      "currency": "USD",
+      "line_items": [
+        {
+          "material_code": "GSK-490487",
+          "description": "SPIRAL WOUND GASKET 1.5IN 150LB PTFE",
+          "quantity": 10.0,
+          "unit": "EA",
+          "unit_price": 46.75,
+          "line_total": 467.5
+        },
+        {
+          "material_code": "MRO-601871",
+          "description": "SAFETY GOGGLES L 100PCS",
+          "quantity": 2.0,
+          "unit": "BOX",
+          "unit_price": 19.1,
+          "line_total": 38.2
+        },
+        {
+          "material_code": "INS-519894",
+          "description": "PRESSURE GAUGE 0-10BAR 2.5IN",
+          "quantity": 50.0,
+          "unit": "EA",
+          "unit_price": 136.31,
+          "line_total": 6815.5
+        }
+      ]
+    }
+  },
+  {
+    "pr": {
+      "pr_number": "PR-100150",
+      "requester": "user40",
+      "cost_center": "CC-1244",
+      "vendor_code": "V-00005",
+      "currency": "USD",
+      "attachment_path": "data/synthetic/attachments/PR-100150.txt",
+      "buyer_line_hints": [
+        "flange wn x5",
+        "gear pump x50"
+      ]
+    },
+    "truth": {
+      "vendor_code": "V-00005",
+      "currency": "USD",
+      "line_items": [
+        {
+          "material_code": "FIT-259367",
+          "description": "FLANGE WN 3IN SCH80 SS316",
+          "quantity": 5.0,
+          "unit": "EA",
+          "unit_price": 21.09,
+          "line_total": 105.45
+        },
+        {
+          "material_code": "PMP-571007",
+          "description": "GEAR PUMP 2HP 20GPM",
+          "quantity": 50.0,
+          "unit": "EA",
+          "unit_price": 2132.34,
+          "line_total": 106617.0
+        }
+      ]
+    }
+  },
+  {
+    "pr": {
+      "pr_number": "PR-100151",
+      "requester": "user20",
+      "cost_center": "CC-1428",
+      "vendor_code": "V-00001",
+      "currency": "USD",
+      "attachment_path": "data/synthetic/attachments/PR-100151.txt",
+      "buyer_line_hints": [
+        "flow meter x5"
+      ]
+    },
+    "truth": {
+      "vendor_code": "V-00001",
+      "currency": "USD",
+      "line_items": [
+        {
+          "material_code": "INS-917857",
+          "description": "FLOW METER DN50 ELECTROMAG",
+          "quantity": 5.0,
+          "unit": "EA",
+          "unit_price": 190.33,
+          "line_total": 951.65
+        }
+      ]
+    }
+  },
+  {
+    "pr": {
+      "pr_number": "PR-100152",
+      "requester": "user26",
+      "cost_center": "CC-1896",
+      "vendor_code": "V-00010",
+      "currency": "USD",
+      "attachment_path": "data/synthetic/attachments/PR-100152.txt",
+      "buyer_line_hints": [
+        "flat gasket x50"
+      ]
+    },
+    "truth": {
+      "vendor_code": "V-00010",
+      "currency": "USD",
+      "line_items": [
+        {
+          "material_code": "GSK-460160",
+          "description": "FLAT GASKET 3IN 300LB GRAPHITE",
+          "quantity": 50.0,
+          "unit": "EA",
+          "unit_price": 33.6,
+          "line_total": 1680.0
+        }
+      ]
+    }
+  },
+  {
+    "pr": {
+      "pr_number": "PR-100153",
+      "requester": "user19",
+      "cost_center": "CC-1405",
+      "vendor_code": "V-00001",
+      "currency": "USD",
+      "attachment_path": "data/synthetic/attachments/PR-100153.txt",
+      "buyer_line_hints": [
+        "gate valve x5"
+      ]
+    },
+    "truth": {
+      "vendor_code": "V-00001",
+      "currency": "USD",
+      "line_items": [
+        {
+          "material_code": "VLV-761259",
+          "description": "GATE VALVE 4IN 150LB SS304",
+          "quantity": 5.0,
+          "unit": "EA",
+          "unit_price": 89.25,
+          "line_total": 446.25
+        }
+      ]
+    }
+  },
+  {
+    "pr": {
+      "pr_number": "PR-100154",
+      "requester": "user28",
+      "cost_center": "CC-1035",
+      "vendor_code": "V-00002",
+      "currency": "USD",
+      "attachment_path": "data/synthetic/attachments/PR-100154.txt",
+      "buyer_line_hints": [
+        "temp transmitter x50",
+        "flow meter x10"
+      ]
+    },
+    "truth": {
+      "vendor_code": "V-00002",
+      "currency": "USD",
+      "line_items": [
+        {
+          "material_code": "INS-660559",
+          "description": "TEMP TRANSMITTER DN50 ELECTROMAG",
+          "quantity": 50.0,
+          "unit": "EA",
+          "unit_price": 218.08,
+          "line_total": 10904.0
+        },
+        {
+          "material_code": "INS-231587",
+          "description": "FLOW METER DN50 ELECTROMAG",
+          "quantity": 10.0,
+          "unit": "EA",
+          "unit_price": 279.85,
+          "line_total": 2798.5
+        }
+      ]
+    }
+  },
+  {
+    "pr": {
+      "pr_number": "PR-100155",
+      "requester": "user16",
+      "cost_center": "CC-1163",
+      "vendor_code": "V-00001",
+      "currency": "USD",
+      "attachment_path": "data/synthetic/attachments/PR-100155.txt",
+      "buyer_line_hints": [
+        "cable tie x5",
+        "temp transmitter x5"
+      ]
+    },
+    "truth": {
+      "vendor_code": "V-00001",
+      "currency": "USD",
+      "line_items": [
+        {
+          "material_code": "MRO-373799",
+          "description": "CABLE TIE CLEAR ANTIFOG",
+          "quantity": 5.0,
+          "unit": "BOX",
+          "unit_price": 22.36,
+          "line_total": 111.8
+        },
+        {
+          "material_code": "INS-660559",
+          "description": "TEMP TRANSMITTER DN50 ELECTROMAG",
+          "quantity": 5.0,
+          "unit": "EA",
+          "unit_price": 217.68,
+          "line_total": 1088.4
+        }
+      ]
+    }
+  },
+  {
+    "pr": {
+      "pr_number": "PR-100156",
+      "requester": "user35",
+      "cost_center": "CC-1252",
+      "vendor_code": "V-00005",
+      "currency": "USD",
+      "attachment_path": "data/synthetic/attachments/PR-100156.txt",
+      "buyer_line_hints": [
+        "tee equal x50",
+        "gear pump x10",
+        "sodium hydroxide x20"
+      ]
+    },
+    "truth": {
+      "vendor_code": "V-00005",
+      "currency": "USD",
+      "line_items": [
+        {
+          "material_code": "FIT-472731",
+          "description": "TEE EQUAL 1IN SCH40 CS",
+          "quantity": 50.0,
+          "unit": "EA",
+          "unit_price": 22.57,
+          "line_total": 1128.5
+        },
+        {
+          "material_code": "PMP-535469",
+          "description": "GEAR PUMP 2HP 20GPM",
+          "quantity": 10.0,
+          "unit": "EA",
+          "unit_price": 3289.14,
+          "line_total": 32891.4
+        },
+        {
+          "material_code": "CHM-228809",
+          "description": "SODIUM HYDROXIDE 98PCT 30KG",
+          "quantity": 20.0,
+          "unit": "KG",
+          "unit_price": 9.55,
+          "line_total": 191.0
+        }
+      ]
+    }
+  },
+  {
+    "pr": {
+      "pr_number": "PR-100157",
+      "requester": "user25",
+      "cost_center": "CC-1029",
+      "vendor_code": "V-00011",
+      "currency": "USD",
+      "attachment_path": "data/synthetic/attachments/PR-100157.txt",
+      "buyer_line_hints": [
+        "globe valve x2"
+      ]
+    },
+    "truth": {
+      "vendor_code": "V-00011",
+      "currency": "USD",
+      "line_items": [
+        {
+          "material_code": "VLV-815131",
+          "description": "GLOBE VALVE 2IN 150LB CS",
+          "quantity": 2.0,
+          "unit": "EA",
+          "unit_price": 146.21,
+          "line_total": 292.42
+        }
+      ]
+    }
+  },
+  {
+    "pr": {
+      "pr_number": "PR-100158",
+      "requester": "user15",
+      "cost_center": "CC-1328",
+      "vendor_code": "V-00012",
+      "currency": "USD",
+      "attachment_path": "data/synthetic/attachments/PR-100158.txt",
+      "buyer_line_hints": [
+        "reducer conc x1"
+      ]
+    },
+    "truth": {
+      "vendor_code": "V-00012",
+      "currency": "USD",
+      "line_items": [
+        {
+          "material_code": "FIT-958105",
+          "description": "REDUCER CONC 3IN SCH80 SS316",
+          "quantity": 1.0,
+          "unit": "EA",
+          "unit_price": 36.97,
+          "line_total": 36.97
+        }
+      ]
+    }
+  },
+  {
+    "pr": {
+      "pr_number": "PR-100159",
+      "requester": "user20",
+      "cost_center": "CC-1090",
+      "vendor_code": "V-00002",
+      "currency": "USD",
+      "attachment_path": "data/synthetic/attachments/PR-100159.txt",
+      "buyer_line_hints": [
+        "flow meter x25"
+      ]
+    },
+    "truth": {
+      "vendor_code": "V-00002",
+      "currency": "USD",
+      "line_items": [
+        {
+          "material_code": "INS-231587",
+          "description": "FLOW METER DN50 ELECTROMAG",
+          "quantity": 25.0,
+          "unit": "EA",
+          "unit_price": 280.66,
+          "line_total": 7016.5
+        }
+      ]
+    }
+  }
+]
