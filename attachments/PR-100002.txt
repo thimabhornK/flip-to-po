@@ -1,0 +1,11 @@
+QUOTATION
+Quotation No: Q-100002
+Vendor: V-00001
+Currency: USD
+
+LINE  CODE            DESCRIPTION                               QTY   UNIT     UNIT_PRICE        AMOUNT
+------------------------------------------------------------------------------------------------
+1     INS-917857      FLOW METER DN50 ELECTROMAG                100   FA           188.90     18,890.00
+------------------------------------------------------------------------------------------------
+Terms: contract pricing applies.
+END OF QUOTATION

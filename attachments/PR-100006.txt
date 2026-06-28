@@ -1,0 +1,13 @@
+QUOTATION
+Quotation No: Q-100006
+Vendor: V-00011
+Currency: USD
+
+LINE  CODE            DESCRIPTION                               QTY   UNIT     UNIT_PRICE        AMOUNT
+------------------------------------------------------------------------------------------------
+1     PMP-343224      DIAPHRAGM PUMP 5HP 50GPM                  10    EA         1,563.13     15,631.30
+2     PMP-535469      GEAR PUMP 2HP 20GPM                       10    EA          3052.19      30521.90
+3     MRO-926696      SAFETY GOGGLES CLEAR ANTIFOG              100   BOX           31.48      3,148.00
+------------------------------------------------------------------------------------------------
+Terms: contract pricing applies.
+END OF QUOTATION

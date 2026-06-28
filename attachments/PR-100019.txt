@@ -1,0 +1,11 @@
+QUOTATION
+Quotation No: Q-100019
+Vendor: V-00007
+Currency: USD
+
+LINE  CODE            DESCRIPTION                               QTY   UNIT     UNIT_PRICE        AMOUNT
+------------------------------------------------------------------------------------------------
+1     FIT-801133      REDUCER CONC 2IN SCH40 CS                 100   EA            43.36       4336.00
+------------------------------------------------------------------------------------------------
+Terms: contract pricing applies.
+END OF QUOTATION

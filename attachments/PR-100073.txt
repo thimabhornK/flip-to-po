@@ -1,0 +1,13 @@
+QUOTATION
+Quotation No: Q-100073
+Vendor: V-00006
+Currency: USD
+
+LINE  CODE            DESCRIPTION                               QTY   UNIT     UNIT_PRICE        AMOUNT
+------------------------------------------------------------------------------------------------
+1     VLV-538485      GATE VALVE 3IN 300LB SS316                20    EA            93.97       1879.40
+2     INS-375509      TEMP TRANSMITTER 0-10BAR 2.5IN            20    EA           150.24      2,803.23
+3     GSK-691783      SPIRAL WOUND GASKET 1.5IN 150LB PTFE      20    EA            31.10        622.00
+------------------------------------------------------------------------------------------------
+Terms: contract pricing applies.
+END OF QUOTATION

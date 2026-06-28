@@ -1,0 +1,12 @@
+QUOTATION
+Quotation No: Q-100008
+Vendor: V-00003
+Currency: USD
+
+LINE  CODE            DESCRIPTION                               QTY   UNIT     UNIT_PRICE        AMOUNT
+------------------------------------------------------------------------------------------------
+1     GSK-185831      FLAT GASKET 3IN 300LB GRAPHITE            3     EA            41.03        123.09
+2     MRO-926696      SAFETY GOGGLES CLEAR ANTIFOG              10    BOX           31.58        315.80
+------------------------------------------------------------------------------------------------
+Terms: contract pricing applies.
+END OF QUOTATION

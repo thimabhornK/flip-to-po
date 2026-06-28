@@ -1,0 +1,12 @@
+QUOTATION
+Quotation No: Q-100045
+Vendor: V-00012
+Currency: USD
+
+LINE  CODE            DESCRIPTION                               QTY   UNIT     UNIT_PRICE        AMOUNT
+------------------------------------------------------------------------------------------------
+1     FIT-424646      FLANGE WN 3IN SCH80 SS316                 20    EA            37.83        756.60
+2     CHM-2511I8      SODIUM HYDROXIDE GRANULAR 25KG            25    KG             6.04        151.00
+------------------------------------------------------------------------------------------------
+Terms: contract pricing applies.
+END OF QUOTATION

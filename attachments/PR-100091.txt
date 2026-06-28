@@ -1,0 +1,13 @@
+QUOTATION
+Quotation No: Q-100091
+Vendor: V-00008
+Currency: USD
+
+LINE  CODE            DESCRIPTION                               QTY   UNIT     UNIT_PRICE        AMOUNT
+------------------------------------------------------------------------------------------------
+1     INS-318904      TEMP TRANSMITTER 0-10BAR 2.5IN            2     EA           124.16        248.32
+2     VLV-761259      GATE VALVE 4IN 150LB SS304                25    FA            89.04      2,226.00
+3     INS-318904      TEMP TRANSMITTER 0-10BAR 2.5IN            1     EA           143.39        143.39
+------------------------------------------------------------------------------------------------
+Terms: contract pricing applies.
+END OF QUOTATION

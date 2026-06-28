@@ -1,0 +1,13 @@
+QUOTATION
+Quotation No: Q-100032
+Vendor: V-00001
+Currency: USD
+
+LINE  CODE            DESCRIPTION                               QTY   UNIT     UNIT_PRICE        AMOUNT
+------------------------------------------------------------------------------------------------
+1     MRO-472834      NITRILE GLOVES L 100PCS                   50    BOX           31.12      1,556.00
+2     FIT-259367      FLANGE WN 3IN SCH80 SS316                 25    EA            20.59        514.75
+3     FIT-424646      FLANGE WN 3IN ###                         5     EA            37.67        188.35
+------------------------------------------------------------------------------------------------
+Terms: contract pricing applies.
+END OF QUOTATION

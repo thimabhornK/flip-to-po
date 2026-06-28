@@ -1,0 +1,12 @@
+QUOTATION
+Quotation No: Q-100098
+Vendor: V-00008
+Currency: USD
+
+LINE  CODE            DESCRIPTION                               QTY   UNIT     UNIT_PRICE        AMOUNT
+------------------------------------------------------------------------------------------------
+1     INS-231587      FLOW METER DN50 ELECTROMAG                1     FA           279.36        279.36
+2     FIT-472731      TEE EQUAL 1IN SCH40 CS                    25    EA            22.50        562.50
+------------------------------------------------------------------------------------------------
+Terms: contract pricing applies.
+END OF QUOTATION

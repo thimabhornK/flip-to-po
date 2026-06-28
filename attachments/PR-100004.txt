@@ -1,0 +1,12 @@
+QUOTATION
+Quotation No: Q-100004
+Vendor: V-00007
+Currency: USD
+
+LINE  CODE            DESCRIPTION                               QTY   UNIT     UNIT_PRICE        AMOUNT
+------------------------------------------------------------------------------------------------
+1     CHM-206393      SULFURIC ACID GRANULAR 25KG               50    KG             4.36        218.00
+2     GSK-490487      SPIRAL WOUND GASKET 1.5IN 150LB PTFE      1     EA            47.06         47.06
+------------------------------------------------------------------------------------------------
+Terms: contract pricing applies.
+END OF QUOTATION

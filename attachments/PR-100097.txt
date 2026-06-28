@@ -1,0 +1,12 @@
+QUOTATION
+Quotation No: Q-100097
+Vendor: V-00011
+Currency: USD
+
+LINE  CODE            DESCRIPTION                               QTY   UNIT     UNIT_PRICE        AMOUNT
+------------------------------------------------------------------------------------------------
+1     PMP-341960      CENTRIFUGAL PUMP 5HP 50GPM                5     EA         1,847.83      9,239.15
+2     CHM-206393      SULFURIC ACID GRANULAR 25KG               25    KG             4.35        108.75
+------------------------------------------------------------------------------------------------
+Terms: contract pricing applies.
+END OF QUOTATION

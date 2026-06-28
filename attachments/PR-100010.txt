@@ -1,0 +1,11 @@
+QUOTATION
+Quotation No: Q-100010
+Vendor: V-00002
+Currency: USD
+
+LINE  CODE            DESCRIPTION                               QTY   UNIT     UNIT_PRICE        AMOUNT
+------------------------------------------------------------------------------------------------
+1     MRO-128356      CABLE TIE L 100PCS                        10    BOX           29.06        290.60
+------------------------------------------------------------------------------------------------
+Terms: contract pricing applies.
+END OF QUOTATION

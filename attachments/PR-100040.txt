@@ -1,0 +1,11 @@
+QUOTATION
+Quotation No: Q-100040
+Vendor: V-00006
+Currency: USD
+
+LINE  CODE            DESCRIPTION                               QTY   UNIT     UNIT_PRICE        AMOUNT
+------------------------------------------------------------------------------------------------
+1     INS-519894      PRESSURE GAUGE 0-10BAR 2.5IN              100   EA           137.45     13,745.00
+------------------------------------------------------------------------------------------------
+Terms: contract pricing applies.
+END OF QUOTATION

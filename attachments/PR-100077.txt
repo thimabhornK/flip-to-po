@@ -1,0 +1,13 @@
+QUOTATION
+Quotation No: Q-100077
+Vendor: V-00002
+Currency: USD
+
+LINE  CODE            DESCRIPTION                               QTY   UNIT     UNIT_PRICE        AMOUNT
+------------------------------------------------------------------------------------------------
+1     GSK-360494      SPIRAL WOUND GASKET 1.5IN 150LB PTFE      20    EA            49.02        980.40
+2     GSK-176756      SPIRAL WOUND GASKET 1.5IN 150LB PTFE      20    FA            36.96        739.20
+3     INS-519894      PRESSURE GAUGE 0-10BAR 2.5IN              1     EA           136.27        136.27
+------------------------------------------------------------------------------------------------
+Terms: contract pricing applies.
+END OF QUOTATION

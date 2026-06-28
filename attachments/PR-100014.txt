@@ -1,0 +1,13 @@
+QUOTATION
+Quotation No: Q-100014
+Vendor: V-00006
+Currency: USD
+
+LINE  CODE            DESCRIPTION                               QTY   UNIT     UNIT_PRICE        AMOUNT
+------------------------------------------------------------------------------------------------
+1     MRO-601871      SAFETY GOGGLES L 100PCS                   10    BOX           19.46        194.60
+2     FIT-796414      ELBOW 90DEG 2IN SCH40 CS                  1     EA            37.85         37.85
+3     PMP-343224      DIAPHRAGM PUMP 5HP 50GPM                  10    EA         1,559.90     15,599.00
+------------------------------------------------------------------------------------------------
+Terms: contract pricing applies.
+END OF QUOTATION

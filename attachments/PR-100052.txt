@@ -1,0 +1,11 @@
+QUOTATION
+Quotation No: Q-100052
+Vendor: V-00005
+Currency: USD
+
+LINE  CODE            DESCRIPTION                               QTY   UNIT     UNIT_PRICE        AMOUNT
+------------------------------------------------------------------------------------------------
+1     MRO-333615      CABLE TIE CLEAR ANTIFOG                   25    BOX           27.50        687.50
+------------------------------------------------------------------------------------------------
+Terms: contract pricing applies.
+END OF QUOTATION

@@ -1,0 +1,13 @@
+QUOTATION
+Quotation No: Q-100084
+Vendor: V-00008
+Currency: USD
+
+LINE  CODE            DESCRIPTION                               QTY   UNIT     UNIT_PRICE        AMOUNT
+------------------------------------------------------------------------------------------------
+1     GSK-185831      FLAT GASKET 3IN 300LB GRAPHITE            20    EA            40.89        817.80
+2     FIT-472731      TEE EQUAL 1IN SCH40 CS                    1     EA            22.64         22.64
+3     INS-786782      FLOW METER DN50 ELECTROMAG                50    EA           134.98       6749.00
+------------------------------------------------------------------------------------------------
+Terms: contract pricing applies.
+END OF QUOTATION

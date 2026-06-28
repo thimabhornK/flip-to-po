@@ -1,0 +1,11 @@
+QUOTATION
+Quotation No: Q-100028
+Vendor: V-00002
+Currency: USD
+
+LINE  CODE            DESCRIPTION                               QTY   UNIT     UNIT_PRICE        AMOUNT
+------------------------------------------------------------------------------------------------
+1     CHM-588625      SULFURIC ACID 98PCT 30KG                  50    KG             5.89        294.50
+------------------------------------------------------------------------------------------------
+Terms: contract pricing applies.
+END OF QUOTATION

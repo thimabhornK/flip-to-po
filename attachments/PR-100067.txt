@@ -1,0 +1,13 @@
+QUOTATION
+Quotation No: Q-100067
+Vendor: V-00011
+Currency: USD
+
+LINE  CODE            DESCRIPTION                               QTY   UNIT     UNIT_PRICE        AMOUNT
+------------------------------------------------------------------------------------------------
+1     INS-917857      FLOW METER DN50 ELECTROMAG                2     EA           189.64        454.22
+2     GSK-176756      SPIRAL WOUND GASKET 1.5IN 150LB PTFE      50    EA            37.70      1,885.00
+3     MRO-6O1871      SAFETY GOGGLES L 100PCS                   2     BOX           19.40         38.80
+------------------------------------------------------------------------------------------------
+Terms: contract pricing applies.
+END OF QUOTATION

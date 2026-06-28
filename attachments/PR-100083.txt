@@ -1,0 +1,11 @@
+QUOTATION
+Quotation No: Q-100083
+Vendor: V-00006
+Currency: USD
+
+LINE  CODE            DESCRIPTION                               QTY   UNIT     UNIT_PRICE        AMOUNT
+------------------------------------------------------------------------------------------------
+1     VLV-331821      GATE VALVE 3IN 300LB SS316                2     EA           115.72        231.44
+------------------------------------------------------------------------------------------------
+Terms: contract pricing applies.
+END OF QUOTATION

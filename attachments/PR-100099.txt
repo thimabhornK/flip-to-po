@@ -1,0 +1,12 @@
+QUOTATION
+Quotation No: Q-100099
+Vendor: V-00002
+Currency: USD
+
+LINE  CODE            DESCRIPTION                               QTY   UNIT     UNIT_PRICE        AMOUNT
+------------------------------------------------------------------------------------------------
+1     GSK-688218      FLAT GASKET 3IN 300LB GRAPHITE            25    EA            35.76        894.00
+2     FIT-472731      TEE EQUAL 1IN SCH40 CS                    50    EA            22.45      1,122.50
+------------------------------------------------------------------------------------------------
+Terms: contract pricing applies.
+END OF QUOTATION

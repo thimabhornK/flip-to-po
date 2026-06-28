@@ -1,0 +1,11 @@
+QUOTATION
+Quotation No: Q-100013
+Vendor: V-00012
+Currency: USD
+
+LINE  CODE            DESCRIPTION                               QTY   UNIT     UNIT_PRICE        AMOUNT
+------------------------------------------------------------------------------------------------
+1     VLV-632084      GLOBE VALVE 2IN 150LB CS                  10    EA            93.72        937.20
+------------------------------------------------------------------------------------------------
+Terms: contract pricing applies.
+END OF QUOTATION

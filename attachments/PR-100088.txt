@@ -1,0 +1,12 @@
+QUOTATION
+Quotation No: Q-100088
+Vendor: V-00006
+Currency: USD
+
+LINE  CODE            DESCRIPTION                               QTY   UNIT     UNIT_PRICE        AMOUNT
+------------------------------------------------------------------------------------------------
+1     FIT-801133      REDUCER CONC 2IN SCH40 CS                 50    EA            42.48      2,124.00
+2     VLV-301821      GATE VALVE 3IN 300LB SS316                10    EA           115.17      1,151.70
+------------------------------------------------------------------------------------------------
+Terms: contract pricing applies.
+END OF QUOTATION

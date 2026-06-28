@@ -1,0 +1,13 @@
+QUOTATION
+Quotation No: Q-100036
+Vendor: V-00006
+Currency: USD
+
+LINE  CODE            DESCRIPTION                               QTY   UNIT     UNIT_PRICE        AMOUNT
+------------------------------------------------------------------------------------------------
+1     INS-318904      TEMP TRANSMITTER 0-10BAR 2.5IN            50    EA           143.25      7,162.50
+2     INS-375509      TEMP TRANSMITTER 0-10BAR 2.5IN            10    EA           149.19      1,491.90
+3     VLV-258176      CHECK VALVE 2IN 150LB CS                  20    EA            91.62      1,832.40
+------------------------------------------------------------------------------------------------
+Terms: contract pricing applies.
+END OF QUOTATION

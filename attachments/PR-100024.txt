@@ -1,0 +1,11 @@
+QUOTATION
+Quotation No: Q-100024
+Vendor: V-00005
+Currency: USD
+
+LINE  CODE            DESCRIPTION                               QTY   UNIT     UNIT_PRICE        AMOUNT
+------------------------------------------------------------------------------------------------
+1     INS-967857      FLOW METER DN50 ELECTROMAG                2     EA           189.62        379.24
+------------------------------------------------------------------------------------------------
+Terms: contract pricing applies.
+END OF QUOTATION

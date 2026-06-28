@@ -1,0 +1,13 @@
+QUOTATION
+Quotation No: Q-100042
+Vendor: V-00007
+Currency: USD
+
+LINE  CODE            DESCRIPTION                               QTY   UNIT     UNIT_PRICE        AMOUNT
+------------------------------------------------------------------------------------------------
+1     VLV-251262      GATE VALVE 1IN 600LB CS                   2     EA           144.26        288.52
+2     INS-375509      TEMP TRANSMITTER 0-10BAR 2.5IN            10    EA           145.98      1,459.80
+3     GSK-691783      SPIRAL WOUND GASKET 1.5IN 150LB PTFE      2     EA            31.63         63.26
+------------------------------------------------------------------------------------------------
+Terms: contract pricing applies.
+END OF QUOTATION

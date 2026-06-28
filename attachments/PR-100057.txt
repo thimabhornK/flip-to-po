@@ -1,0 +1,12 @@
+QUOTATION
+Quotation No: Q-100057
+Vendor: V-00001
+Currency: USD
+
+LINE  CODE            DESCRIPTION                               QTY   UNIT     UNIT_PRICE        AMOUNT
+------------------------------------------------------------------------------------------------
+1     FIT-723241      FLANGE WN 1IN SCH40 CS                    1     EA            39.73         39.73
+2     CHM-228809      SODIUM HYDROXIDE 98PCT 30KG               5     KG             9.59         47.95
+------------------------------------------------------------------------------------------------
+Terms: contract pricing applies.
+END OF QUOTATION

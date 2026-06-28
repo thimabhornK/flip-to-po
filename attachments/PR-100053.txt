@@ -1,0 +1,13 @@
+QUOTATION
+Quotation No: Q-100053
+Vendor: V-00009
+Currency: USD
+
+LINE  CODE            DESCRIPTION                               QTY   UNIT     UNIT_PRICE        AMOUNT
+------------------------------------------------------------------------------------------------
+1     PMP-535469      GEAR PUMP 2HP 20GPM                       2     EA          3300.44       6600.88
+2     GSK-490487      SPIRAL WOUND GASKET 1.5IN 150LB PTFE      2     EA            46.88         93.76
+3     FIT-80O675      ELBOW 90DEG 1IN SCH40 CS                  20    EA            33.89        677.80
+------------------------------------------------------------------------------------------------
+Terms: contract pricing applies.
+END OF QUOTATION

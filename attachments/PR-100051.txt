@@ -1,0 +1,13 @@
+QUOTATION
+Quotation No: Q-100051
+Vendor: V-00012
+Currency: USD
+
+LINE  CODE            DESCRIPTION                               QTY   UNIT     UNIT_PRICE        AMOUNT
+------------------------------------------------------------------------------------------------
+1     GSK-588218      FLAT GASKET 3IN 300LB GRAPHITE            2     EA            36.02         72.04
+2     GSK-176756      SPIRAL WOUND GASKET 1.5IN 150LB PTFE      1     EA            37.71         37.71
+3     GSK-360494      SPIRAL WOUND GASKET 1.5IN 150LB PTFE      1     EA            48.88         48.88
+------------------------------------------------------------------------------------------------
+Terms: contract pricing applies.
+END OF QUOTATION

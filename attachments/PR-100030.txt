@@ -1,0 +1,12 @@
+QUOTATION
+Quotation No: Q-100030
+Vendor: V-00006
+Currency: USD
+
+LINE  CODE            DESCRIPTION                               QTY   UNIT     UNIT_PRICE        AMOUNT
+------------------------------------------------------------------------------------------------
+1     INS-231587      FLOW METER DN50 ELECTROMAG                50    EA           280.34     14,017.00
+2     PMP-343224      DIAPHRAGM PUMP 5HP 50GPM                  100   EA         1,563.14    156,314.00
+------------------------------------------------------------------------------------------------
+Terms: contract pricing applies.
+END OF QUOTATION

@@ -1,0 +1,13 @@
+QUOTATION
+Quotation No: Q-100068
+Vendor: V-00006
+Currency: USD
+
+LINE  CODE            DESCRIPTION                               QTY   UNIT     UNIT_PRICE        AMOUNT
+------------------------------------------------------------------------------------------------
+1     MRO-472834      NITRILE GLOVES L 100PCS                   25    BOX           31.12        778.00
+2     FIT-800675      ELBOW 90DEG 1IN SCH40 CS                  50    EA            33.99      1,699.50
+3     PMP-341960      CENTRIFUGAL PUMP 5HP 50GPM                10    EA         1,880.33     18,803.30
+------------------------------------------------------------------------------------------------
+Terms: contract pricing applies.
+END OF QUOTATION

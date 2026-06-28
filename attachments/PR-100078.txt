@@ -1,0 +1,13 @@
+QUOTATION
+Quotation No: Q-100078
+Vendor: V-00001
+Currency: USD
+
+LINE  CODE            DESCRIPTION                               QTY   UNIT     UNIT_PRICE        AMOUNT
+------------------------------------------------------------------------------------------------
+1     INS-786782      FLOW METER DN50 ELECTROMAG                10    EA           135.19      1,351.90
+2     FIT-800675      ELBOW 90DEG 1IN SCH40 CS                  5     EA            34.05        170.25
+3     MRO-601831      SAFETY GOGGLES L 100PCS                   1     BOX           19.91         19.91
+------------------------------------------------------------------------------------------------
+Terms: contract pricing applies.
+END OF QUOTATION

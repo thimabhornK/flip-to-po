@@ -1,0 +1,11 @@
+QUOTATION
+Quotation No: Q-100037
+Vendor: V-00011
+Currency: USD
+
+LINE  CODE            DESCRIPTION                               QTY   UNIT     UNIT_PRICE        AMOUNT
+------------------------------------------------------------------------------------------------
+1     VLV-661913      GATE VALVE 1IN 600LB CS                   50    EA           146.66      7,333.00
+------------------------------------------------------------------------------------------------
+Terms: contract pricing applies.
+END OF QUOTATION

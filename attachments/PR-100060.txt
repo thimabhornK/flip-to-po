@@ -1,0 +1,13 @@
+QUOTATION
+Quotation No: Q-100060
+Vendor: V-00006
+Currency: USD
+
+LINE  CODE            DESCRIPTION                               QTY   UNIT     UNIT_PRICE        AMOUNT
+------------------------------------------------------------------------------------------------
+1     PMP-328807      GEAR PUMP 5HP 50GPM                       20    EA          2999.73      59994.60
+2     PMP-571007      GEAR PUMP 2HP 20GPM                       10    EA         2,079.74     20,797.40
+3     GSK-460160      FLAT GASKET 3IN 300LB GRAPHITE            100   EA            33.66      3,366.00
+------------------------------------------------------------------------------------------------
+Terms: contract pricing applies.
+END OF QUOTATION

@@ -1,0 +1,12 @@
+QUOTATION
+Quotation No: Q-100026
+Vendor: V-00007
+Currency: USD
+
+LINE  CODE            DESCRIPTION                               QTY   UNIT     UNIT_PRICE        AMOUNT
+------------------------------------------------------------------------------------------------
+1     MRO-9Z6696      SAFETY GOGGLES CLEAR ANTIFOG              50    BOX           31.73      1,586.50
+2     GSK-176756      SPIRAL WOUND GASKET 1.5IN 150LB PTFE      25    EA            38.50        962.50
+------------------------------------------------------------------------------------------------
+Terms: contract pricing applies.
+END OF QUOTATION

@@ -1,0 +1,12 @@
+QUOTATION
+Quotation No: Q-100034
+Vendor: V-00011
+Currency: USD
+
+LINE  CODE            DESCRIPTION                               QTY   UNIT     UNIT_PRICE        AMOUNT
+------------------------------------------------------------------------------------------------
+1     PMP-571007      GEAR PUMP 2HP 20GPM                       10    EA         2,084.35     20,843.50
+2     CHM-318054      ACTIVATED CARBON 98PCT 30KG               2     KG             5.01         10.02
+------------------------------------------------------------------------------------------------
+Terms: contract pricing applies.
+END OF QUOTATION

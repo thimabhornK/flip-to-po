@@ -1,0 +1,11 @@
+QUOTATION
+Quotation No: Q-100096
+Vendor: V-00002
+Currency: USD
+
+LINE  CODE            DESCRIPTION                               QTY   UNIT     UNIT_PRICE        AMOUNT
+------------------------------------------------------------------------------------------------
+1     INS-318904      TEMP TRANSMITTER 0-10BAR 2.5IN            25    EA           143.13       3578.25
+------------------------------------------------------------------------------------------------
+Terms: contract pricing applies.
+END OF QUOTATION

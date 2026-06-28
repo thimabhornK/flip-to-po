@@ -1,0 +1,11 @@
+QUOTATION
+Quotation No: Q-100017
+Vendor: V-00002
+Currency: USD
+
+LINE  CODE            DESCRIPTION                               QTY   UNIT     UNIT_PRICE        AMOUNT
+------------------------------------------------------------------------------------------------
+1     FIT-472731      TEE EQUAL 1IN SCH40 CS                    1     EA            22.50         22.50
+------------------------------------------------------------------------------------------------
+Terms: contract pricing applies.
+END OF QUOTATION

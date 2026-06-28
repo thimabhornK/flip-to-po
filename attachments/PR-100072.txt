@@ -1,0 +1,13 @@
+QUOTATION
+Quotation No: Q-100072
+Vendor: V-00008
+Currency: USD
+
+LINE  CODE            DESCRIPTION                               QTY   UNIT     UNIT_PRICE        AMOUNT
+------------------------------------------------------------------------------------------------
+1     GSK-B13451      FLAT GASKET 3IN 300LB GRAPHITE            20    EA            48.10        962.00
+2     FIT-801I33      REDUCER CONC 2IN SCH40 CS                 50    EA            43.28      2,164.00
+3     GSK-813451      FLAT GASKET 3IN 300LB GRAPHITE            10    EA            48.86        488.60
+------------------------------------------------------------------------------------------------
+Terms: contract pricing applies.
+END OF QUOTATION

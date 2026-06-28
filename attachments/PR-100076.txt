@@ -1,0 +1,11 @@
+QUOTATION
+Quotation No: Q-100076
+Vendor: V-00008
+Currency: USD
+
+LINE  CODE            DESCRIPTION                               QTY   UNIT     UNIT_PRICE        AMOUNT
+------------------------------------------------------------------------------------------------
+1     GSK-460162      FLAT GASKET 3IN 300LB GRAPHITE            10    EA            33.41        334.10
+------------------------------------------------------------------------------------------------
+Terms: contract pricing applies.
+END OF QUOTATION

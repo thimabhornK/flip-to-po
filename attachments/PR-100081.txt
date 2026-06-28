@@ -1,0 +1,13 @@
+QUOTATION
+Quotation No: Q-100081
+Vendor: V-00011
+Currency: USD
+
+LINE  CODE            DESCRIPTION                               QTY   UNIT     UNIT_PRICE        AMOUNT
+------------------------------------------------------------------------------------------------
+1     MRO-601871      SAFETY GOGGLES L 100PCS                   1     BOX           19.43         19.43
+2     MRO-926696      SAFETY GOGGLES CLEAR ANTIFOG              100   BOX           31.68      3,168.00
+3     PMP-571007      GEAR PUMP 2HP 20GPM                       20    EA         2,082.30     41,646.00
+------------------------------------------------------------------------------------------------
+Terms: contract pricing applies.
+END OF QUOTATION

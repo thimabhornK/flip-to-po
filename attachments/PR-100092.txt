@@ -1,0 +1,11 @@
+QUOTATION
+Quotation No: Q-100092
+Vendor: V-00012
+Currency: USD
+
+LINE  CODE            DESCRIPTION                               QTY   UNIT     UNIT_PRICE        AMOUNT
+------------------------------------------------------------------------------------------------
+1     MRO-875813      SAFETY GOGGLES ###                        10    BOX           25.64        256.40
+------------------------------------------------------------------------------------------------
+Terms: contract pricing applies.
+END OF QUOTATION

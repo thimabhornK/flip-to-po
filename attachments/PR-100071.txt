@@ -1,0 +1,11 @@
+QUOTATION
+Quotation No: Q-100071
+Vendor: V-00005
+Currency: USD
+
+LINE  CODE            DESCRIPTION                               QTY   UNIT     UNIT_PRICE        AMOUNT
+------------------------------------------------------------------------------------------------
+1     VLV-538485      GATE VALVE 3IN 300LB SS316                2     EA            96.01        192.02
+------------------------------------------------------------------------------------------------
+Terms: contract pricing applies.
+END OF QUOTATION

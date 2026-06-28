@@ -1,0 +1,13 @@
+QUOTATION
+Quotation No: Q-100015
+Vendor: V-00008
+Currency: USD
+
+LINE  CODE            DESCRIPTION                               QTY   UNIT     UNIT_PRICE        AMOUNT
+------------------------------------------------------------------------------------------------
+1     FIT-958105      REDUCER CONC 3IN SCH80 SS316              10    FA            37.06        370.60
+2     CHM-228809      SODIUM HYDROXIDE 98PCT 30KG               5     KG             9.55         47.75
+3     VLV-815131      GLOBE VALVE 2IN 150LB CS                  1     EA           150.54        150.54
+------------------------------------------------------------------------------------------------
+Terms: contract pricing applies.
+END OF QUOTATION

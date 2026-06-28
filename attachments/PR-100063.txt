@@ -1,0 +1,11 @@
+QUOTATION
+Quotation No: Q-100063
+Vendor: V-00003
+Currency: USD
+
+LINE  CODE            DESCRIPTION                               QTY   UNIT     UNIT_PRICE        AMOUNT
+------------------------------------------------------------------------------------------------
+1     MRO-875813      SAFETY GOGGLES CLEAR ANTIFOG              2     B0X           25.71         51.42
+------------------------------------------------------------------------------------------------
+Terms: contract pricing applies.
+END OF QUOTATION

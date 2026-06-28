@@ -1,0 +1,13 @@
+QUOTATION
+Quotation No: Q-100023
+Vendor: V-00006
+Currency: USD
+
+LINE  CODE            DESCRIPTION                               QTY   UNIT     UNIT_PRICE        AMOUNT
+------------------------------------------------------------------------------------------------
+1     VLV-331821      GATE VALVE 3IN 300LB SS316                10    EA           115.04      1,150.40
+2     PMP-243577      GEAR PUMP 2HP 20GPM                       100   EA         2,083.29    189,610.64
+3     PMP-535469      GEAR PUMP 2HP 20GPM                       1     EA         3,276.76      3,276.76
+------------------------------------------------------------------------------------------------
+Terms: contract pricing applies.
+END OF QUOTATION

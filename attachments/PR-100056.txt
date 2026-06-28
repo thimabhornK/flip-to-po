@@ -1,0 +1,11 @@
+QUOTATION
+Quotation No: Q-100056
+Vendor: V-00002
+Currency: USD
+
+LINE  CODE            DESCRIPTION                               QTY   UNIT     UNIT_PRICE        AMOUNT
+------------------------------------------------------------------------------------------------
+1     FIT-801133      REDUCER CONC ###                          100   EA            43.43      4,343.00
+------------------------------------------------------------------------------------------------
+Terms: contract pricing applies.
+END OF QUOTATION

@@ -1,0 +1,11 @@
+QUOTATION
+Quotation No: Q-100020
+Vendor: V-00010
+Currency: USD
+
+LINE  CODE            DESCRIPTION                               QTY   UNIT     UNIT_PRICE        AMOUNT
+------------------------------------------------------------------------------------------------
+1     CHM-25I118      SODIUM HYDROXIDE GRANULAR 25KG            2     KG             6.02         12.04
+------------------------------------------------------------------------------------------------
+Terms: contract pricing applies.
+END OF QUOTATION

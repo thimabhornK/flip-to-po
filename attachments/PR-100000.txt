@@ -1,0 +1,13 @@
+QUOTATION
+Quotation No: Q-100000
+Vendor: V-00010
+Currency: USD
+
+LINE  CODE            DESCRIPTION                               QTY   UNIT     UNIT_PRICE        AMOUNT
+------------------------------------------------------------------------------------------------
+1     FIT-796414      ELBOW 90DEG 2IN SCH40 CS                  25    EA            37.14        928.50
+2     INS-519894      PRESSURE GAUGE ###                        1     EA           137.12        137.12
+3     VLV-761Z59      GATE VALVE 4IN 150LB SS304                2     EA            89.61        179.22
+------------------------------------------------------------------------------------------------
+Terms: contract pricing applies.
+END OF QUOTATION

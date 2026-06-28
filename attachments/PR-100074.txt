@@ -1,0 +1,12 @@
+QUOTATION
+Quotation No: Q-100074
+Vendor: V-00005
+Currency: USD
+
+LINE  CODE            DESCRIPTION                               QTY   UNIT     UNIT_PRICE        AMOUNT
+------------------------------------------------------------------------------------------------
+1     FIT-172103      ELBOW 90DEG 3IN SCH80 SS316               10    EA            36.35        363.50
+2     PMP-53S469      GEAR PUMP 2HP 20GPM                       1     EA         3,288.63      3,288.63
+------------------------------------------------------------------------------------------------
+Terms: contract pricing applies.
+END OF QUOTATION

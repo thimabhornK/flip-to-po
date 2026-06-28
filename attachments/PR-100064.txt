@@ -1,0 +1,12 @@
+QUOTATION
+Quotation No: Q-100064
+Vendor: V-00010
+Currency: USD
+
+LINE  CODE            DESCRIPTION                               QTY   UNIT     UNIT_PRICE        AMOUNT
+------------------------------------------------------------------------------------------------
+1     MRO-373799      CABLE TIE CLEAR ANTIFOG                   5     BOX           22.49        112.45
+2     MRO-926696      SAFETY GOGGLES CLEAR ANTIFOG              25    BOX           31.52        788.00
+------------------------------------------------------------------------------------------------
+Terms: contract pricing applies.
+END OF QUOTATION

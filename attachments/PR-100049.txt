@@ -1,0 +1,12 @@
+QUOTATION
+Quotation No: Q-100049
+Vendor: V-00002
+Currency: USD
+
+LINE  CODE            DESCRIPTION                               QTY   UNIT     UNIT_PRICE        AMOUNT
+------------------------------------------------------------------------------------------------
+1     FIT-8O0675      ELBOW 90DEG 1IN SCH40 CS                  20    EA            34.00        680.00
+2     PMP-571007      GEAR PUMP 2HP 20GPM                       10    EA         2,084.59     20,845.90
+------------------------------------------------------------------------------------------------
+Terms: contract pricing applies.
+END OF QUOTATION

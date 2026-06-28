@@ -1,0 +1,11 @@
+QUOTATION
+Quotation No: Q-100095
+Vendor: V-00001
+Currency: USD
+
+LINE  CODE            DESCRIPTION                               QTY   UNIT     UNIT_PRICE        AMOUNT
+------------------------------------------------------------------------------------------------
+1     MRO-926696      SAFETY GOGGLES CLEAR ANTIFOG              25    BOX           31.62        790.50
+------------------------------------------------------------------------------------------------
+Terms: contract pricing applies.
+END OF QUOTATION

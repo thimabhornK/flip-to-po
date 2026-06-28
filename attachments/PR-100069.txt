@@ -1,0 +1,12 @@
+QUOTATION
+Quotation No: Q-100069
+Vendor: V-00011
+Currency: USD
+
+LINE  CODE            DESCRIPTION                               QTY   UNIT     UNIT_PRICE        AMOUNT
+------------------------------------------------------------------------------------------------
+1     INS-660559      TEMP TRANSMITTER DN50 ELECTROMAG          10    EA           217.32      2,173.20
+2     FIT-424646      FLANGE WN 3IN ###                         100   EA            37.48      3,748.00
+------------------------------------------------------------------------------------------------
+Terms: contract pricing applies.
+END OF QUOTATION

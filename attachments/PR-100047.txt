@@ -1,0 +1,13 @@
+QUOTATION
+Quotation No: Q-100047
+Vendor: V-00003
+Currency: USD
+
+LINE  CODE            DESCRIPTION                               QTY   UNIT     UNIT_PRICE        AMOUNT
+------------------------------------------------------------------------------------------------
+1     GSK-460160      FLAT GASKET 3IN ###                       25    EA            33.56        839.00
+2     INS-518359      TEMP TRANSMITTER 0-10BAR 2.5IN            2     EA           203.79        407.58
+3     PMP-328807      GEAR PUMP 5HP 50GPM                       2     EA         3,001.41      6,002.82
+------------------------------------------------------------------------------------------------
+Terms: contract pricing applies.
+END OF QUOTATION

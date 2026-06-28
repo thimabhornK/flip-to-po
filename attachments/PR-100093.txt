@@ -1,0 +1,11 @@
+QUOTATION
+Quotation No: Q-100093
+Vendor: V-00011
+Currency: USD
+
+LINE  CODE            DESCRIPTION                               QTY   UNIT     UNIT_PRICE        AMOUNT
+------------------------------------------------------------------------------------------------
+1     INS-519894      PRESSURE GAUGE ###                        2     EA           137.45        274.90
+------------------------------------------------------------------------------------------------
+Terms: contract pricing applies.
+END OF QUOTATION

@@ -1,0 +1,13 @@
+QUOTATION
+Quotation No: Q-100018
+Vendor: V-00003
+Currency: USD
+
+LINE  CODE            DESCRIPTION                               QTY   UNIT     UNIT_PRICE        AMOUNT
+------------------------------------------------------------------------------------------------
+1     CHM-228809      SODIUM HYDROXIDE 98PCT 30KG               50    KG             9.58        479.00
+2     FIT-8O0675      ELBOW 90DEG 1IN SCH40 CS                  5     EA            33.39        166.95
+3     INS-375509      TEMP TRANSMITTER 0-10BAR 2.5IN            1     EA           149.73        121.79
+------------------------------------------------------------------------------------------------
+Terms: contract pricing applies.
+END OF QUOTATION

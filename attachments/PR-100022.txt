@@ -1,0 +1,11 @@
+QUOTATION
+Quotation No: Q-100022
+Vendor: V-00005
+Currency: USD
+
+LINE  CODE            DESCRIPTION                               QTY   UNIT     UNIT_PRICE        AMOUNT
+------------------------------------------------------------------------------------------------
+1     INS-5I8359      TEMP TRANSMITTER 0-10BAR 2.5IN            5     EA           204.32      1,021.60
+------------------------------------------------------------------------------------------------
+Terms: contract pricing applies.
+END OF QUOTATION

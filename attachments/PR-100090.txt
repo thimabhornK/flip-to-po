@@ -1,0 +1,12 @@
+QUOTATION
+Quotation No: Q-100090
+Vendor: V-00005
+Currency: USD
+
+LINE  CODE            DESCRIPTION                               QTY   UNIT     UNIT_PRICE        AMOUNT
+------------------------------------------------------------------------------------------------
+1     CHM-228809      SODIUM HYDROXIDE 98PCT 30KG               50    KG             9.61        480.50
+2     PMP-535469      GEAR PUMP 2HP 20GPM                       1     EA         3,300.54      3,300.54
+------------------------------------------------------------------------------------------------
+Terms: contract pricing applies.
+END OF QUOTATION

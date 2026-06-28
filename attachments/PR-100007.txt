@@ -1,0 +1,11 @@
+QUOTATION
+Quotation No: Q-100007
+Vendor: V-00002
+Currency: USD
+
+LINE  CODE            DESCRIPTION                               QTY   UNIT     UNIT_PRICE        AMOUNT
+------------------------------------------------------------------------------------------------
+1     CHM-206393      SULFURIC ACID GRANULAR 25KG               20    KG             4.36         87.20
+------------------------------------------------------------------------------------------------
+Terms: contract pricing applies.
+END OF QUOTATION

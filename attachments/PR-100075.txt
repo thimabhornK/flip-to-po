@@ -1,0 +1,13 @@
+QUOTATION
+Quotation No: Q-100075
+Vendor: V-00002
+Currency: USD
+
+LINE  CODE            DESCRIPTION                               QTY   UNIT     UNIT_PRICE        AMOUNT
+------------------------------------------------------------------------------------------------
+1     GSK-691783      SPIRAL WOUND GASKET 1.5IN 150LB PTFE      5     EA            31.58        157.90
+2     GSK-49O487      SPIRAL WOUND GASKET 1.5IN 150LB PTFE      1     EA            47.84         47.84
+3     VLV-545140      GATE VALVE 2IN 150LB CS                   25    EA           187.17      4,679.25
+------------------------------------------------------------------------------------------------
+Terms: contract pricing applies.
+END OF QUOTATION

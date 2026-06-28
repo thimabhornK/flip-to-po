@@ -1,0 +1,12 @@
+QUOTATION
+Quotation No: Q-100039
+Vendor: V-00008
+Currency: USD
+
+LINE  CODE            DESCRIPTION                               QTY   UNIT     UNIT_PRICE        AMOUNT
+------------------------------------------------------------------------------------------------
+1     CHM-3I8054      ACTIVATED CARBON 98PCT 30KG               50    KG             5.01        250.50
+2     GSK-360494      SPIRAL WOUND GASKET 1.5IN 150LB PTFE      100   FA            48.97      4,897.00
+------------------------------------------------------------------------------------------------
+Terms: contract pricing applies.
+END OF QUOTATION

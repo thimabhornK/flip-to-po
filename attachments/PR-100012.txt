@@ -1,0 +1,13 @@
+QUOTATION
+Quotation No: Q-100012
+Vendor: V-00010
+Currency: USD
+
+LINE  CODE            DESCRIPTION                               QTY   UNIT     UNIT_PRICE        AMOUNT
+------------------------------------------------------------------------------------------------
+1     FIT-723241      FLANGE WN 1IN SCH40 CS                    2     EA            39.80         79.60
+2     VLV-545140      GATE VALVE 2 ###                          20    EA           186.57      3,731.40
+3     VLV-761259      GATE VALVE 4IN 150LB SS304                1     EA            87.26         87.26
+------------------------------------------------------------------------------------------------
+Terms: contract pricing applies.
+END OF QUOTATION

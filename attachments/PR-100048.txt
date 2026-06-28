@@ -1,0 +1,12 @@
+QUOTATION
+Quotation No: Q-100048
+Vendor: V-00002
+Currency: USD
+
+LINE  CODE            DESCRIPTION                               QTY   UNIT     UNIT_PRICE        AMOUNT
+------------------------------------------------------------------------------------------------
+1     INS-519894      PRESSURE GAUGE 0-10BAR 2.5IN              3     EA           136.80        410.40
+2     PMP-571007      GEAR PUMP 2HP 20GPM                       5     EA          2088.38      10441.90
+------------------------------------------------------------------------------------------------
+Terms: contract pricing applies.
+END OF QUOTATION

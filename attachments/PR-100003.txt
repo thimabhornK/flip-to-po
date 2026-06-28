@@ -1,0 +1,13 @@
+QUOTATION
+Quotation No: Q-100003
+Vendor: V-00003
+Currency: USD
+
+LINE  CODE            DESCRIPTION                               QTY   UNIT     UNIT_PRICE        AMOUNT
+------------------------------------------------------------------------------------------------
+1     INS-231587      FLOW METER DN50 ELECTROMAG                5     EA           287.22      1,436.10
+2     VLV-815131      GLOBE VALVE 2IN 150LB CS                  50    EA           146.36      6,911.13
+3     FIT-800675      ELBOW 90DEG 1IN SCH40 CS                  10    EA            33.98        339.80
+------------------------------------------------------------------------------------------------
+Terms: contract pricing applies.
+END OF QUOTATION

@@ -1,0 +1,13 @@
+QUOTATION
+Quotation No: Q-100094
+Vendor: V-00005
+Currency: USD
+
+LINE  CODE            DESCRIPTION                               QTY   UNIT     UNIT_PRICE        AMOUNT
+------------------------------------------------------------------------------------------------
+1     VLV-761259      GATE VALVE 4IN 150LB SS304                100   EA            89.02      8,902.00
+2     PMP-328807      GEAR PUMP 5HP 50GPM                       10    EA         3,001.16     30,011.60
+3     PMP-535469      GEAR PUMP 2HP 20GPM                       100   EA         3,297.30    329,730.00
+------------------------------------------------------------------------------------------------
+Terms: contract pricing applies.
+END OF QUOTATION

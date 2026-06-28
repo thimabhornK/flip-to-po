@@ -1,0 +1,12 @@
+QUOTATION
+Quotation No: Q-100080
+Vendor: V-00002
+Currency: USD
+
+LINE  CODE            DESCRIPTION                               QTY   UNIT     UNIT_PRICE        AMOUNT
+------------------------------------------------------------------------------------------------
+1     FIT-472731      TEE EQUAL 1IN SCH40 CS                    2     EA            22.58         45.16
+2     FIT-958105      REDUCER CONC 3IN SCH80 SS316              20    EA            37.14        742.80
+------------------------------------------------------------------------------------------------
+Terms: contract pricing applies.
+END OF QUOTATION

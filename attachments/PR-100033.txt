@@ -1,0 +1,12 @@
+QUOTATION
+Quotation No: Q-100033
+Vendor: V-00005
+Currency: USD
+
+LINE  CODE            DESCRIPTION                               QTY   UNIT     UNIT_PRICE        AMOUNT
+------------------------------------------------------------------------------------------------
+1     FIT-472731      TEE EQUAL 1IN SCH40 CS                    100   FA            22.51      2,251.00
+2     VLV-661013      GATE VALVE 1IN 600LB CS                   5     EA           144.14        720.70
+------------------------------------------------------------------------------------------------
+Terms: contract pricing applies.
+END OF QUOTATION

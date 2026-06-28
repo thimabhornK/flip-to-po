@@ -1,0 +1,13 @@
+QUOTATION
+Quotation No: Q-100085
+Vendor: V-00003
+Currency: USD
+
+LINE  CODE            DESCRIPTION                               QTY   UNIT     UNIT_PRICE        AMOUNT
+------------------------------------------------------------------------------------------------
+1     VLV-251Z62      GATE VALVE 1IN 600LB CS                   100   EA           144.16     14,416.00
+2     GSK-460160      FLAT GASKET 3IN 300LB GRAPHITE            50    EA            33.61      1,680.50
+3     PMP-517225      GEAR PUMP 10HP 120GPM                     100   EA         1,701.62    170,162.00
+------------------------------------------------------------------------------------------------
+Terms: contract pricing applies.
+END OF QUOTATION

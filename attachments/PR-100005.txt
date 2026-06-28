@@ -1,0 +1,13 @@
+QUOTATION
+Quotation No: Q-100005
+Vendor: V-00012
+Currency: USD
+
+LINE  CODE            DESCRIPTION                               QTY   UNIT     UNIT_PRICE        AMOUNT
+------------------------------------------------------------------------------------------------
+1     VLV-251262      GATE VALVE 1IN 600LB CS                   1     EA           144.54        144.54
+2     MRO-128356      CABLE TIE L 100PCS                        2     BOX           29.05         58.10
+3     VLV-632084      GLOBE VALVE 2 ###                         2     EA            93.34        186.68
+------------------------------------------------------------------------------------------------
+Terms: contract pricing applies.
+END OF QUOTATION
