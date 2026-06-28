@@ -1,0 +1,50 @@
+{
+  "V-00001": {
+    "name": "ACME FLOW CONTROL CO LTD",
+    "active": true
+  },
+  "V-00002": {
+    "name": "SIAM VALVE & FITTING",
+    "active": true
+  },
+  "V-00003": {
+    "name": "DELTA PROCESS EQUIP",
+    "active": true
+  },
+  "V-00004": {
+    "name": "ASEAN SEALS SUPPLY",
+    "active": false
+  },
+  "V-00005": {
+    "name": "ORIENT PUMP SYSTEMS",
+    "active": true
+  },
+  "V-00006": {
+    "name": "PRECISION INSTRUMENTS CO",
+    "active": true
+  },
+  "V-00007": {
+    "name": "GULF CHEMICALS TRADING",
+    "active": true
+  },
+  "V-00008": {
+    "name": "EASTERN MRO SUPPLY",
+    "active": true
+  },
+  "V-00009": {
+    "name": "PACIFIC INDUSTRIAL",
+    "active": false
+  },
+  "V-00010": {
+    "name": "MEKONG ENGINEERING",
+    "active": true
+  },
+  "V-00011": {
+    "name": "BANGKOK SEAL TECH",
+    "active": true
+  },
+  "V-00012": {
+    "name": "ANDAMAN PROCESS PARTS",
+    "active": true
+  }
+}

@@ -1,0 +1,287 @@
+{
+  "VLV-258176": {
+    "description": "CHECK VALVE 2IN 150LB CS",
+    "unit": "EA",
+    "contract_price": 91.82
+  },
+  "VLV-661913": {
+    "description": "GATE VALVE 1IN 600LB CS",
+    "unit": "EA",
+    "contract_price": 146.94
+  },
+  "VLV-632084": {
+    "description": "GLOBE VALVE 2IN 150LB CS",
+    "unit": "EA",
+    "contract_price": 93.28
+  },
+  "VLV-538485": {
+    "description": "GATE VALVE 3IN 300LB SS316",
+    "unit": "EA",
+    "contract_price": 93.8
+  },
+  "VLV-545140": {
+    "description": "GATE VALVE 2IN 150LB CS",
+    "unit": "EA",
+    "contract_price": 186.32
+  },
+  "VLV-761259": {
+    "description": "GATE VALVE 4IN 150LB SS304",
+    "unit": "EA",
+    "contract_price": 89.36
+  },
+  "VLV-331821": {
+    "description": "GATE VALVE 3IN 300LB SS316",
+    "unit": "EA",
+    "contract_price": 115.28
+  },
+  "VLV-251262": {
+    "description": "GATE VALVE 1IN 600LB CS",
+    "unit": "EA",
+    "contract_price": 144.51
+  },
+  "VLV-815131": {
+    "description": "GLOBE VALVE 2IN 150LB CS",
+    "unit": "EA",
+    "contract_price": 146.81
+  },
+  "GSK-490487": {
+    "description": "SPIRAL WOUND GASKET 1.5IN 150LB PTFE",
+    "unit": "EA",
+    "contract_price": 46.93
+  },
+  "GSK-691783": {
+    "description": "SPIRAL WOUND GASKET 1.5IN 150LB PTFE",
+    "unit": "EA",
+    "contract_price": 30.99
+  },
+  "GSK-813451": {
+    "description": "FLAT GASKET 3IN 300LB GRAPHITE",
+    "unit": "EA",
+    "contract_price": 48.98
+  },
+  "GSK-588218": {
+    "description": "FLAT GASKET 3IN 300LB GRAPHITE",
+    "unit": "EA",
+    "contract_price": 35.89
+  },
+  "GSK-360494": {
+    "description": "SPIRAL WOUND GASKET 1.5IN 150LB PTFE",
+    "unit": "EA",
+    "contract_price": 49.06
+  },
+  "GSK-185831": {
+    "description": "FLAT GASKET 3IN 300LB GRAPHITE",
+    "unit": "EA",
+    "contract_price": 41.04
+  },
+  "GSK-460160": {
+    "description": "FLAT GASKET 3IN 300LB GRAPHITE",
+    "unit": "EA",
+    "contract_price": 33.57
+  },
+  "GSK-176756": {
+    "description": "SPIRAL WOUND GASKET 1.5IN 150LB PTFE",
+    "unit": "EA",
+    "contract_price": 37.67
+  },
+  "FIT-259367": {
+    "description": "FLANGE WN 3IN SCH80 SS316",
+    "unit": "EA",
+    "contract_price": 20.59
+  },
+  "FIT-800675": {
+    "description": "ELBOW 90DEG 1IN SCH40 CS",
+    "unit": "EA",
+    "contract_price": 34.04
+  },
+  "FIT-958105": {
+    "description": "REDUCER CONC 3IN SCH80 SS316",
+    "unit": "EA",
+    "contract_price": 37.12
+  },
+  "FIT-723241": {
+    "description": "FLANGE WN 1IN SCH40 CS",
+    "unit": "EA",
+    "contract_price": 39.68
+  },
+  "FIT-172103": {
+    "description": "ELBOW 90DEG 3IN SCH80 SS316",
+    "unit": "EA",
+    "contract_price": 31.55
+  },
+  "FIT-796414": {
+    "description": "ELBOW 90DEG 2IN SCH40 CS",
+    "unit": "EA",
+    "contract_price": 38.03
+  },
+  "FIT-424646": {
+    "description": "FLANGE WN 3IN SCH80 SS316",
+    "unit": "EA",
+    "contract_price": 37.66
+  },
+  "FIT-801133": {
+    "description": "REDUCER CONC 2IN SCH40 CS",
+    "unit": "EA",
+    "contract_price": 43.3
+  },
+  "FIT-472731": {
+    "description": "TEE EQUAL 1IN SCH40 CS",
+    "unit": "EA",
+    "contract_price": 22.55
+  },
+  "PMP-328807": {
+    "description": "GEAR PUMP 5HP 50GPM",
+    "unit": "EA",
+    "contract_price": 3001.96
+  },
+  "PMP-517225": {
+    "description": "GEAR PUMP 10HP 120GPM",
+    "unit": "EA",
+    "contract_price": 1699.55
+  },
+  "PMP-571007": {
+    "description": "GEAR PUMP 2HP 20GPM",
+    "unit": "EA",
+    "contract_price": 2090.12
+  },
+  "PMP-243577": {
+    "description": "GEAR PUMP 2HP 20GPM",
+    "unit": "EA",
+    "contract_price": 2091.27
+  },
+  "PMP-535469": {
+    "description": "GEAR PUMP 2HP 20GPM",
+    "unit": "EA",
+    "contract_price": 3290.7
+  },
+  "PMP-341960": {
+    "description": "CENTRIFUGAL PUMP 5HP 50GPM",
+    "unit": "EA",
+    "contract_price": 1888.91
+  },
+  "PMP-343224": {
+    "description": "DIAPHRAGM PUMP 5HP 50GPM",
+    "unit": "EA",
+    "contract_price": 1563.88
+  },
+  "INS-375509": {
+    "description": "TEMP TRANSMITTER 0-10BAR 2.5IN",
+    "unit": "EA",
+    "contract_price": 149.6
+  },
+  "INS-660559": {
+    "description": "TEMP TRANSMITTER DN50 ELECTROMAG",
+    "unit": "EA",
+    "contract_price": 217.75
+  },
+  "INS-231587": {
+    "description": "FLOW METER DN50 ELECTROMAG",
+    "unit": "EA",
+    "contract_price": 279.94
+  },
+  "INS-786782": {
+    "description": "FLOW METER DN50 ELECTROMAG",
+    "unit": "EA",
+    "contract_price": 134.75
+  },
+  "INS-917857": {
+    "description": "FLOW METER DN50 ELECTROMAG",
+    "unit": "EA",
+    "contract_price": 189.57
+  },
+  "INS-518359": {
+    "description": "TEMP TRANSMITTER 0-10BAR 2.5IN",
+    "unit": "EA",
+    "contract_price": 204.01
+  },
+  "INS-519894": {
+    "description": "PRESSURE GAUGE 0-10BAR 2.5IN",
+    "unit": "EA",
+    "contract_price": 136.91
+  },
+  "INS-318904": {
+    "description": "TEMP TRANSMITTER 0-10BAR 2.5IN",
+    "unit": "EA",
+    "contract_price": 143.81
+  },
+  "CHM-207352": {
+    "description": "SODIUM HYDROXIDE GRANULAR 25KG",
+    "unit": "KG",
+    "contract_price": 5.02
+  },
+  "CHM-206393": {
+    "description": "SULFURIC ACID GRANULAR 25KG",
+    "unit": "KG",
+    "contract_price": 4.34
+  },
+  "CHM-318054": {
+    "description": "ACTIVATED CARBON 98PCT 30KG",
+    "unit": "KG",
+    "contract_price": 5.0
+  },
+  "CHM-364511": {
+    "description": "SULFURIC ACID GRANULAR 25KG",
+    "unit": "KG",
+    "contract_price": 6.17
+  },
+  "CHM-228809": {
+    "description": "SODIUM HYDROXIDE 98PCT 30KG",
+    "unit": "KG",
+    "contract_price": 9.56
+  },
+  "CHM-588625": {
+    "description": "SULFURIC ACID 98PCT 30KG",
+    "unit": "KG",
+    "contract_price": 5.88
+  },
+  "CHM-251118": {
+    "description": "SODIUM HYDROXIDE GRANULAR 25KG",
+    "unit": "KG",
+    "contract_price": 6.05
+  },
+  "MRO-601871": {
+    "description": "SAFETY GOGGLES L 100PCS",
+    "unit": "BOX",
+    "contract_price": 19.46
+  },
+  "MRO-653918": {
+    "description": "CABLE TIE CLEAR ANTIFOG",
+    "unit": "BOX",
+    "contract_price": 29.06
+  },
+  "MRO-128356": {
+    "description": "CABLE TIE L 100PCS",
+    "unit": "BOX",
+    "contract_price": 29.18
+  },
+  "MRO-373799": {
+    "description": "CABLE TIE CLEAR ANTIFOG",
+    "unit": "BOX",
+    "contract_price": 22.44
+  },
+  "MRO-333615": {
+    "description": "CABLE TIE CLEAR ANTIFOG",
+    "unit": "BOX",
+    "contract_price": 27.54
+  },
+  "MRO-926696": {
+    "description": "SAFETY GOGGLES CLEAR ANTIFOG",
+    "unit": "BOX",
+    "contract_price": 31.6
+  },
+  "MRO-875813": {
+    "description": "SAFETY GOGGLES CLEAR ANTIFOG",
+    "unit": "BOX",
+    "contract_price": 25.65
+  },
+  "MRO-472834": {
+    "description": "NITRILE GLOVES L 100PCS",
+    "unit": "BOX",
+    "contract_price": 31.04
+  },
+  "MRO-595179": {
+    "description": "CABLE TIE CLEAR ANTIFOG",
+    "unit": "BOX",
+    "contract_price": 29.11
+  }
+}
