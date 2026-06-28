@@ -1,0 +1,13 @@
+QUOTATION
+Quotation No: Q-100133
+Vendor: V-00010
+Currency: USD
+
+LINE  CODE            DESCRIPTION                               QTY   UNIT     UNIT_PRICE        AMOUNT
+------------------------------------------------------------------------------------------------
+1     FIT-472731      TEE EQUAL 1IN SCH40 CS                    5     EA            22.44        112.20
+2     CHM-364511      SULFURIC ACID GRANULAR 25KG               50    KG             6.18        309.00
+3     VLV-538485      GATE VALVE 3IN 300LB SS316                25    EA            93.56      2,339.00
+------------------------------------------------------------------------------------------------
+Terms: contract pricing applies.
+END OF QUOTATION

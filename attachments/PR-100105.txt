@@ -1,0 +1,12 @@
+QUOTATION
+Quotation No: Q-100105
+Vendor: V-00001
+Currency: USD
+
+LINE  CODE            DESCRIPTION                               QTY   UNIT     UNIT_PRICE        AMOUNT
+------------------------------------------------------------------------------------------------
+1     MRO-653918      CABLE TIE CLEAR ANTIFOG                   5     BOX           28.94        144.70
+2     CHM-228809      SODIUM HYDROXIDE 98PCT 30KG               100   KG             9.60        960.00
+------------------------------------------------------------------------------------------------
+Terms: contract pricing applies.
+END OF QUOTATION

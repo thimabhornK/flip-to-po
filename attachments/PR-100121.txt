@@ -1,0 +1,13 @@
+QUOTATION
+Quotation No: Q-100121
+Vendor: V-00001
+Currency: USD
+
+LINE  CODE            DESCRIPTION                               QTY   UNIT     UNIT_PRICE        AMOUNT
+------------------------------------------------------------------------------------------------
+1     VLV-545140      GATE VALVE 2IN 150LB CS                   100   EA           185.99     18,599.00
+2     VLV-251262      GATE VALVE 1IN 600LB CS                   25    EA           144.11      3,602.75
+3     CHM-228809      SODIUM HYDROXIDE 98PCT 30KG               100   KG             9.53      1,051.43
+------------------------------------------------------------------------------------------------
+Terms: contract pricing applies.
+END OF QUOTATION

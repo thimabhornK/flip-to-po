@@ -1,0 +1,13 @@
+QUOTATION
+Quotation No: Q-100127
+Vendor: V-00005
+Currency: USD
+
+LINE  CODE            DESCRIPTION                               QTY   UNIT     UNIT_PRICE        AMOUNT
+------------------------------------------------------------------------------------------------
+1     FIT-958105      REDUCER CONC 3IN SCH80 SS316              10    EA            38.05        380.50
+2     FIT-896414      ELBOW 90DEG 2IN SCH40 CS                  25    EA            38.08        952.00
+3     PMP-328807      GEAR PUMP 5HP 50GPM                       100   EA         3,006.93    300,693.00
+------------------------------------------------------------------------------------------------
+Terms: contract pricing applies.
+END OF QUOTATION

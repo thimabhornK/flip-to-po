@@ -1,0 +1,12 @@
+QUOTATION
+Quotation No: Q-100134
+Vendor: V-00007
+Currency: USD
+
+LINE  CODE            DESCRIPTION                               QTY   UNIT     UNIT_PRICE        AMOUNT
+------------------------------------------------------------------------------------------------
+1     MRO-875813      SAFETY GOGGLES CLEAR ANTIFOG              1     BOX           25.56         25.56
+2     FIT-796414      ELBOW 90DEG 2IN SCH40 CS                  10    EA            38.09        380.90
+------------------------------------------------------------------------------------------------
+Terms: contract pricing applies.
+END OF QUOTATION

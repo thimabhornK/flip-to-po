@@ -1,0 +1,11 @@
+QUOTATION
+Quotation No: Q-100157
+Vendor: V-00011
+Currency: USD
+
+LINE  CODE            DESCRIPTION                               QTY   UNIT     UNIT_PRICE        AMOUNT
+------------------------------------------------------------------------------------------------
+1     VLV-815131      GLOBE VALVE 2IN 150LB CS                  2     FA           146.21        292.42
+------------------------------------------------------------------------------------------------
+Terms: contract pricing applies.
+END OF QUOTATION

@@ -1,0 +1,12 @@
+QUOTATION
+Quotation No: Q-100129
+Vendor: V-00002
+Currency: USD
+
+LINE  CODE            DESCRIPTION                               QTY   UNIT     UNIT_PRICE        AMOUNT
+------------------------------------------------------------------------------------------------
+1     CHM-228809      SODIUM HYDROXIDE 98PCT 30KG               10    KG             9.59         95.90
+2     CHM-228809      SODIUM HYDROXIDE 98PCT 30KG               50    KG             9.60        480.00
+------------------------------------------------------------------------------------------------
+Terms: contract pricing applies.
+END OF QUOTATION

@@ -1,0 +1,13 @@
+QUOTATION
+Quotation No: Q-100137
+Vendor: V-00008
+Currency: USD
+
+LINE  CODE            DESCRIPTION                               QTY   UNIT     UNIT_PRICE        AMOUNT
+------------------------------------------------------------------------------------------------
+1     FIT-800675      ELBOW 90DEG 1IN SCH40 CS                  20    EA            33.90        678.00
+2     MRO-926696      SAFETY GOGGLES CLEAR ANTIFOG              100   BOX           31.62       3162.00
+3     GSK-588218      FLAT GASKET 3IN 300LB GRAPHITE            25    EA            35.91        897.75
+------------------------------------------------------------------------------------------------
+Terms: contract pricing applies.
+END OF QUOTATION

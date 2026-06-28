@@ -1,0 +1,12 @@
+QUOTATION
+Quotation No: Q-100112
+Vendor: V-00007
+Currency: USD
+
+LINE  CODE            DESCRIPTION                               QTY   UNIT     UNIT_PRICE        AMOUNT
+------------------------------------------------------------------------------------------------
+1     PMP-343224      DIAPHRAGM PUMP 5HP 50GPM                  10    EA         1,559.07     15,590.70
+2     CHM-364511      SULFURIC ACID GRANULAR 25KG               20    KG             6.17        123.40
+------------------------------------------------------------------------------------------------
+Terms: contract pricing applies.
+END OF QUOTATION

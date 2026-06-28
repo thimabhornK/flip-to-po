@@ -1,0 +1,11 @@
+QUOTATION
+Quotation No: Q-100131
+Vendor: V-00010
+Currency: USD
+
+LINE  CODE            DESCRIPTION                               QTY   UNIT     UNIT_PRICE        AMOUNT
+------------------------------------------------------------------------------------------------
+1     FIT-796414      ELBOW 90DEG 2IN SCH40 CS                  2     EA            37.86         75.72
+------------------------------------------------------------------------------------------------
+Terms: contract pricing applies.
+END OF QUOTATION

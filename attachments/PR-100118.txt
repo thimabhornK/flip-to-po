@@ -1,0 +1,11 @@
+QUOTATION
+Quotation No: Q-100118
+Vendor: V-00007
+Currency: USD
+
+LINE  CODE            DESCRIPTION                               QTY   UNIT     UNIT_PRICE        AMOUNT
+------------------------------------------------------------------------------------------------
+1     GSK-588218      FLAT GASKET 3IN 300LB GRAPHITE            20    EA            35.87        717.40
+------------------------------------------------------------------------------------------------
+Terms: contract pricing applies.
+END OF QUOTATION

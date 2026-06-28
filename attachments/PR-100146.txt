@@ -1,0 +1,12 @@
+QUOTATION
+Quotation No: Q-100146
+Vendor: V-00012
+Currency: USD
+
+LINE  CODE            DESCRIPTION                               QTY   UNIT     UNIT_PRICE        AMOUNT
+------------------------------------------------------------------------------------------------
+1     CHM-367511      SULFURIC ACID GRANULAR 25KG               2     KG             6.16         12.32
+2     VLV-251262      GATE VALVE 1IN 600LB CS                   2     EA           144.97        289.94
+------------------------------------------------------------------------------------------------
+Terms: contract pricing applies.
+END OF QUOTATION

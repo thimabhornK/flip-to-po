@@ -1,0 +1,12 @@
+QUOTATION
+Quotation No: Q-100113
+Vendor: V-00001
+Currency: USD
+
+LINE  CODE            DESCRIPTION                               QTY   UNIT     UNIT_PRICE        AMOUNT
+------------------------------------------------------------------------------------------------
+1     FIT-424646      FLANGE WN 3IN SCH80 SS316                 2     EA            37.65         75.30
+2     FIT-723241      FLANGE WN 1IN SCH40 CS                    1     EA            39.69         39.69
+------------------------------------------------------------------------------------------------
+Terms: contract pricing applies.
+END OF QUOTATION

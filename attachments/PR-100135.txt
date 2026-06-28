@@ -1,0 +1,12 @@
+QUOTATION
+Quotation No: Q-100135
+Vendor: V-00007
+Currency: USD
+
+LINE  CODE            DESCRIPTION                               QTY   UNIT     UNIT_PRICE        AMOUNT
+------------------------------------------------------------------------------------------------
+1     GSK-588218      FLAT GASKET 3IN 300LB GRAPHITE            1     EA            35.86         35.86
+2     PMP-243577      GEAR PUMP 2HP 20GPM                       1     EA         2,099.31      2,218.71
+------------------------------------------------------------------------------------------------
+Terms: contract pricing applies.
+END OF QUOTATION

@@ -1,0 +1,12 @@
+QUOTATION
+Quotation No: Q-100114
+Vendor: V-00012
+Currency: USD
+
+LINE  CODE            DESCRIPTION                               QTY   UNIT     UNIT_PRICE        AMOUNT
+------------------------------------------------------------------------------------------------
+1     INS-917857      FLOW METER DN50 ELECTROMAG                10    EA           190.10      1,901.00
+2     PMP-571007      GEAR PUMP 2HP 20GPM                       5     EA         2,080.46     10,402.30
+------------------------------------------------------------------------------------------------
+Terms: contract pricing applies.
+END OF QUOTATION

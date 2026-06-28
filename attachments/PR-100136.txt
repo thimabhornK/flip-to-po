@@ -1,0 +1,13 @@
+QUOTATION
+Quotation No: Q-100136
+Vendor: V-00001
+Currency: USD
+
+LINE  CODE            DESCRIPTION                               QTY   UNIT     UNIT_PRICE        AMOUNT
+------------------------------------------------------------------------------------------------
+1     VLV-331821      GATE VALVE 3IN 300LB SS316                20    EA           114.72      2,294.40
+2     VLV-632084      GLOBE VALVE 2IN 150LB CS                  20    EA            93.14      1,862.80
+3     VLV-538485      GATE VALVE 3IN 300LB SS316                20    EA            92.05      1,841.00
+------------------------------------------------------------------------------------------------
+Terms: contract pricing applies.
+END OF QUOTATION

@@ -1,0 +1,11 @@
+QUOTATION
+Quotation No: Q-100120
+Vendor: V-00005
+Currency: USD
+
+LINE  CODE            DESCRIPTION                               QTY   UNIT     UNIT_PRICE        AMOUNT
+------------------------------------------------------------------------------------------------
+1     GSK-691783      SPIRAL WOUND GASKET ###                   10    EA            31.74        317.40
+------------------------------------------------------------------------------------------------
+Terms: contract pricing applies.
+END OF QUOTATION

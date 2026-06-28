@@ -1,0 +1,12 @@
+QUOTATION
+Quotation No: Q-100109
+Vendor: V-00001
+Currency: USD
+
+LINE  CODE            DESCRIPTION                               QTY   UNIT     UNIT_PRICE        AMOUNT
+------------------------------------------------------------------------------------------------
+1     GSK-176756      SPIRAL WOUND GASKET 1.5IN 150LB PTFE      20    FA            37.70        754.00
+2     MRO-595179      CABLE TIE CLEAR ANTIFOG                   1     BOX           29.01         21.80
+------------------------------------------------------------------------------------------------
+Terms: contract pricing applies.
+END OF QUOTATION

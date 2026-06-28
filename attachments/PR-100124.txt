@@ -1,0 +1,12 @@
+QUOTATION
+Quotation No: Q-100124
+Vendor: V-00008
+Currency: USD
+
+LINE  CODE            DESCRIPTION                               QTY   UNIT     UNIT_PRICE        AMOUNT
+------------------------------------------------------------------------------------------------
+1     PMP-328807      GEAR PUMP 5HP 50GPM                       5     EA         3,077.80     15,389.00
+2     PMP-343224      DIAPHRAGM PUM ###                         25    EA         1,562.99     39,074.75
+------------------------------------------------------------------------------------------------
+Terms: contract pricing applies.
+END OF QUOTATION

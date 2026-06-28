@@ -1,0 +1,13 @@
+QUOTATION
+Quotation No: Q-100149
+Vendor: V-00011
+Currency: USD
+
+LINE  CODE            DESCRIPTION                               QTY   UNIT     UNIT_PRICE        AMOUNT
+------------------------------------------------------------------------------------------------
+1     GSK-490487      SPIRAL WOUND GASKET 1.5IN 150LB PTFE      10    EA            46.75        467.50
+2     MRO-601871      SAFETY GOGGLES L 100PCS                   2     B0X           19.10         38.20
+3     INS-519894      PRESSURE GAUGE 0-10BAR 2.5IN              50    EA           136.31      6,815.50
+------------------------------------------------------------------------------------------------
+Terms: contract pricing applies.
+END OF QUOTATION

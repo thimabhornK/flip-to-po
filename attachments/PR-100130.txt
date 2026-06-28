@@ -1,0 +1,13 @@
+QUOTATION
+Quotation No: Q-100130
+Vendor: V-00010
+Currency: USD
+
+LINE  CODE            DESCRIPTION                               QTY   UNIT     UNIT_PRICE        AMOUNT
+------------------------------------------------------------------------------------------------
+1     VLV-661913      GATE VALVE 1IN 600LB CS                   5     EA           151.01        755.05
+2     FIT-958105      REDUCER CONC 3IN SCH80 SS316              20    EA            37.29        745.80
+3     CHM-364511      SULFURIC ACID GRANULAR 25KG               10    KG             6.19         61.90
+------------------------------------------------------------------------------------------------
+Terms: contract pricing applies.
+END OF QUOTATION

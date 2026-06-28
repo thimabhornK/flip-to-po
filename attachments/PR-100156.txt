@@ -1,0 +1,13 @@
+QUOTATION
+Quotation No: Q-100156
+Vendor: V-00005
+Currency: USD
+
+LINE  CODE            DESCRIPTION                               QTY   UNIT     UNIT_PRICE        AMOUNT
+------------------------------------------------------------------------------------------------
+1     FIT-472731      TEE EQUAL 1IN SCH40 CS                    50    EA            22.57      1,128.50
+2     PMP-535469      GEAR PUMP 2HP 20GPM                       10    EA         3,289.14     32,891.40
+3     CHM-228809      SODIUM HYDROXIDE 98PCT 30KG               2     KG             9.55         19.10
+------------------------------------------------------------------------------------------------
+Terms: contract pricing applies.
+END OF QUOTATION

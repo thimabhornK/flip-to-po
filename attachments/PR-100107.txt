@@ -1,0 +1,13 @@
+QUOTATION
+Quotation No: Q-100107
+Vendor: V-00007
+Currency: USD
+
+LINE  CODE            DESCRIPTION                               QTY   UNIT     UNIT_PRICE        AMOUNT
+------------------------------------------------------------------------------------------------
+1     CHM-188625      SULFURIC ACID 98PCT 30KG                  100   KG             5.86        586.00
+2     CHM-207352      SODIUM HYDROXIDE GRANULAR 25KG            5     KG             5.02         25.10
+3     MRO-128356      CABLE TIE L 100PCS                        100   BOX           29.26      2,926.00
+------------------------------------------------------------------------------------------------
+Terms: contract pricing applies.
+END OF QUOTATION

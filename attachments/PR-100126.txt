@@ -1,0 +1,11 @@
+QUOTATION
+Quotation No: Q-100126
+Vendor: V-00003
+Currency: USD
+
+LINE  CODE            DESCRIPTION                               QTY   UNIT     UNIT_PRICE        AMOUNT
+------------------------------------------------------------------------------------------------
+1     INS-51B359      TEMP TRANSMITTER 0-10BAR 2.5IN            2     EA           204.80        409.60
+------------------------------------------------------------------------------------------------
+Terms: contract pricing applies.
+END OF QUOTATION

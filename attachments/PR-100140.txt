@@ -1,0 +1,12 @@
+QUOTATION
+Quotation No: Q-100140
+Vendor: V-00003
+Currency: USD
+
+LINE  CODE            DESCRIPTION                               QTY   UNIT     UNIT_PRICE        AMOUNT
+------------------------------------------------------------------------------------------------
+1     FIT-172103      ELBOW 90DEG 3IN SCH80 SS316               25    EA            31.46        786.50
+2     FIT-259367      FLANGE WN 3IN ###                         2     EA            20.64         41.28
+------------------------------------------------------------------------------------------------
+Terms: contract pricing applies.
+END OF QUOTATION

@@ -1,0 +1,11 @@
+QUOTATION
+Quotation No: Q-100117
+Vendor: V-00007
+Currency: USD
+
+LINE  CODE            DESCRIPTION                               QTY   UNIT     UNIT_PRICE        AMOUNT
+------------------------------------------------------------------------------------------------
+1     INS-231587      FLOW METER DN5 ###                        1     EA           278.67        278.67
+------------------------------------------------------------------------------------------------
+Terms: contract pricing applies.
+END OF QUOTATION

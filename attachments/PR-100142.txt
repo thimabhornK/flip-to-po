@@ -1,0 +1,12 @@
+QUOTATION
+Quotation No: Q-100142
+Vendor: V-00007
+Currency: USD
+
+LINE  CODE            DESCRIPTION                               QTY   UNIT     UNIT_PRICE        AMOUNT
+------------------------------------------------------------------------------------------------
+1     FIT-796414      ELBOW 90DEG 2IN SCH40 CS                  50    EA            38.07       1903.50
+2     VLV-258176      CHECK VALVE 2IN 150LB CS                  100   EA            91.64      9,164.00
+------------------------------------------------------------------------------------------------
+Terms: contract pricing applies.
+END OF QUOTATION

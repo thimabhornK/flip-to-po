@@ -1,0 +1,11 @@
+QUOTATION
+Quotation No: Q-100111
+Vendor: V-00011
+Currency: USD
+
+LINE  CODE            DESCRIPTION                               QTY   UNIT     UNIT_PRICE        AMOUNT
+------------------------------------------------------------------------------------------------
+1     INS-660559      TEMP TRANSMITTER DN50 ELECTROMAG          25    EA           217.17      5,429.25
+------------------------------------------------------------------------------------------------
+Terms: contract pricing applies.
+END OF QUOTATION

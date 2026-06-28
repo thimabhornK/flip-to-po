@@ -1,0 +1,12 @@
+QUOTATION
+Quotation No: Q-100139
+Vendor: V-00005
+Currency: USD
+
+LINE  CODE            DESCRIPTION                               QTY   UNIT     UNIT_PRICE        AMOUNT
+------------------------------------------------------------------------------------------------
+1     VLV-538485      GATE VALVE 3IN 300LB SS316                1     EA            93.39         80.50
+2     INS-375509      TEMP TRANSMITTER ###                      50    EA           149.38      7,469.00
+------------------------------------------------------------------------------------------------
+Terms: contract pricing applies.
+END OF QUOTATION

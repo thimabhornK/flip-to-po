@@ -1,0 +1,11 @@
+QUOTATION
+Quotation No: Q-100119
+Vendor: V-00008
+Currency: USD
+
+LINE  CODE            DESCRIPTION                               QTY   UNIT     UNIT_PRICE        AMOUNT
+------------------------------------------------------------------------------------------------
+1     FIT-424646      FLANGE WN 3IN ###                         100   EA            37.64      3,764.00
+------------------------------------------------------------------------------------------------
+Terms: contract pricing applies.
+END OF QUOTATION

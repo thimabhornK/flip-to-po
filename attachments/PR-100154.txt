@@ -1,0 +1,12 @@
+QUOTATION
+Quotation No: Q-100154
+Vendor: V-00002
+Currency: USD
+
+LINE  CODE            DESCRIPTION                               QTY   UNIT     UNIT_PRICE        AMOUNT
+------------------------------------------------------------------------------------------------
+1     INS-660159      TEMP TRANSMITTER DN50 ELECTROMAG          50    EA           218.08     10,904.00
+2     INS-231587      FLOW METER DN50 ELECTROMAG                10    EA           279.85      2,798.50
+------------------------------------------------------------------------------------------------
+Terms: contract pricing applies.
+END OF QUOTATION

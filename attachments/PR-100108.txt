@@ -1,0 +1,12 @@
+QUOTATION
+Quotation No: Q-100108
+Vendor: V-00012
+Currency: USD
+
+LINE  CODE            DESCRIPTION                               QTY   UNIT     UNIT_PRICE        AMOUNT
+------------------------------------------------------------------------------------------------
+1     MRO-472834      NITRILE GLOVES L 100PCS                   1     BOX           31.07         31.07
+2     PMP-517225      GEAR PUMP 10HP 120GPM                     10    EA         1,702.69     17,026.90
+------------------------------------------------------------------------------------------------
+Terms: contract pricing applies.
+END OF QUOTATION

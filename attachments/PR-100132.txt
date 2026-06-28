@@ -1,0 +1,11 @@
+QUOTATION
+Quotation No: Q-100132
+Vendor: V-00006
+Currency: USD
+
+LINE  CODE            DESCRIPTION                               QTY   UNIT     UNIT_PRICE        AMOUNT
+------------------------------------------------------------------------------------------------
+1     VLV-251262      GATE VALVE 1IN 600LB CS                   2     EA           143.99        287.98
+------------------------------------------------------------------------------------------------
+Terms: contract pricing applies.
+END OF QUOTATION

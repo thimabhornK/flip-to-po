@@ -1,0 +1,12 @@
+QUOTATION
+Quotation No: Q-100145
+Vendor: V-00008
+Currency: USD
+
+LINE  CODE            DESCRIPTION                               QTY   UNIT     UNIT_PRICE        AMOUNT
+------------------------------------------------------------------------------------------------
+1     PMP-243577      GEAR PUMP 2HP 20GPM                       25    EA          2143.05      53576.25
+2     INS-375509      TEMP TRANSMITTER 0-10BAR 2.5IN            10    EA           152.85      1,899.76
+------------------------------------------------------------------------------------------------
+Terms: contract pricing applies.
+END OF QUOTATION

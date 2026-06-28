@@ -1,0 +1,13 @@
+QUOTATION
+Quotation No: Q-100100
+Vendor: V-00010
+Currency: USD
+
+LINE  CODE            DESCRIPTION                               QTY   UNIT     UNIT_PRICE        AMOUNT
+------------------------------------------------------------------------------------------------
+1     MRO-653918      CABLE TIE CLEAR ANTIFOG                   1     BOX           29.18         29.18
+2     INS-519894      PRESSURE GAUGE 0-10BAR 2.5IN              5     EA           137.18        685.90
+3     CHM-318054      ACTIVATED CARBON 98PCT 30KG               2     KG             5.01         10.02
+------------------------------------------------------------------------------------------------
+Terms: contract pricing applies.
+END OF QUOTATION

@@ -1,0 +1,11 @@
+QUOTATION
+Quotation No: Q-100158
+Vendor: V-00012
+Currency: USD
+
+LINE  CODE            DESCRIPTION                               QTY   UNIT     UNIT_PRICE        AMOUNT
+------------------------------------------------------------------------------------------------
+1     FIT-958105      REDUCER CONC 3IN SCH80 SS316              1     EA            36.97         36.97
+------------------------------------------------------------------------------------------------
+Terms: contract pricing applies.
+END OF QUOTATION

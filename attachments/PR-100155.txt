@@ -1,0 +1,12 @@
+QUOTATION
+Quotation No: Q-100155
+Vendor: V-00001
+Currency: USD
+
+LINE  CODE            DESCRIPTION                               QTY   UNIT     UNIT_PRICE        AMOUNT
+------------------------------------------------------------------------------------------------
+1     MRO-373799      CABLE TIE CLEAR ANTIFOG                   5     BOX           22.36        111.80
+2     INS-660559      TEMP TRANSMITTER ###                      5     EA           217.68      1,088.40
+------------------------------------------------------------------------------------------------
+Terms: contract pricing applies.
+END OF QUOTATION

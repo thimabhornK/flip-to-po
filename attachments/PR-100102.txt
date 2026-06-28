@@ -1,0 +1,11 @@
+QUOTATION
+Quotation No: Q-100102
+Vendor: V-00007
+Currency: USD
+
+LINE  CODE            DESCRIPTION                               QTY   UNIT     UNIT_PRICE        AMOUNT
+------------------------------------------------------------------------------------------------
+1     PMP-517225      GEAR PUMP 10HP 120GPM                     1     FA         1,699.93      1,699.93
+------------------------------------------------------------------------------------------------
+Terms: contract pricing applies.
+END OF QUOTATION

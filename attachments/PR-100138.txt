@@ -1,0 +1,12 @@
+QUOTATION
+Quotation No: Q-100138
+Vendor: V-00005
+Currency: USD
+
+LINE  CODE            DESCRIPTION                               QTY   UNIT     UNIT_PRICE        AMOUNT
+------------------------------------------------------------------------------------------------
+1     GSK-185831      FLAT GASKET 3IN 300LB GRAPHITE            10    EA            40.99        409.90
+2     VLV-258176      CHECK VALVE 2IN 150LB CS                  25    EA            92.24      2,306.00
+------------------------------------------------------------------------------------------------
+Terms: contract pricing applies.
+END OF QUOTATION

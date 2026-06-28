@@ -1,0 +1,12 @@
+QUOTATION
+Quotation No: Q-100116
+Vendor: V-00006
+Currency: USD
+
+LINE  CODE            DESCRIPTION                               QTY   UNIT     UNIT_PRICE        AMOUNT
+------------------------------------------------------------------------------------------------
+1     INS-786782      FLOW METER DN50 ELECTROMAG                10    EA           135.37       1353.70
+2     FIT-472735      TEE EQUAL 1IN SCH40 CS                    5     EA            22.47        112.35
+------------------------------------------------------------------------------------------------
+Terms: contract pricing applies.
+END OF QUOTATION

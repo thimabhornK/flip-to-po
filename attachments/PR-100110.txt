@@ -1,0 +1,13 @@
+QUOTATION
+Quotation No: Q-100110
+Vendor: V-00011
+Currency: USD
+
+LINE  CODE            DESCRIPTION                               QTY   UNIT     UNIT_PRICE        AMOUNT
+------------------------------------------------------------------------------------------------
+1     MRO-653918      CABLE TIE CLEAR ANTIFOG                   100   BOX           28.94      2,894.00
+2     MRO-373799      CABLE TIE CLEAR ANTIFOG                   50    BOX           20.85       1042.50
+3     CHM-318054      ACTIVATED CARBON 98PCT 30KG               50    KG             4.99        249.50
+------------------------------------------------------------------------------------------------
+Terms: contract pricing applies.
+END OF QUOTATION

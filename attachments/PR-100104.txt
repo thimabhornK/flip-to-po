@@ -1,0 +1,12 @@
+QUOTATION
+Quotation No: Q-100104
+Vendor: V-00001
+Currency: USD
+
+LINE  CODE            DESCRIPTION                               QTY   UNIT     UNIT_PRICE        AMOUNT
+------------------------------------------------------------------------------------------------
+1     VLV-658176      CHECK VALVE 2IN 150LB CS                  1     EA            91.47         91.47
+2     MRO-47Z834      NITRILE GLOVES L 100PCS                   2     BOX           30.89         61.78
+------------------------------------------------------------------------------------------------
+Terms: contract pricing applies.
+END OF QUOTATION

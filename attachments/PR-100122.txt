@@ -1,0 +1,12 @@
+QUOTATION
+Quotation No: Q-100122
+Vendor: V-00009
+Currency: USD
+
+LINE  CODE            DESCRIPTION                               QTY   UNIT     UNIT_PRICE        AMOUNT
+------------------------------------------------------------------------------------------------
+1     MRO-373799      CABLE TIE CLEAR ANTIFOG                   5     BOX           22.35        111.75
+2     PMP-535469      GEAR PUMP 2HP 20GPM                       2     EA          3291.14       6582.28
+------------------------------------------------------------------------------------------------
+Terms: contract pricing applies.
+END OF QUOTATION

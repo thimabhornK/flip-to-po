@@ -1,0 +1,12 @@
+QUOTATION
+Quotation No: Q-100150
+Vendor: V-00005
+Currency: USD
+
+LINE  CODE            DESCRIPTION                               QTY   UNIT     UNIT_PRICE        AMOUNT
+------------------------------------------------------------------------------------------------
+1     FIT-259367      FLANGE WN 3IN SCH80 SS316                 5     EA            21.09        105.45
+2     PMP-571007      GEAR PUMP 2HP 20GPM                       50    EA         2,132.34    106,617.00
+------------------------------------------------------------------------------------------------
+Terms: contract pricing applies.
+END OF QUOTATION

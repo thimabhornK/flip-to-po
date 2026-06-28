@@ -1,0 +1,11 @@
+QUOTATION
+Quotation No: Q-100153
+Vendor: V-00001
+Currency: USD
+
+LINE  CODE            DESCRIPTION                               QTY   UNIT     UNIT_PRICE        AMOUNT
+------------------------------------------------------------------------------------------------
+1     VLV-761259      GATE VALVE 4IN 150LB SS304                5     EA            89.25        446.25
+------------------------------------------------------------------------------------------------
+Terms: contract pricing applies.
+END OF QUOTATION

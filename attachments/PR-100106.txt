@@ -1,0 +1,11 @@
+QUOTATION
+Quotation No: Q-100106
+Vendor: V-00004
+Currency: USD
+
+LINE  CODE            DESCRIPTION                               QTY   UNIT     UNIT_PRICE        AMOUNT
+------------------------------------------------------------------------------------------------
+1     MRO-595179      CABLE TIE CLEAR ANTIFOG                   2     BOX           29.06         58.12
+------------------------------------------------------------------------------------------------
+Terms: contract pricing applies.
+END OF QUOTATION

@@ -1,0 +1,12 @@
+QUOTATION
+Quotation No: Q-100141
+Vendor: V-00003
+Currency: USD
+
+LINE  CODE            DESCRIPTION                               QTY   UNIT     UNIT_PRICE        AMOUNT
+------------------------------------------------------------------------------------------------
+1     MRO-472834      NITRILE GLOVES L 100PCS                   2     BOX           30.35         60.70
+2     INS-786782      FLOW METER DN50 ELECTROMAG                5     EA           135.13        791.50
+------------------------------------------------------------------------------------------------
+Terms: contract pricing applies.
+END OF QUOTATION
